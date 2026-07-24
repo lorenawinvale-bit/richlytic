@@ -1,0 +1,54 @@
+<section class="hero-featured">
+  <div class="container">
+    <div class="hero-card">
+      <img src="<%= featured.image %>" alt="<%= featured.title %>">
+      <div>
+        <span class="eyebrow">Featured Article</span>
+        <h1 class="hero-title"><a href="/<%= featured.slug %>"><%= featured.title %></a></h1>
+        <div class="net-worth-badge">
+          <span class="label">Net Worth</span>
+          <span class="value"><%= featured.netWorth %></span>
+        </div>
+        <p class="excerpt"><%= featured.excerpt %></p>
+        <a href="/<%= featured.slug %>" class="btn">Read Full Story &rarr;</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="container">
+  <h2 class="section-title">Latest Articles</h2>
+  <% if (latest.length) { %>
+    <div class="article-grid">
+      <% latest.forEach(function(a) { %>
+        <a href="/<%= a.slug %>" class="article-card">
+          <img src="<%= a.image %>" alt="<%= a.title %>">
+          <div class="article-card-body">
+            <span class="card-worth"><%= a.netWorth %></span>
+            <h3><%= a.title %></h3>
+            <p><%= a.excerpt %></p>
+          </div>
+        </a>
+      <% }); %>
+    </div>
+  <% } else { %>
+    <p style="color:var(--text-dim);">More articles coming soon.</p>
+  <% } %>
+</section>
+
+<section class="newsletter">
+  <div class="container newsletter-inner">
+    <div>
+      <h2 style="font-family:var(--font-serif); font-size:1.4rem; margin:0 0 6px;">Receive the latest articles in your inbox</h2>
+      <p style="color:var(--text-dim); margin:0;">New net worth breakdowns, sent when they're published — no spam.</p>
+    </div>
+    <% if (typeof subscribed !== 'undefined' && subscribed) { %>
+      <p style="color:var(--accent); font-weight:700;">Thanks — you're subscribed.</p>
+    <% } else { %>
+      <form action="/subscribe" method="POST" class="newsletter-form">
+        <input type="email" name="email" placeholder="you@email.com" required>
+        <button type="submit" class="btn">Subscribe</button>
+      </form>
+    <% } %>
+  </div>
+</section>

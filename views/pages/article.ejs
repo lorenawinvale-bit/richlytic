@@ -1,0 +1,65 @@
+<script type="application/ld+json">
+  <%- JSON.stringify({
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: article.title,
+    description: article.metaDescription || article.excerpt,
+    image: site.baseUrl + article.image,
+    datePublished: article.date,
+    author: { '@type': 'Organization', name: article.author },
+    publisher: { '@type': 'Organization', name: site.name, url: site.baseUrl },
+    mainEntityOfPage: site.baseUrl + '/' + article.slug
+  }) %>
+</script>
+<% if (article.faqs && article.faqs.length) { %>
+<script type="application/ld+json">
+  <%- JSON.stringify({
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: article.faqs.map(function(f) {
+      return { '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } };
+    })
+  }) %>
+</script>
+<% } %>
+
+<section class="article-hero">
+  <div class="container">
+    <nav class="breadcrumb">
+      <a href="/">Home</a> &rsaquo; <a href="/net-worth">Net Worth</a> &rsaquo; <%= article.title %>
+    </nav>
+    <h1 class="article-title"><%= article.title %></h1>
+    <div class="article-meta">
+      <span><%= article.author %></span>
+      <span>&middot;</span>
+      <span><%= article.date %></span>
+      <span>&middot;</span>
+      <span><%= readMinutes %> min read</span>
+    </div>
+    <img src="<%= article.image %>" alt="<%= article.title %>" class="article-cover">
+  </div>
+</section>
+
+<div class="container">
+  <article class="article-body">
+    <%- article.content %>
+  </article>
+</div>
+
+<% if (related.length) { %>
+<section class="container">
+  <h2 class="section-title">Related Profiles</h2>
+  <div class="article-grid">
+    <% related.forEach(function(a) { %>
+      <a href="/<%= a.slug %>" class="article-card">
+        <img src="<%= a.image %>" alt="<%= a.title %>">
+        <div class="article-card-body">
+          <span class="card-worth"><%= a.netWorth %></span>
+          <h3><%= a.title %></h3>
+          <p><%= a.excerpt %></p>
+        </div>
+      </a>
+    <% }); %>
+  </div>
+</section>
+<% } %>
