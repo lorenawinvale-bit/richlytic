@@ -2,8 +2,8 @@
   <span class="eyebrow"><%= categoryName %></span>
   <h1 style="font-family:var(--font-serif); font-size:2rem; margin:12px 0 32px;">Net Worth Articles</h1>
   <div class="article-grid">
-    <% articles.forEach(function(a) { %>
-      <a href="/<%= a.slug %>" class="article-card">
+    <% articles.forEach(function(a, i) { %>
+      <a href="/<%= a.slug %>" class="article-card reveal reveal-stagger" style="--reveal-index: <%= i %>;">
         <img src="<%= a.image %>" alt="<%= a.title %>">
         <div class="article-card-body">
           <span class="card-worth"><%= a.netWorth %></span>

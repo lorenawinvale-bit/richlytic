@@ -1,11 +1,26 @@
 <header class="site-header">
   <div class="container">
-    <a href="/" class="logo">Rich<span class="dot">lytic</span></a>
-    <nav class="main-nav">
+    <a href="/" class="logo"><img src="/images/richlytic-logo.svg" alt="" width="28" height="28" class="logo-mark">Rich<span class="dot">lytic</span></a>
+    <nav class="main-nav" id="main-nav">
       <a href="/" class="<%= currentPath === '/' ? 'active' : '' %>">Home</a>
       <a href="/net-worth" class="<%= currentPath === '/net-worth' ? 'active' : '' %>">Net Worth</a>
       <a href="/about-us" class="<%= currentPath === '/about-us' ? 'active' : '' %>">About Us</a>
       <a href="/contact-us" class="<%= currentPath === '/contact-us' ? 'active' : '' %>">Contact Us</a>
     </nav>
+    <button type="button" class="nav-toggle" id="nav-toggle" aria-label="Toggle menu" aria-expanded="false" aria-controls="main-nav">
+      <span></span><span></span><span></span>
+    </button>
   </div>
 </header>
+<script>
+  (function(){
+    var btn = document.getElementById('nav-toggle');
+    var nav = document.getElementById('main-nav');
+    if (!btn || !nav) return;
+    btn.addEventListener('click', function(){
+      var open = nav.classList.toggle('open');
+      btn.classList.toggle('open', open);
+      btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+    });
+  })();
+</script>

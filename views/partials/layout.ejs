@@ -5,6 +5,18 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title><%= title %></title>
   <meta name="description" content="<%= metaDescription %>">
+  <link rel="canonical" href="<%= site.baseUrl %><%= currentPath === '/' ? '' : currentPath %>">
+  <meta name="theme-color" content="#0B4D3A">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="<%= site.name %>">
+  <meta property="og:title" content="<%= title %>">
+  <meta property="og:description" content="<%= metaDescription %>">
+  <meta property="og:url" content="<%= site.baseUrl %><%= currentPath === '/' ? '' : currentPath %>">
+  <meta property="og:image" content="<%= site.baseUrl %><%= typeof article !== 'undefined' ? article.image : '/images/richlytic-logo.svg' %>">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="<%= title %>">
+  <meta name="twitter:description" content="<%= metaDescription %>">
+  <link rel="icon" type="image/svg+xml" href="/images/richlytic-logo.svg">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" media="print" onload="this.media='all'">
@@ -27,5 +39,23 @@
     <%- body %>
   </main>
   <%- include('footer') %>
+  <script>
+    (function(){
+      var items = document.querySelectorAll('.reveal');
+      if (!items.length || !('IntersectionObserver' in window)) {
+        items.forEach(function(el){ el.classList.add('is-visible'); });
+        return;
+      }
+      var io = new IntersectionObserver(function(entries){
+        entries.forEach(function(entry){
+          if (entry.isIntersecting) {
+            entry.target.classList.add('is-visible');
+            io.unobserve(entry.target);
+          }
+        });
+      }, { threshold: 0.15 });
+      items.forEach(function(el){ io.observe(el); });
+    })();
+  </script>
 </body>
 </html>
