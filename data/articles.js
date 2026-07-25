@@ -9,6 +9,7 @@ module.exports = [
     author: 'Richlytic Editorial',
     netWorth: '$10M - $51M (unverified)',
     profession: 'Entrepreneur, Venture Capitalist, Author, Podcast Host',
+    category: 'entrepreneurs',
     image: '/images/articles/john-cerasani-photo.jpg',
     faqs: [
       { q: "What is John Cerasani's net worth?", a: "There's no confirmed figure. Estimates range widely, from $10-20 million on some sites to $50-51 million on others, with no source citing a tax filing, court record, or company disclosure behind any of these numbers." },
@@ -120,6 +121,7 @@ module.exports = [
     author: 'Richlytic Editorial',
     netWorth: '$10M - $50M (unverified)',
     profession: 'Commercial Real Estate Advisor, Managing Director at Wyman Street Advisors',
+    category: 'real-estate',
     image: '/images/articles/chip-batchelder-photo.jpg',
     faqs: [
       { q: "What is Chip Batchelder's net worth?", a: "There's no confirmed figure. Online estimates range from $10 million to $50 million, with one commonly repeated figure of $20 million, but none of these are sourced to any tax filing, court record, or company disclosure. Wyman Street Advisors is privately held, so there's no public financial data to check these numbers against." },
@@ -227,6 +229,7 @@ module.exports = [
     author: 'Richlytic Editorial',
     netWorth: '$650K (disclosed) - $8M (estimated)',
     profession: 'Author, Investor, Partner at The Collaborative Fund',
+    category: 'authors-investors',
     image: '/images/articles/morgan-housel-photo.jpg',
     faqs: [
       { q: "What is Morgan Housel's net worth?", a: "It depends on what's being counted. His disclosed Markel Group stock holdings (roughly 330 shares) are worth around $641,000-$650,000 as of 2026 public filings. Broader estimates that factor in book royalties and his Collaborative Fund partnership range from $5 million to $8 million, but those figures are not independently verified." },
@@ -339,6 +342,7 @@ module.exports = [
     author: 'Richlytic Editorial',
     netWorth: '$45M - $150M',
     profession: 'Entrepreneur, Founder of RAW Rolling Papers',
+    category: 'entrepreneurs',
     image: '/images/articles/josh-kesselman-raw-papers.jpg',
     faqs: [
       { q: "What is Josh Kesselman's net worth?", a: "There's no confirmed figure. Estimates vary widely, from around $45 million on some sites to $100-150 million on others, while Forbes has described the RAW brand itself as being worth roughly $200 million. None of these numbers are independently verified, since Kesselman's companies are privately held." },
@@ -459,6 +463,7 @@ module.exports = [
     author: 'Richlytic Editorial',
     netWorth: '$1.5M - $10M',
     profession: 'Attorney, Media Entrepreneur',
+    category: 'legal-media',
     image: '/images/articles/ben-meiselas-photo.jpg',
     faqs: [
       { q: "What is Ben Meiselas's net worth?", a: "There's no confirmed figure. Third-party estimates range from about $1.5 million to $10 million, but none are independently verified." },

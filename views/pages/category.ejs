@@ -1,6 +1,15 @@
 <div class="container" style="padding-top:40px;">
   <span class="eyebrow"><%= categoryName %></span>
-  <h1 style="font-family:var(--font-serif); font-size:2rem; margin:12px 0 32px;">Net Worth Articles</h1>
+  <h1 style="font-family:var(--font-serif); font-size:2rem; margin:12px 0 24px;">Net Worth Articles</h1>
+
+  <div class="category-pills">
+    <a href="/net-worth" class="category-pill <%= !activeCategory ? 'active' : '' %>">All</a>
+    <% categories.forEach(function(c) { %>
+      <a href="/net-worth/<%= c.slug %>" class="category-pill <%= activeCategory === c.slug ? 'active' : '' %>"><%= c.name %></a>
+    <% }); %>
+  </div>
+
+  <% if (articles.length) { %>
   <div class="article-grid">
     <% articles.forEach(function(a, i) { %>
       <a href="/<%= a.slug %>" class="article-card reveal reveal-stagger" style="--reveal-index: <%= i %>;">
@@ -13,4 +22,7 @@
       </a>
     <% }); %>
   </div>
+  <% } else { %>
+    <p style="color:var(--text-dim); padding: 40px 0;">No articles in this category yet.</p>
+  <% } %>
 </div>

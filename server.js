@@ -5,6 +5,7 @@ require('dotenv').config();
 
 const site = require('./data/site');
 const articles = require('./data/articles');
+const categories = require('./data/categories');
 
 const app = express();
 const PORT = process.env.PORT || 3001;
@@ -25,8 +26,9 @@ app.use((req, res, next) => {
 
 app.get('/sitemap.xml', (req, res) => {
   const staticPaths = ['/', '/net-worth', '/about-us', '/contact-us', '/terms-and-conditions', '/privacy-policy'];
+  const categoryPaths = categories.map(c => `/net-worth/${c.slug}`);
   const articlePaths = articles.map(a => `/${a.slug}`);
-  const urls = [...staticPaths, ...articlePaths];
+  const urls = [...staticPaths, ...categoryPaths, ...articlePaths];
 
   const xml = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
@@ -65,7 +67,23 @@ app.get('/net-worth', (req, res) => {
     title: `Net Worth Articles | ${site.name}`,
     metaDescription: `Browse verified net worth estimates for celebrities and public figures on ${site.name}.`,
     categoryName: 'Net Worth',
+    categories,
+    activeCategory: null,
     articles
+  });
+});
+
+app.get('/net-worth/:categorySlug', (req, res, next) => {
+  const category = categories.find(c => c.slug === req.params.categorySlug);
+  if (!category) return next();
+  const filtered = articles.filter(a => a.category === category.slug);
+  res.render('pages/category', {
+    title: `${category.name} Net Worth | ${site.name}`,
+    metaDescription: category.description,
+    categoryName: category.name,
+    categories,
+    activeCategory: category.slug,
+    articles: filtered
   });
 });
 
