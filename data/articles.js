@@ -1,5 +1,117 @@
 module.exports = [
   {
+    slug: 'morgan-housel-net-worth-2026',
+    title: 'Morgan Housel Net Worth 2026: Author, Investor & Verified Facts',
+    seoTitle: 'Morgan Housel Net Worth 2026: Psychology of Money Author, Collaborative Fund & Markel',
+    excerpt: "Morgan Housel net worth 2026: disclosed Markel stock puts his verifiable holdings near $650,000, while broader estimates (factoring book royalties) reach $5-8 million. Here's what's actually documented.",
+    metaDescription: "Morgan Housel net worth 2026: how the Psychology of Money author built his career at The Motley Fool, The Collaborative Fund, and Markel's board — and why net worth estimates vary so widely.",
+    date: '2026-07-25',
+    author: 'Richlytic Editorial',
+    netWorth: '$650K (disclosed) - $8M (estimated)',
+    profession: 'Author, Investor, Partner at The Collaborative Fund',
+    image: '/images/articles/morgan-housel-photo.jpg',
+    faqs: [
+      { q: "What is Morgan Housel's net worth?", a: "It depends on what's being counted. His disclosed Markel Group stock holdings (roughly 330 shares) are worth around $641,000-$650,000 as of 2026 public filings. Broader estimates that factor in book royalties and his Collaborative Fund partnership range from $5 million to $8 million, but those figures are not independently verified." },
+      { q: 'How does Morgan Housel make his money?', a: "Primarily through his partnership at The Collaborative Fund, royalties from his bestselling books (especially The Psychology of Money), speaking engagements, and his board seat at Markel Group, which he holds stock in." },
+      { q: 'What is Morgan Housel best known for writing?', a: '"The Psychology of Money" (2020), which has sold several million copies and been translated into more than 50 languages, and "Same as Ever: A Guide to What Never Changes" (2023).' },
+      { q: 'Did Morgan Housel work at The Motley Fool?', a: 'Yes. He was a columnist and senior analyst at The Motley Fool from 2007 to 2016, while also contributing to the Wall Street Journal.' },
+      { q: 'When did Morgan Housel join The Collaborative Fund?', a: 'In 2016, as a partner at the venture capital firm, which focuses on companies working in sustainability, health, and civic innovation.' },
+      { q: 'Is Morgan Housel on any public company boards?', a: "Yes. He joined Markel Group's board of directors effective November 16, 2021, and his stock ownership in the company is publicly disclosed through SEC filings." },
+      { q: 'Has Morgan Housel won any journalism awards?', a: "He's a two-time finalist for the Gerald Loeb Award for Distinguished Business and Financial Journalism, a two-time winner of the SABEW Best in Business Award, and a winner of the New York Times Sidney Award." },
+      { q: 'Why do net worth estimates for Morgan Housel vary so much?', a: "Because most of his income sources — Collaborative Fund partnership earnings, book royalty splits, speaking fees — are private. Only his Markel Group stock ownership is a matter of public record, which is why estimates that include his other income swing so much higher." }
+    ],
+    content: `
+<p>Search "Morgan Housel net worth" and you'll find one of the widest spreads in the personal-finance-writer category: some sites cite a verified-sounding $641,718, others estimate $5 million to $8 million. Both numbers are technically defensible, because they're measuring different things. Here's what's actually documented about the man who wrote one of the bestselling personal finance books of the last decade — and why his case is a genuinely useful example of how net worth estimates get built.</p>
+
+<div class="quick-facts">
+  <h2>Quick Facts</h2>
+  <div class="quick-facts-scroll">
+  <table>
+    <tr><td>Full Name</td><td>Morgan Housel</td></tr>
+    <tr><td>Education</td><td>B.A. in Economics, University of Southern California</td></tr>
+    <tr><td>Profession</td><td>Author, financial writer, investor</td></tr>
+    <tr><td>Early Career</td><td>Columnist &amp; senior analyst, The Motley Fool (2007&ndash;2016)</td></tr>
+    <tr><td>Current Role</td><td>Partner, The Collaborative Fund (since 2016)</td></tr>
+    <tr><td>Board Seat</td><td>Director, Markel Group (since November 2021)</td></tr>
+    <tr><td>Best-Known Books</td><td>The Psychology of Money (2020), Same as Ever (2023)</td></tr>
+    <tr><td>Disclosed Net Worth (Markel stock only)</td><td>~$641,000&ndash;$650,000</td></tr>
+    <tr><td>Broader Estimated Net Worth</td><td>$5 million&ndash;$8 million, depending on source</td></tr>
+    <tr><td>Primary Income Sources</td><td>Book royalties, Collaborative Fund partnership, speaking fees, Markel stock</td></tr>
+  </table>
+  </div>
+</div>
+
+<h2>Morgan Housel Net Worth: The Short Answer</h2>
+<p>Morgan Housel is an unusual net worth subject because a slice of his wealth is actually a matter of public record. As a director of Markel Group, a publicly traded Fortune 500 company, his stock ownership — roughly 330 shares — is disclosed through SEC filings and tracked by financial data sites like GuruFocus, putting that specific holding at somewhere around $641,000 to $650,000.</p>
+<p>What isn't disclosed is everything else: his cut of Collaborative Fund's returns as a partner, his royalty split on a book that's sold several million copies across more than 50 languages, and his speaking fees. Sites that fold all of that in land on estimates in the $5 million to $8 million range. Both figures are "true" in a narrow sense — they're just answering different questions.</p>
+
+<h2>From USC Economics to The Motley Fool</h2>
+<p>Housel earned a Bachelor of Arts in Economics from the University of Southern California. His financial writing career started early and stayed remarkably consistent: beginning in 2007, while still in school, he became a columnist for The Motley Fool, the investing media company known for its retail-investor-focused commentary. He stayed there in a columnist and senior analyst capacity for nearly a decade, until 2016, while also contributing financial columns to the Wall Street Journal during the same stretch.</p>
+<p>That decade at the Fool is where Housel developed the writing style he's now known for — plain-language explanations of behavioral finance concepts, built around stories rather than spreadsheets. It's a style that translated directly into his later book success, and one that's genuinely rare in a field that often rewards jargon over clarity.</p>
+<p>Financial journalism, even at a well-regarded outlet like the Fool, isn't typically a path to significant personal wealth on its own — columnist and analyst salaries in that space are respectable but far from the kind of income that generates seven- or eight-figure estimates. This matters for the net worth conversation, because it means whatever wealth Housel built in this early period was almost certainly modest, and the bulk of anything approaching the higher-end estimates had to come later, from the Collaborative Fund partnership and the book royalties that followed.</p>
+
+<h2>The Collaborative Fund: A Different Kind of Career Move</h2>
+<p>In 2016, Housel left full-time financial journalism to become a partner at The Collaborative Fund, a venture capital firm investing in companies focused on sustainability, health, and civic innovation. It's a meaningfully different role from column-writing — venture partners typically earn through a combination of management fees and carried interest (a share of fund profits), neither of which is publicly disclosed for privately held funds like Collaborative Fund.</p>
+<p>This move is a big part of why net worth estimates for Housel vary so widely: a successful venture partner's actual take-home can swing enormously year to year based on fund performance and exits, and none of that shows up in any public filing the way his Markel stock does.</p>
+<p>Collaborative Fund's portfolio has included companies across consumer products, climate technology, and media — a broader mandate than a typical single-sector VC firm. Because the firm is privately held and doesn't publicly report fund size, returns, or partner compensation structures, there's no way to independently estimate what Housel's share of any given fund's carried interest actually amounts to. That opacity is standard across the venture capital industry, not unique to Collaborative Fund, but it's exactly the kind of income source that net worth sites either ignore entirely or wildly guess at.</p>
+
+<h2>The Psychology of Money: The Book That Changed the Math</h2>
+<p>Housel's breakout project was "The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness," published in September 2020. The book reached the New York Times bestseller list and has gone on to sell several million copies, with translations into more than 50 languages — a scale of commercial success that's rare for a personal finance title, most of which sell modestly even when well-reviewed.</p>
+<p>Book royalties for a title selling in the millions of copies internationally can plausibly run into the seven figures over several years, though the exact split Housel receives (his royalty rate, foreign rights deals, and audiobook revenue) isn't public. This is the single biggest reason estimates including "book income" land so much higher than estimates based purely on his disclosed stock.</p>
+<p>In November 2023, Housel followed up with "Same as Ever: A Guide to What Never Changes," a collection of 24 short essays about the parts of human behavior, business, and risk that don't change over time — extending the same accessible-storytelling approach that made his first book successful.</p>
+<p>Together, the two books have turned Housel into one of the more in-demand speakers in the finance and business world, a role that itself generates income through corporate keynotes and conference appearances. Speaking fees for authors at his level of visibility can range widely, from the low five figures to well into six figures per appearance depending on the venue and audience, but as with his other private income streams, no specific figures for Housel have been publicly disclosed.</p>
+<p>Both books have also had an unusually long shelf life for the category. Personal finance titles often see a sales spike around release and then fade quickly, but "The Psychology of Money" has continued selling steadily years after its 2020 publication, partly through word-of-mouth recommendations and partly through Housel's continued visibility via essays, interviews, and his Collaborative Fund platform. That kind of sustained "backlist" sales performance is generally more valuable to an author's long-term royalty income than an initial bestseller spike, even though it rarely makes headlines the way a launch-week ranking does.</p>
+
+<h2>Joining Markel's Board: The One Verifiable Data Point</h2>
+<p>Effective November 16, 2021, Housel was appointed to the board of directors of <a href="https://www.markel.com/about-us/news-and-press/morgan-housel-joins-markels-board-of-directors-17066" target="_blank" rel="nofollow noopener">Markel Group</a>, the Fortune 500 insurance and investment holding company. Because Markel is publicly traded, board members' stock holdings are disclosed as a matter of securities law — which is why Housel is one of relatively few net worth profile subjects where at least part of the number is independently checkable rather than estimated.</p>
+<p><a href="https://www.gurufocus.com/insider/168558/morgan-e.-housel" target="_blank" rel="nofollow noopener">Insider trading data</a> shows Housel holding approximately 330 shares of Markel Group stock, worth roughly $641,000 based on recent pricing. That figure is a floor, not a ceiling — it says nothing about his cash compensation as a director, his Collaborative Fund earnings, or his book income, but it's a genuinely solid, sourced data point in a field where most numbers are pure guesswork.</p>
+<p>Board directorships at companies the size of Markel Group also typically come with annual cash and equity retainers on top of any personally held stock, though the specific compensation structure for individual directors like Housel isn't broken out in a way that's easy to isolate from public filings. What is clear is that this appointment added a second, distinct income stream — separate from writing and from Collaborative Fund — to an already diversified portfolio of earnings.</p>
+
+<h2>Awards and Recognition</h2>
+<p>Housel's journalism work has been recognized industry-wide: he's a two-time finalist for the Gerald Loeb Award for Distinguished Business and Financial Journalism (one of the most respected honors in financial journalism), a two-time winner of the Best in Business Award from the Society of American Business Editors and Writers, and a winner of the New York Times Sidney Award. None of these translate directly into net worth, but they help explain why his books found a large audience so quickly — he had over a decade of building credibility and readership before "The Psychology of Money" ever hit shelves.</p>
+<p>That credibility is worth dwelling on, because it's a different growth path than most bestselling authors follow. Housel didn't emerge as a first-time author with a viral idea; he spent nine years building a readership through consistent, recurring financial columns, at a publication whose whole business model depended on readers trusting its writers' judgment. By the time "The Psychology of Money" was pitched to publishers, Housel already had a built-in audience and a track record that made the book's eventual success considerably less of a surprise than it might have looked from the outside.</p>
+
+<h2>How These Net Worth Estimates Actually Get Made</h2>
+<p>Housel's case is a clean illustration of a pattern we see across nearly every profile on this site. Sites that produce a low, "conservative" number are usually working only from what's disclosed — in his case, Markel stock. Sites that produce a much higher number are adding in book royalties, speaking fees, and Collaborative Fund carried interest, none of which are public, and all of which require guesswork about sales figures, royalty rates, and fund performance.</p>
+<p>Neither approach is wrong exactly, but presenting either one as a single confirmed "net worth" misses the point. A reader who only sees the $641,000 figure might reasonably conclude Housel is far less successful than his public profile suggests, since that number excludes what's likely his two largest income sources. A reader who only sees $8 million might assume that figure carries the same certainty as a disclosed stock holding, when it's really a chain of assumptions about book sales and fund performance. The most accurate description sits in between those two extremes, acknowledging both what's confirmed and what's genuinely unknowable from outside his private financial records.</p>
+<p>The honest version is: here's what's disclosed, here's what's plausible but unverified, and here's why they don't match. See our <a href="/about-us">verification standard</a> for how we handle that gap across every profile we publish. It's a similar dynamic to what we found researching <a href="/josh-kesselman-net-worth-2026">Josh Kesselman's net worth</a>, where a privately held company left almost the entire picture to estimation — Housel's case is just unusual in that a meaningful slice of his wealth actually is on the record.</p>
+<p>It's also worth being skeptical of the highest-end estimates specifically. A number like $8 million implies a fairly precise calculation, but there's no public methodology behind most of these figures beyond rough multiplication of book sales by an assumed royalty rate, plus a guess at venture capital carried interest that, by definition, can't be verified without access to Collaborative Fund's internal financials. Treating a rounded, unsourced number as more credible just because it's higher or more specific-sounding is a mistake worth avoiding here.</p>
+
+<h2>Personal Life</h2>
+<p>Housel keeps a low public profile outside of his writing and investing work, rarely appearing in general entertainment or lifestyle coverage. Most of what's publicly known about him comes through his own essays and interviews, which tend to focus on ideas rather than personal details. Browse more <a href="/net-worth">verified net worth profiles</a> of authors and investors whose wealth mixes public and private income the same way.</p>
+<p>What does come through clearly, even without personal details, is a consistent public voice: Housel's writing across his blog, his books, and his Collaborative Fund essays maintains the same measured, story-driven tone regardless of the platform, which is likely part of why his audience has stayed loyal across a career that's spanned financial journalism, venture capital, and publishing.</p>
+
+<h2>A Quick Timeline</h2>
+<div class="quick-facts">
+<div class="quick-facts-scroll">
+<table>
+  <tr><td>2007</td><td>Begins writing as a columnist for The Motley Fool while at USC</td></tr>
+  <tr><td>2007&ndash;2016</td><td>Columnist and senior analyst at The Motley Fool; also contributes to the Wall Street Journal</td></tr>
+  <tr><td>2016</td><td>Joins The Collaborative Fund as a partner</td></tr>
+  <tr><td>September 2020</td><td>Publishes "The Psychology of Money"</td></tr>
+  <tr><td>November 16, 2021</td><td>Appointed to Markel Group's board of directors</td></tr>
+  <tr><td>November 2023</td><td>Publishes "Same as Ever: A Guide to What Never Changes"</td></tr>
+</table>
+</div>
+</div>
+
+<h2>Conclusion</h2>
+<p>Morgan Housel's net worth is one of the rare cases in this space where part of the answer genuinely is on the public record — his Markel Group stock puts a real floor of roughly $641,000 on his disclosed wealth. Everything above that floor, from book royalties to Collaborative Fund carried interest, is plausible but unverifiable, which is exactly why the estimates you'll find online range from six figures to eight figures depending on the source.</p>
+<p>The more useful takeaway isn't a single number — it's understanding that Housel built his wealth through a genuinely diversified mix of writing, venture investing, and public-company board service, most of which simply isn't required to be disclosed.</p>
+
+<div class="post-faq">
+  <details><summary>What is Morgan Housel's net worth?</summary><p>It depends on what's being counted. His disclosed Markel Group stock holdings (roughly 330 shares) are worth around $641,000-$650,000 as of 2026 public filings. Broader estimates that factor in book royalties and his Collaborative Fund partnership range from $5 million to $8 million, but those figures are not independently verified.</p></details>
+  <details><summary>How does Morgan Housel make his money?</summary><p>Primarily through his partnership at The Collaborative Fund, royalties from his bestselling books (especially The Psychology of Money), speaking engagements, and his board seat at Markel Group, which he holds stock in.</p></details>
+  <details><summary>What is Morgan Housel best known for writing?</summary><p>"The Psychology of Money" (2020), which has sold several million copies and been translated into more than 50 languages, and "Same as Ever: A Guide to What Never Changes" (2023).</p></details>
+  <details><summary>Did Morgan Housel work at The Motley Fool?</summary><p>Yes. He was a columnist and senior analyst at The Motley Fool from 2007 to 2016, while also contributing to the Wall Street Journal.</p></details>
+  <details><summary>When did Morgan Housel join The Collaborative Fund?</summary><p>In 2016, as a partner at the venture capital firm, which focuses on companies working in sustainability, health, and civic innovation.</p></details>
+  <details><summary>Is Morgan Housel on any public company boards?</summary><p>Yes. He joined Markel Group's board of directors effective November 16, 2021, and his stock ownership in the company is publicly disclosed through SEC filings.</p></details>
+  <details><summary>Has Morgan Housel won any journalism awards?</summary><p>He's a two-time finalist for the Gerald Loeb Award for Distinguished Business and Financial Journalism, a two-time winner of the SABEW Best in Business Award, and a winner of the New York Times Sidney Award.</p></details>
+  <details><summary>Why do net worth estimates for Morgan Housel vary so much?</summary><p>Because most of his income sources — Collaborative Fund partnership earnings, book royalty splits, speaking fees — are private. Only his Markel Group stock ownership is a matter of public record, which is why estimates that include his other income swing so much higher.</p></details>
+</div>
+`
+  },
+  {
     slug: 'josh-kesselman-net-worth-2026',
     title: 'Josh Kesselman Net Worth 2026: The RAW Rolling Papers Story',
     seoTitle: 'Josh Kesselman Net Worth 2026: RAW Founder, HBI International & Verified Facts',
