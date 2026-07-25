@@ -3,7 +3,7 @@
     <div class="hero-card">
       <img src="<%= featured.image %>" alt="<%= featured.title %>">
       <div>
-        <span class="eyebrow">Featured Article</span>
+        <span class="eyebrow">Featured Profile</span>
         <h1 class="hero-title"><a href="/<%= featured.slug %>"><%= featured.title %></a></h1>
         <div class="net-worth-badge">
           <span class="label">Net Worth</span>
@@ -16,8 +16,52 @@
   </div>
 </section>
 
+<section class="trust-strip reveal">
+  <div class="container trust-strip-inner">
+    <div class="trust-item">
+      <span class="trust-value"><%= totalArticles %>+</span>
+      <span class="trust-label">Verified Profiles</span>
+    </div>
+    <div class="trust-item">
+      <span class="trust-value">100%</span>
+      <span class="trust-label">Sourced Facts</span>
+    </div>
+    <div class="trust-item">
+      <span class="trust-value">0</span>
+      <span class="trust-label">Guessed Numbers Presented as Fact</span>
+    </div>
+    <div class="trust-item">
+      <span class="trust-value"><%= categoriesWithCounts.length %></span>
+      <span class="trust-label">Categories Covered</span>
+    </div>
+  </div>
+</section>
+
+<section class="container category-showcase reveal">
+  <h2 class="section-title">Browse by Category</h2>
+  <div class="category-grid">
+    <% categoriesWithCounts.forEach(function(c) { %>
+      <a href="/net-worth/<%= c.slug %>" class="category-card">
+        <span class="category-card-icon">
+          <% if (c.slug === 'entrepreneurs') { %>
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M3 21h18M5 21V9l7-5 7 5v12M9 21v-6h6v6" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          <% } else if (c.slug === 'authors-investors') { %>
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20M4 4.5A2.5 2.5 0 0 1 6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15Z" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          <% } else if (c.slug === 'real-estate') { %>
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M3 21h18M5 21V7l7-4 7 4v14M9 21v-5h6v5M9 11h1M9 15h1M14 11h1M14 15h1" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          <% } else { %>
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M12 3v18M5 7h14M7 7l-3.5 7a3.5 3.5 0 0 0 7 0L7 7Zm10 0l-3.5 7a3.5 3.5 0 0 0 7 0L17 7Z" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          <% } %>
+        </span>
+        <h3><%= c.name %></h3>
+        <p><%= c.count %> profile<%= c.count === 1 ? '' : 's' %></p>
+      </a>
+    <% }); %>
+  </div>
+</section>
+
 <section class="container">
-  <h2 class="section-title">Latest Articles</h2>
+  <h2 class="section-title">Latest Profiles</h2>
   <% if (latest.length) { %>
     <div class="article-grid">
       <% latest.forEach(function(a, i) { %>
@@ -30,6 +74,9 @@
           </div>
         </a>
       <% }); %>
+    </div>
+    <div class="view-all-wrap">
+      <a href="/net-worth" class="btn-outline">View All Profiles &rarr;</a>
     </div>
   <% } else { %>
     <p style="color:var(--text-dim);">More articles coming soon.</p>

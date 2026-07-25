@@ -9,5 +9,5 @@ module.exports = {
     instagram: 'https://instagram.com/richlytic',
     linkedin: 'https://linkedin.com/company/richlytic'
   },
-  assetVersion: '2026072506'
+  assetVersion: '2026072507'
 };

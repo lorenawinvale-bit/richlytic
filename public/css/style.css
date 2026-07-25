@@ -209,6 +209,41 @@ a { color: inherit; text-decoration: none; }
 }
 .article-card p { color: var(--text-dim); font-size: 0.9rem; margin: 0; }
 
+/* Trust strip */
+.trust-strip { padding: 32px 0; border-top: 1px solid var(--ink-border); border-bottom: 1px solid var(--ink-border); background: var(--bg-alt); }
+.trust-strip-inner { display: grid; grid-template-columns: repeat(4, 1fr); gap: 24px; text-align: center; }
+.trust-item { display: flex; flex-direction: column; gap: 4px; }
+.trust-value { font-family: var(--font-serif); font-size: 2rem; font-weight: 700; color: var(--accent); }
+.trust-label { font-size: 0.85rem; color: var(--text-dim); font-weight: 600; }
+
+/* Category showcase */
+.category-showcase { margin-top: 8px; }
+.category-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; }
+.category-card {
+  background: var(--card-bg);
+  border: 1px solid var(--ink-border);
+  border-radius: var(--radius);
+  padding: 28px 22px;
+  text-align: center;
+  transition: transform 0.15s, box-shadow 0.15s, border-color 0.15s;
+}
+.category-card:hover { transform: translateY(-3px); box-shadow: var(--shadow); border-color: var(--accent); }
+.category-card-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 52px;
+  height: 52px;
+  border-radius: 50%;
+  background: var(--bg-alt);
+  color: var(--accent);
+  margin-bottom: 16px;
+}
+.category-card-icon svg { width: 26px; height: 26px; }
+.category-card h3 { font-family: var(--font-serif); font-size: 1.05rem; margin: 0 0 4px; }
+.category-card p { color: var(--text-dim); font-size: 0.85rem; margin: 0; }
+.view-all-wrap { text-align: center; margin-top: 32px; }
+
 /* Article page */
 .article-hero { padding: 40px 0 0; }
 .breadcrumb { font-size: 0.85rem; color: var(--text-dim); margin-bottom: 16px; }
@@ -297,6 +332,8 @@ a { color: inherit; text-decoration: none; }
 @media (max-width: 860px) {
   .hero-card { grid-template-columns: 1fr; }
   .article-grid { grid-template-columns: repeat(2, 1fr); }
+  .trust-strip-inner { grid-template-columns: repeat(2, 1fr); gap: 28px 16px; }
+  .category-grid { grid-template-columns: repeat(2, 1fr); }
   .main-nav {
     display: none;
     position: absolute;
@@ -318,4 +355,6 @@ a { color: inherit; text-decoration: none; }
 @media (max-width: 560px) {
   .article-grid { grid-template-columns: 1fr; }
   .hero-card h1, .hero-card h2.hero-title { font-size: 1.8rem; }
+  .category-grid { grid-template-columns: 1fr 1fr; }
+  .trust-strip-inner { grid-template-columns: 1fr 1fr; }
 }

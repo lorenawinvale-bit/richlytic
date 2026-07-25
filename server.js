@@ -52,12 +52,18 @@ app.post('/subscribe', (req, res) => {
 
 app.get('/', (req, res) => {
   const featured = articles[0];
-  const latest = articles.slice(1);
+  const latest = articles.slice(1, 4);
+  const categoriesWithCounts = categories.map(c => ({
+    ...c,
+    count: articles.filter(a => a.category === c.slug).length
+  })).filter(c => c.count > 0);
   res.render('pages/home', {
     title: `${site.name} - ${site.tagline}`,
     metaDescription: site.description,
     featured,
     latest,
+    categoriesWithCounts,
+    totalArticles: articles.length,
     subscribed: req.query.subscribed === '1'
   });
 });
