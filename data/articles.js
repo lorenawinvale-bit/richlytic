@@ -1,5 +1,116 @@
 module.exports = [
   {
+    slug: 'john-cerasani-net-worth-2026',
+    title: 'John Cerasani Net Worth 2026: Verified Career & Wealth Facts',
+    seoTitle: 'John Cerasani Net Worth 2026: Glencrest Global & Verified Facts',
+    excerpt: "John Cerasani net worth 2026: estimates range from $10 million to over $50 million. Here's what's actually documented about his insurance-brokerage exit, Glencrest Global, and his book & podcast career.",
+    metaDescription: "John Cerasani net worth 2026: how the former Notre Dame football player built and sold an insurance brokerage, then founded Glencrest Global — and why net worth estimates for him vary so widely.",
+    date: '2026-07-25',
+    author: 'Richlytic Editorial',
+    netWorth: '$10M - $51M (unverified)',
+    profession: 'Entrepreneur, Venture Capitalist, Author, Podcast Host',
+    image: '/images/articles/john-cerasani-photo.jpg',
+    faqs: [
+      { q: "What is John Cerasani's net worth?", a: "There's no confirmed figure. Estimates range widely, from $10-20 million on some sites to $50-51 million on others, with no source citing a tax filing, court record, or company disclosure behind any of these numbers." },
+      { q: 'How did John Cerasani make his money?', a: 'He built and sold an insurance brokerage business after leaving a role at Arthur J. Gallagher, reportedly exiting in his late 30s. He now earns through Glencrest Global, a venture capital firm he founded, along with book royalties, podcast revenue, and speaking engagements.' },
+      { q: 'What is Glencrest Global?', a: 'Glencrest Global is a venture capital and private lending firm founded in 2020, based in Chicago, involved in more than 30 investment deals across real estate, tech, insurance, and SaaS.' },
+      { q: 'Did John Cerasani play college football?', a: 'Yes, he played football at the University of Notre Dame and later at Northwestern University.' },
+      { q: 'What is John Cerasani\'s book "2000 Percent Raise" about?', a: "Published in April 2023, the book covers his journey from leaving a traditional job to building his own business and financial independence, and shares the title of his podcast." },
+      { q: 'Who are John Cerasani\'s business partners?', a: "Reporting on Glencrest Global names business relationships with high-profile figures including Aaron Rodgers, Kevin Garnett, Ashley Greene, and Jaleel White, though the specifics of each partnership aren't fully detailed publicly." },
+      { q: 'Did John Cerasani really retire at 37?', a: "According to his own retelling and several profiles, he sold his insurance business and stepped back from full-time work in his late 30s, before returning to build Glencrest Global not long after." },
+      { q: 'Why do net worth estimates for John Cerasani vary so much?', a: "Because his wealth is tied up in a private venture capital firm and a privately sold insurance business, neither of which discloses financials publicly. Every online estimate is built from career narrative and assumed deal values, not verified records." }
+    ],
+    content: `
+<p>Search "John Cerasani net worth" and the numbers swing wildly — some sites say $10-20 million, others put it at $50 million or more. None of them point to an actual source, because there isn't a public one to point to. Cerasani's wealth comes from a privately sold insurance brokerage and a private venture capital firm, neither of which files public financials. Here's what's actually documented about his career, and why the number is so hard to pin down.</p>
+
+<div class="quick-facts">
+  <h2>Quick Facts</h2>
+  <div class="quick-facts-scroll">
+  <table>
+    <tr><td>Full Name</td><td>John Cerasani</td></tr>
+    <tr><td>Education</td><td>University of Notre Dame; Northwestern University</td></tr>
+    <tr><td>Profession</td><td>Entrepreneur, venture capitalist, author, podcast host</td></tr>
+    <tr><td>Early Career</td><td>Consultant, Great-West Healthcare; Area VP, Arthur J. Gallagher</td></tr>
+    <tr><td>First Business Exit</td><td>Built and sold an insurance brokerage in his late 30s</td></tr>
+    <tr><td>Current Role</td><td>Founder &amp; Managing Partner, Glencrest Global (founded 2020)</td></tr>
+    <tr><td>Book</td><td>"2000 Percent Raise" (published April 2023)</td></tr>
+    <tr><td>Podcast</td><td>"2000 Percent Raise"</td></tr>
+    <tr><td>Estimated Net Worth (unverified)</td><td>$10 million&ndash;$51 million, depending on source</td></tr>
+    <tr><td>Primary Income Sources</td><td>Venture capital returns, book royalties, media &amp; speaking income</td></tr>
+  </table>
+  </div>
+</div>
+
+<h2>John Cerasani Net Worth: The Short Answer</h2>
+<p>The honest starting point is that no outside estimate of John Cerasani's net worth is independently verifiable. He isn't a public company executive, his insurance brokerage sale wasn't publicly disclosed with a sale price, and Glencrest Global, the venture capital firm he now runs, is privately held. The figures online — mostly clustered between $10 million and $51 million — come from consumer net worth sites building estimates off career narrative, business exits, and assumed venture returns, not from any filed record.</p>
+<p>That's a wide enough spread that it's worth treating every number you see as a guess rather than a fact, regardless of how confidently it's presented.</p>
+
+<h2>From Notre Dame Football to Corporate Insurance</h2>
+<p>Cerasani played football at the University of Notre Dame before continuing his athletic career at Northwestern University. That combination of major-program college football and a Chicago-area business education set up a career path that started in fairly conventional corporate roles: he worked as a consultant for Great-West Healthcare, and later served as an area vice president for Arthur J. Gallagher, one of the largest insurance brokerage firms in the country.</p>
+<p>The path from Division I college athletics into corporate sales and brokerage roles is a fairly well-worn one — the discipline, competitiveness, and relationship-building skills built through college football translate reasonably well into insurance sales, where cold outreach, client retention, and performance-based compensation reward exactly those traits. Cerasani's early career at a major brokerage like Arthur J. Gallagher would have given him direct exposure to how large-scale insurance distribution actually works, experience that plausibly shaped how he later built and eventually sold his own, smaller brokerage operation.</p>
+<p>According to his own retelling and multiple profiles, he eventually left that traditional employment path to start his own insurance brokerage. He also served as president of Northwest Comprehensive Inc. between 2005 and 2015, running the business through a full decade before its sale — a detail that suggests his eventual exit was the product of a long build rather than a quick flip.</p>
+<p>A full decade running a single insurance operation is notable in itself — it means Cerasani wasn't jumping between ventures looking for a quick exit, but building sustained client relationships and renewal revenue over years, which is generally how insurance brokerages accumulate real, sellable value in the first place. Brokerage valuations in this industry are typically built on a multiple of recurring commission revenue, so a decade-long operating history matters more to a buyer than almost any other single factor.</p>
+
+<h2>The Insurance Business Exit</h2>
+<p>Cerasani has spoken publicly about selling his insurance business and stepping back from full-time work in his late 30s, a framing that's become part of his personal brand as an author and podcast host. What isn't public is the actual sale price, deal structure, or how much of the proceeds went to Cerasani personally versus other stakeholders or the business itself — standard information that stays private in most small-to-midsize business acquisitions.</p>
+<p>This is a common pattern in entrepreneur net worth profiles: a real, documented exit event (leaving a company, selling a business) gets treated online as if it comes with a disclosed dollar figure, when in reality the "sold for millions" framing is often the entrepreneur's own retelling rather than a filed transaction record.</p>
+<p>It's also worth separating the sale proceeds from Cerasani's personal take-home. A business sale price, even if it were public, wouldn't automatically equal personal net worth — it would need to account for any co-owners, outstanding debt on the business, taxes on the sale, and how much of the proceeds were reinvested into new ventures like Glencrest Global rather than kept as personal savings. None of that breakdown is available here, which is one more reason a single "he sold for $X million" claim shouldn't be treated as equivalent to a net worth figure.</p>
+
+<h2>Glencrest Global: The Second Act</h2>
+<p>Cerasani didn't stay retired long. He founded <a href="https://glencrestglobal.com/" target="_blank" rel="nofollow noopener">Glencrest Global</a> in 2020, a Chicago-based venture capital and private lending firm, where he serves as founder and managing partner. The firm has built a reputation as an active early-stage investor, reportedly involved in more than 30 deals spanning real estate, technology, insurance, and SaaS companies.</p>
+<p>Part of Glencrest Global's public profile comes from Cerasani's business relationships with recognizable names — reporting connects him to partnerships involving Aaron Rodgers, Kevin Garnett, Ashley Greene, and Jaleel White. High-profile co-investor relationships like these can raise a firm's visibility considerably, but they don't translate into disclosed fund size, returns, or Cerasani's personal share of the firm's performance, all of which remain private.</p>
+<p>Athlete and celebrity involvement in venture funds has become increasingly common industry-wide, often functioning as much for brand credibility and deal flow as for the capital itself. Whether Cerasani's specific relationships with figures like Rodgers or Garnett involve direct co-investment, advisory roles, or simply public association with the firm isn't broken out in available reporting, which limits how much can be concluded about what those partnerships actually mean for Glencrest Global's finances or Cerasani's personal stake.</p>
+<p>See our <a href="/net-worth">net worth database</a> for other founders whose current wealth is tied up in an active venture fund rather than a publicly traded holding.</p>
+<p>Early-stage venture investing is a particularly volatile category to build a net worth estimate from, because the vast majority of a fund's paper value at any given moment is unrealized — tied up in private companies that haven't been sold or gone public yet. A fund "involved in 30-plus deals" could be sitting on enormous eventual returns, a handful of failed investments, or, most likely, some mix of both, and there's no way to know which from the outside without access to Glencrest Global's actual portfolio performance and Cerasani's specific ownership stake in the fund itself.</p>
+
+<h2>Media Career: Book, Podcast, and YouTube</h2>
+<p>Alongside his investing work, Cerasani has built a meaningful media presence. His book, <em>"2000 Percent Raise,"</em> was published in April 2023 and covers his journey from a traditional corporate job to entrepreneurship and eventual financial independence. He hosts a podcast under the same name, and runs a YouTube channel, John Cerasani TV, reported to have accumulated a substantial subscriber base.</p>
+<p>He's also been featured across broadcast outlets including FOX, NBC, WGN, and CBS, and was named to Crain's Chicago Business "40 Under 40" list earlier in his career for an event and concert promotion business he built during his time at Northwestern — an early indicator of the entrepreneurial pattern that would define the rest of his career.</p>
+<p>That Crain's recognition is worth pausing on, since it's one of the few data points in Cerasani's story that comes from an established, credible regional business publication rather than a personal-brand retelling. Crain's Chicago Business has run its "40 Under 40" list for decades as a genuine local business achievement award, and being included for a concert and event promotion business built while still a student is a meaningfully different kind of evidence than a self-reported career milestone — it suggests his entrepreneurial instincts showed up well before the insurance brokerage or Glencrest Global.</p>
+<p>Book royalties, podcast sponsorships, YouTube ad revenue, and speaking fees are all plausible income sources here, but as with his other ventures, none of them come with a public figure attached. A media presence built around a "self-made success" narrative is also, by its nature, an incentive to lean into higher-sounding wealth estimates rather than correct them — which is worth keeping in mind when reading net worth claims tied to someone actively selling a personal-brand story.</p>
+<p>It's worth noting that this media layer serves a dual purpose beyond direct revenue: it functions as a marketing engine for Glencrest Global itself. A venture capitalist with a book, a podcast, and a large YouTube following has a built-in pipeline for sourcing deals, attracting co-investors, and building the kind of personal brand that makes high-profile business partners more willing to work with him. That's a real strategic asset, even though it's not something that shows up as a line item in any net worth calculation.</p>
+
+<h2>How These Net Worth Estimates Actually Get Made</h2>
+<p>Cerasani's case follows a familiar pattern on this site: net worth sites don't have access to Glencrest Global's fund performance, the actual insurance brokerage sale price, or Cerasani's book and media earnings. Instead, they typically anchor to the "sold his business and retired at 37" narrative, add in an assumed scale for a venture firm involved in 30-plus deals, factor in visible media success (podcast, book, YouTube) as a rough signal of additional income, and round to a number that sounds proportionate to that overall story.</p>
+<p>That process produces numbers that feel plausible without being verifiable — which is exactly why estimates for Cerasani range across a roughly 5x spread from the low end to the high end. See our <a href="/about-us">verification standard</a> for how we handle that kind of gap, and how it compares to a case like <a href="/chip-batchelder-net-worth-2026">Chip Batchelder's net worth</a>, where a similarly private career leaves almost the entire number to estimation.</p>
+<p>The 5x spread itself is a useful diagnostic. When credible sources roughly agree — even within a wide band — that's usually a sign there's at least some shared underlying data point everyone is working from. When estimates for the same person differ by a factor of five with zero overlap in methodology, that's a sign the entire category is closer to speculation than analysis. Cerasani's case sits closer to the second pattern, which should lower confidence in any single number rather than average them into a "safe middle" figure.</p>
+
+<h2>What's Actually Documented About His Personal Life</h2>
+<p>Public details about Cerasani's personal life are inconsistent across the sites that cover him — some report a wife and two children, others describe him as a single parent, with conflicting names and details depending on the source. Because none of these claims trace back to an independent, verifiable report, Richlytic isn't going to repeat any specific version of them here. What's consistently documented is the professional side: the Notre Dame and Northwestern football background, the insurance industry career, the Crain's 40 Under 40 recognition, and the Glencrest Global venture capital work.</p>
+<p>This gap between well-documented professional history and murky personal details is common for entrepreneurs who've built a media-facing personal brand: the professional narrative gets repeated and reinforced across podcast appearances, interviews, and his own book, while personal life details are either left private or picked up secondhand by aggregator sites with no incentive to fact-check them against each other. When two supposedly factual sources can't even agree on whether someone is married, that's a clear sign neither one did any real verification before publishing.</p>
+<p>Browse more <a href="/net-worth">verified net worth profiles</a> of entrepreneurs whose public narrative is built heavily around a personal success story.</p>
+
+<h2>A Quick Timeline</h2>
+<div class="quick-facts">
+<div class="quick-facts-scroll">
+<table>
+  <tr><td>Notre Dame era</td><td>Plays college football at the University of Notre Dame</td></tr>
+  <tr><td>Northwestern era</td><td>Continues football career; builds a Crain's "40 Under 40" recognized concert/event promotion business</td></tr>
+  <tr><td>2005&ndash;2015</td><td>Serves as president of Northwest Comprehensive Inc.</td></tr>
+  <tr><td>Late 2010s</td><td>Sells his insurance brokerage business, steps back from full-time work</td></tr>
+  <tr><td>2020</td><td>Founds Glencrest Global as founder and managing partner</td></tr>
+  <tr><td>April 2023</td><td>Publishes "2000 Percent Raise"</td></tr>
+</table>
+</div>
+</div>
+
+<h2>Conclusion</h2>
+<p>John Cerasani's documented career is genuinely varied: a Division I football background, a decade running an insurance business, a private sale that funded an early retirement, and a second act as a venture capitalist, author, and media personality. All of that is real and traceable to some degree. What isn't real, or at least isn't verifiable, is any specific net worth figure attached to his name — every number in circulation is a guess built on top of a compelling personal story, not a disclosed financial record.</p>
+<p>The more useful takeaway is the career itself: a multi-act path from corporate insurance to business ownership to venture investing and media, built entirely outside of public financial disclosure at every stage. For readers who came here looking for a single confident number, the more accurate answer is that a confident number simply doesn't exist yet — and won't, unless Glencrest Global goes public, faces litigation that surfaces financial records, or Cerasani chooses to disclose specifics himself.</p>
+
+<div class="post-faq">
+  <details><summary>What is John Cerasani's net worth?</summary><p>There's no confirmed figure. Estimates range widely, from $10-20 million on some sites to $50-51 million on others, with no source citing a tax filing, court record, or company disclosure behind any of these numbers.</p></details>
+  <details><summary>How did John Cerasani make his money?</summary><p>He built and sold an insurance brokerage business after leaving a role at Arthur J. Gallagher, reportedly exiting in his late 30s. He now earns through Glencrest Global, a venture capital firm he founded, along with book royalties, podcast revenue, and speaking engagements.</p></details>
+  <details><summary>What is Glencrest Global?</summary><p>Glencrest Global is a venture capital and private lending firm founded in 2020, based in Chicago, involved in more than 30 investment deals across real estate, tech, insurance, and SaaS.</p></details>
+  <details><summary>Did John Cerasani play college football?</summary><p>Yes, he played football at the University of Notre Dame and later at Northwestern University.</p></details>
+  <details><summary>What is John Cerasani's book "2000 Percent Raise" about?</summary><p>Published in April 2023, the book covers his journey from leaving a traditional job to building his own business and financial independence, and shares the title of his podcast.</p></details>
+  <details><summary>Who are John Cerasani's business partners?</summary><p>Reporting on Glencrest Global names business relationships with high-profile figures including Aaron Rodgers, Kevin Garnett, Ashley Greene, and Jaleel White, though the specifics of each partnership aren't fully detailed publicly.</p></details>
+  <details><summary>Did John Cerasani really retire at 37?</summary><p>According to his own retelling and several profiles, he sold his insurance business and stepped back from full-time work in his late 30s, before returning to build Glencrest Global not long after.</p></details>
+  <details><summary>Why do net worth estimates for John Cerasani vary so much?</summary><p>Because his wealth is tied up in a private venture capital firm and a privately sold insurance business, neither of which discloses financials publicly. Every online estimate is built from career narrative and assumed deal values, not verified records.</p></details>
+</div>
+`
+  },
+  {
     slug: 'chip-batchelder-net-worth-2026',
     title: 'Chip Batchelder Net Worth 2026: Real Estate Career & Facts',
     seoTitle: 'Chip Batchelder Net Worth 2026: Wyman Street Advisors & Real Facts',
