@@ -1,5 +1,113 @@
 module.exports = [
   {
+    slug: 'michael-cordray-net-worth-2026',
+    title: 'Michael Cordray Net Worth 2026: Save 1900 & Real Facts',
+    seoTitle: 'Michael Cordray Net Worth 2026: Restoring Galveston & Verified Facts',
+    excerpt: "Michael Cordray net worth 2026: estimates range from $1 million to $5 million. Here's what's actually documented about the Save 1900 co-founder and Restoring Galveston host.",
+    metaDescription: "Michael Cordray net worth 2026: how the Restoring Galveston host built Save 1900 with his wife Ashley, moved the show from DIY Network to Magnolia Network, and reopened his family's century-old drug store.",
+    date: '2026-07-26',
+    author: 'Richlytic Editorial',
+    netWorth: '$1M - $5M (unverified)',
+    profession: 'TV Host, Real Estate Restoration Entrepreneur',
+    category: 'entrepreneurs',
+    image: '/images/articles/michael-cordray-photo.jpg',
+    faqs: [
+      { q: "What is Michael Cordray's net worth?", a: "There's no confirmed figure. Estimates range from around $1 million to $5 million depending on the source, with $2-3 million cited most often. None of these numbers come from a public filing, since his TV, real estate, and hospitality income are privately held." },
+      { q: 'How did Michael Cordray make his money?', a: "Through a mix of Magnolia Network TV hosting income, home renovation and resale profits, real estate commissions through his Save 1900 realty firm, and hospitality revenue from ventures like Cordray Drug Store." },
+      { q: 'What is Save 1900?', a: 'Save 1900 is the historic home restoration and real estate company Michael Cordray co-founded with his wife, Ashley Cordray, in Galveston, Texas, named for its mission of preserving homes built around the year 1900.' },
+      { q: 'What show is Michael Cordray known for?', a: "Restoring Galveston, which airs on Magnolia Network. The show originally debuted as a pilot on DIY Network before being renamed and moving to Magnolia Network, the joint venture co-owned by Chip and Joanna Gaines." },
+      { q: 'Is Michael Cordray from Galveston originally?', a: "Yes. He was born in Galveston, Texas in 1982, and his family has deep roots on the island — his father owned rental properties there, and his family previously operated Cordray Drug Store from 1918 to 1965." },
+      { q: 'What did Michael Cordray study in college?', a: "He earned a bachelor's degree in Maritime Administration from Texas A&M University at Galveston, graduating in 2006." },
+      { q: 'Did Michael Cordray reopen his family drug store?', a: "Yes. He and Ashley reopened Cordray Drug Store as an ice cream shop and Airbnb in the original building at 39th Street and Avenue L in Galveston, reviving a business his family ran from 1918 to 1965." },
+      { q: 'Why do net worth estimates for Michael Cordray vary so much?', a: "Because his income spans TV hosting fees, renovation profits, real estate commissions, and hospitality revenue — none of which are publicly disclosed. Every published estimate is built from assumptions about his visibility and business activity, not verified financial records." }
+    ],
+    content: `
+<p>Search "Michael Cordray net worth" and most estimates land somewhere between $1 million and $5 million, with $2-3 million cited most often in 2026. None of these figures are independently verified, since Cordray's television income, renovation profits, and real estate commissions are all privately held. Here's what's actually documented about how he turned a family history in Galveston, Texas into a restoration company, a Magnolia Network show, and a revived century-old family business.</p>
+
+<div class="quick-facts">
+  <h2>Quick Facts</h2>
+  <div class="quick-facts-scroll">
+  <table>
+    <tr><td>Full Name</td><td>Michael Cordray</td></tr>
+    <tr><td>Born</td><td>March 18, 1982, Galveston, Texas</td></tr>
+    <tr><td>Education</td><td>B.A. Maritime Administration, Texas A&amp;M University at Galveston (2006)</td></tr>
+    <tr><td>Profession</td><td>TV host, real estate restoration entrepreneur</td></tr>
+    <tr><td>Company</td><td>Co-founder, Save 1900 (realty firm launched 2016)</td></tr>
+    <tr><td>TV Show</td><td>Restoring Galveston (Magnolia Network)</td></tr>
+    <tr><td>Spouse &amp; Business Partner</td><td>Ashley Cordray</td></tr>
+    <tr><td>Estimated Net Worth (unverified)</td><td>$1 million&ndash;$5 million, depending on source</td></tr>
+    <tr><td>Primary Income Sources</td><td>TV hosting fees, renovation profits, real estate commissions, hospitality revenue</td></tr>
+  </table>
+  </div>
+</div>
+
+<h2>Michael Cordray Net Worth: The Short Answer</h2>
+<p>The honest starting point is that nobody outside Cordray's own accountant knows his real net worth. He isn't a public company executive, Save 1900 is privately held, and Magnolia Network doesn't disclose individual host compensation. The figures online — mostly clustered between $1 million and $5 million — are built by consumer net worth sites estimating TV hosting fees, renovation margins, and real estate commissions, not pulled from any filed financial document.</p>
+
+<h2>Deep Roots in Galveston</h2>
+<p>Cordray was born on March 18, 1982, in Galveston, Texas, into a family with a genuinely long history on the island. His father owned rental properties there, giving him an early, hands-on introduction to old houses well before it became a career. Further back, his family operated Cordray Drug Store from 1918 to 1965 — a detail that would later become directly relevant to his business ventures rather than just a piece of family trivia.</p>
+<p>That kind of multi-generational family footprint on a single small island is worth noting, since it shapes the credibility of his restoration work in a way an outside entrepreneur moving into the same market couldn't easily replicate. A newcomer buying historic Galveston properties to renovate and resell is running a business; someone whose own family has owned property and operated a storefront on the same island for over a century is arguably doing something closer to stewardship, at least from a marketing and community-trust standpoint — and that distinction has plausibly mattered for how locals, historic preservation boards, and eventually TV audiences have received his work.</p>
+<p>He earned a bachelor's degree in Maritime Administration from Texas A&amp;M University at Galveston, graduating in 2006 — a specialized degree tied to the island's maritime and shipping industry, not directly related to real estate or television, before his career path shifted toward historic preservation.</p>
+<p>Galveston itself is a useful piece of context here. The island has a genuinely distinct architectural history shaped by the devastating 1900 hurricane — still one of the deadliest natural disasters in U.S. history — after which much of the city was rebuilt, and the raising of the grade level led to a wave of historic construction that followed. Homes that survived or were built in the years after that event carry a specific kind of historical weight that doesn't really have an equivalent in most other American coastal cities, which is part of why a restoration company built specifically around "the year 1900" resonates locally in a way a more generic renovation brand wouldn't.</p>
+
+<h2>From Noticing a Problem to Building a Company</h2>
+<p>While working in Galveston, Cordray noticed that many of the island's historic homes were falling into disrepair. Rather than pursuing new construction — typically the more straightforward, higher-margin path in residential real estate — he saw an opportunity in restoring these older buildings and preserving their original character. That decision became the foundation for Save 1900, which he co-founded with his wife, Ashley Cordray.</p>
+<p>The company's name is a direct reference to its mission: preserving homes built around the year 1900 that were otherwise at risk of demolition or long-term neglect. Choosing restoration over new construction is also a slower, more capital-intensive business model in most cases — historic properties often come with structural surprises, permitting requirements tied to preservation status, and a smaller pool of buyers willing to pay a premium for an older home with genuine character rather than a new build with modern systems throughout. Building a company around that harder path is part of what gave Save 1900 a distinct enough story to eventually attract television interest in the first place.</p>
+<p>According to the <a href="https://save1900.com/about/" target="_blank" rel="nofollow noopener">Save 1900</a> team's own account, the couple launched their realty firm in 2016, giving the business a real estate commission revenue stream alongside the renovation and resale side of the work.</p>
+<p>Structuring the business this way — a renovation operation paired with a licensed realty firm rather than just flipping houses through a third-party broker — is a meaningful business decision, not just a branding one. It means Save 1900 can capture commission income on both the purchase and eventual resale of a property it restores, rather than splitting that revenue with an outside agent, which is a materially different economics than a renovation-only business model.</p>
+
+<h2>From a DIY Network Pilot to Magnolia Network</h2>
+<p>The Cordrays' television career didn't start where it is now. Their restoration work was originally featured in an HGTV network pilot, before the show found its footing as a DIY Network series. After its first season, the show was renamed Restoring Galveston and moved to <a href="https://deadline.com/2022/02/magnolia-network-orders-five-new-series-renews-1234931103/" target="_blank" rel="nofollow noopener">Magnolia Network</a>, the joint venture between Discovery and Chip and Joanna Gaines — a meaningfully larger platform than the show's original home, and one built specifically around home renovation content with an established, dedicated audience.</p>
+<p>Cordray has spoken positively about working within that network specifically, noting genuine support for preservationists rather than pressure toward faster, more cosmetic flips. That distinction matters for how the show has been received: coverage of Restoring Galveston consistently notes that fans and critics appreciate its focus on practical preservation and structural integrity over the quicker, more superficial house-flipping format common elsewhere in the genre.</p>
+<p>The move from a DIY Network pilot to an established Magnolia Network series is also worth understanding in terms of what it likely means financially, even without exact figures. Home renovation television is a genre with an unusually direct relationship between network tier and production budget — a flagship series on a network built around the format and backed by recognizable co-owners in Chip and Joanna Gaines typically commands a considerably larger production budget, and by extension host compensation, than an early-stage cable pilot. That doesn't translate into a specific number for Cordray, but it does mean his television income almost certainly changed meaningfully with the show's move, not just its visibility. It's also worth noting that a renewed, multi-season series generally carries more negotiating leverage for a host than a first-season pilot does, since a proven audience track record gives a returning host a materially stronger position than a first-time cast member auditioning for a new show.</p>
+
+<h2>Reviving the Family Drug Store</h2>
+<p>One of Cordray's more personally significant ventures has been reopening Cordray Drug Store — the same business his family operated from 1918 to 1965 — as an ice cream shop and Airbnb rental in its original building at 39th Street and Avenue L in Galveston. <a href="https://www.galvnews.com/business/buzz/tv-stars-open-galveston-ice-cream-shop-seafood-restaurant-to-replace-slim-chickens-in-league/article_60b2ff86-0e60-50c1-9ba6-ab7e5f5e4233.html" target="_blank" rel="nofollow noopener">The Daily News</a>, Galveston's local paper, has covered the couple's business ventures directly, including this specific reopening.</p>
+<p>This venture is a genuinely different kind of business from the renovate-and-sell model that built Save 1900's core reputation — it's a standing hospitality operation generating ongoing revenue (retail and short-term rental income) rather than a one-time renovation profit, which adds another income stream to the overall picture beyond TV and real estate.</p>
+<p>There's also a clear brand logic to the move that goes beyond simple revenue diversification. Reopening a business tied directly to Cordray's own family history gives Save 1900's public story an authenticity that's difficult to manufacture — it's one thing to market a company around "preserving Galveston's history" in the abstract, and another to literally reopen your own family's century-old storefront under its original name. That kind of narrative tends to resonate especially well with a Magnolia Network audience already primed to value historical authenticity and personal storytelling over purely transactional renovation content.</p>
+
+<h2>How These Net Worth Estimates Actually Get Made</h2>
+<p>Cordray's case follows a familiar pattern: net worth sites don't have access to his Magnolia Network contract terms, Save 1900's renovation margins, or the Cordray Drug Store's actual revenue. Instead, they typically estimate TV hosting income based on the network's general budget tier, add a rough figure for real estate commissions and renovation profit margins, factor in the hospitality venture as an additional but unquantified income source, and round to a number that feels proportionate to his overall visibility and business activity.</p>
+<p>The renovation side of the business carries its own particular estimation challenge. Historic home restoration is typically far more labor- and materials-intensive than standard flipping, since preserving original architectural details, sourcing period-appropriate materials, and meeting historic preservation requirements all add cost and time that a conventional flip wouldn't carry. That can mean lower margins per project than a faster, more generic renovation model — even as the final resale price benefits from the added historic character and TV visibility — which makes any outside guess at "renovation profit" for this specific business model even less reliable than it would be for a standard flipping operation.</p>
+<p>See our <a href="/about-us">verification standard</a> for how we handle that kind of gap, and how it compares to a case like <a href="/chip-batchelder-net-worth-2026">Chip Batchelder's net worth</a>, where a similarly private, commission-based real estate career leaves most of the number to outside estimation.</p>
+
+<h2>Personal Life</h2>
+<p>Cordray runs Save 1900 as a genuine husband-and-wife operation with Ashley Cordray, who co-founded the company with him and co-stars alongside him on Restoring Galveston. Their business and on-screen partnership is presented consistently across their television work, their realty firm, and their hospitality ventures, rather than one spouse handling the public-facing work while the other stays behind the scenes.</p>
+<p>That consistency across ventures is worth noting on its own, since a genuinely shared husband-and-wife business model — as opposed to one partner being the public face while the other manages operations quietly — tends to be a distinguishing feature of small, closely held family businesses rather than larger, professionally managed ones. It's a structure that can limit how much a business scales beyond the founders' direct involvement, but it also tends to keep decision-making and brand identity tightly aligned across every part of the operation, from the TV show to the realty listings to the ice cream shop.</p>
+<p>Browse more <a href="/net-worth">verified net worth profiles</a> of entrepreneurs whose wealth is built from a mix of media income and privately held local businesses.</p>
+
+<h2>A Quick Timeline</h2>
+<div class="quick-facts">
+<div class="quick-facts-scroll">
+<table>
+  <tr><td>1982</td><td>Born in Galveston, Texas</td></tr>
+  <tr><td>2006</td><td>Graduates Texas A&amp;M University at Galveston with a degree in Maritime Administration</td></tr>
+  <tr><td>2016</td><td>Launches Save 1900 realty firm with wife Ashley Cordray</td></tr>
+  <tr><td>2020</td><td>Restoration work featured on DIY Network</td></tr>
+  <tr><td>2022</td><td>Restoring Galveston renewed and established on Magnolia Network</td></tr>
+  <tr><td>Ongoing</td><td>Reopens family's Cordray Drug Store as an ice cream shop and Airbnb</td></tr>
+</table>
+</div>
+</div>
+
+<h2>Conclusion</h2>
+<p>Michael Cordray's documented career runs from a Galveston-born maritime administration graduate to a historic preservation entrepreneur, a Magnolia Network TV host, and now the operator of a revived century-old family business. That's a genuinely layered career built around a specific place and family history, not a single business or show.</p>
+<p>What isn't documented is any specific net worth figure — every number attached to his name online is an outside estimate built from assumptions about TV income, renovation margins, and real estate commissions, not a disclosed financial record. The more reliable takeaway is the range and consistency of his ventures, not any single dollar amount attached to them.</p>
+<p>It's also worth noting how much of Cordray's public story is built around continuity rather than reinvention. Unlike a founder who pivots between unrelated industries chasing whichever opportunity looks most promising, nearly every venture in his career traces back to the same island, the same family history, and the same underlying thesis about historic preservation — the restoration company, the TV show, and the reopened drug store are all variations on one consistent idea rather than a scattered collection of unrelated bets. That kind of focus doesn't guarantee a higher net worth than a more diversified approach would produce, but it does make his overall business story unusually coherent compared to many entrepreneurs covered on this site.</p>
+
+<div class="post-faq">
+  <details><summary>What is Michael Cordray's net worth?</summary><p>There's no confirmed figure. Estimates range from around $1 million to $5 million depending on the source, with $2-3 million cited most often. None of these numbers come from a public filing, since his TV, real estate, and hospitality income are privately held.</p></details>
+  <details><summary>How did Michael Cordray make his money?</summary><p>Through a mix of Magnolia Network TV hosting income, home renovation and resale profits, real estate commissions through his Save 1900 realty firm, and hospitality revenue from ventures like Cordray Drug Store.</p></details>
+  <details><summary>What is Save 1900?</summary><p>Save 1900 is the historic home restoration and real estate company Michael Cordray co-founded with his wife, Ashley Cordray, in Galveston, Texas, named for its mission of preserving homes built around the year 1900.</p></details>
+  <details><summary>What show is Michael Cordray known for?</summary><p>Restoring Galveston, which airs on Magnolia Network. The show originally debuted as a pilot on DIY Network before being renamed and moving to Magnolia Network, the joint venture co-owned by Chip and Joanna Gaines.</p></details>
+  <details><summary>Is Michael Cordray from Galveston originally?</summary><p>Yes. He was born in Galveston, Texas in 1982, and his family has deep roots on the island — his father owned rental properties there, and his family previously operated Cordray Drug Store from 1918 to 1965.</p></details>
+  <details><summary>What did Michael Cordray study in college?</summary><p>He earned a bachelor's degree in Maritime Administration from Texas A&amp;M University at Galveston, graduating in 2006.</p></details>
+  <details><summary>Did Michael Cordray reopen his family drug store?</summary><p>Yes. He and Ashley reopened Cordray Drug Store as an ice cream shop and Airbnb in the original building at 39th Street and Avenue L in Galveston, reviving a business his family ran from 1918 to 1965.</p></details>
+  <details><summary>Why do net worth estimates for Michael Cordray vary so much?</summary><p>Because his income spans TV hosting fees, renovation profits, real estate commissions, and hospitality revenue — none of which are publicly disclosed. Every published estimate is built from assumptions about his visibility and business activity, not verified financial records.</p></details>
+</div>
+`
+  },
+  {
     slug: 'natalie-nunn-net-worth-2026',
     title: 'Natalie Nunn Net Worth 2026: Baddies, Career & Real Facts',
     seoTitle: 'Natalie Nunn Net Worth 2026: Baddies, Zeus Network & Verified Facts',
