@@ -1,5 +1,117 @@
 module.exports = [
   {
+    slug: 'geoffrey-fieger-net-worth-2026',
+    title: 'Geoffrey Fieger Net Worth 2026: A Verified Career Guide',
+    seoTitle: 'Geoffrey Fieger Net Worth 2026: Fieger Law & Verified Facts',
+    excerpt: "Geoffrey Fieger net worth 2026: estimates range from $2 million to $200 million. Here's what's actually documented about the attorney who defended Jack Kevorkian and ran for Michigan governor.",
+    metaDescription: "Geoffrey Fieger net worth 2026: how the Fieger Law founder built his career defending Jack Kevorkian, ran for Michigan governor in 1998, and beat federal campaign finance charges — and why estimates vary so wildly.",
+    date: '2026-07-27',
+    author: 'Richlytic Editorial',
+    netWorth: '$2M - $200M (unverified)',
+    profession: 'Trial Attorney, Media Commentator',
+    category: 'legal-media',
+    image: '/images/articles/geoffrey-fieger-photo.jpg',
+    faqs: [
+      { q: "What is Geoffrey Fieger's net worth?", a: "There's no confirmed figure. Estimates vary enormously — from as low as $2 million to as high as $200 million, with figures around $50 million cited fairly often. None are sourced to a tax filing or court record, since Fieger Law is privately held." },
+      { q: 'How did Geoffrey Fieger make his money?', a: 'Primarily through contingency-fee personal injury, civil rights, and medical malpractice cases at Fieger Law, along with media commentary work for outlets like NBC and MSNBC.' },
+      { q: 'What is Geoffrey Fieger known for?', a: "Defending Dr. Jack Kevorkian in a series of assisted-suicide trials in the 1990s, winning acquittals in every one, and running as the Democratic nominee for Michigan governor in 1998." },
+      { q: 'Did Geoffrey Fieger face federal charges?', a: "Yes. He was indicted in August 2007 on federal campaign finance charges related to contributions to John Edwards's 2004 presidential campaign. A jury acquitted him of all charges on June 2, 2008." },
+      { q: 'Is Geoffrey Fieger related to the musician from The Knack?', a: "Yes. His brother was Doug Fieger, lead vocalist of the band The Knack, known for the 1979 hit \"My Sharona.\"" },
+      { q: 'Did Geoffrey Fieger win the 1998 Michigan governor race?', a: "No. He won the Democratic primary in an upset but lost the general election to incumbent Republican governor John Engler." },
+      { q: 'What law school did Geoffrey Fieger attend?', a: 'The Detroit College of Law (now Michigan State University College of Law), earning his J.D. in 1979, after two degrees from the University of Michigan.' },
+      { q: 'Why do net worth estimates for Geoffrey Fieger vary so much?', a: "Because contingency-fee law practice produces highly volatile, case-by-case income that isn't publicly disclosed. Every published estimate is built from assumptions about settlement sizes and case volume, not verified financial records." }
+    ],
+    content: `
+<p>Few net worth figures on the internet disagree with each other as violently as Geoffrey Fieger's — one estimate puts him at $2 million, another at $50 million, and a third as high as $200 million, a 100x spread that has no real parallel among the entrepreneurs and professionals covered on this site. That gap exists because Fieger Law is privately held and contingency-fee legal income is never publicly disclosed. Here's what's actually documented about the attorney best known for defending Jack Kevorkian and running for Michigan governor.</p>
+
+<div class="quick-facts">
+  <h2>Quick Facts</h2>
+  <div class="quick-facts-scroll">
+  <table>
+    <tr><td>Full Name</td><td>Geoffrey Fieger</td></tr>
+    <tr><td>Born</td><td>December 23, 1950, Detroit, Michigan</td></tr>
+    <tr><td>Education</td><td>B.A. &amp; M.A., University of Michigan; J.D., Detroit College of Law (1979)</td></tr>
+    <tr><td>Profession</td><td>Trial attorney, media commentator</td></tr>
+    <tr><td>Law Firm</td><td>Founder, Fieger Law (Southfield, Michigan)</td></tr>
+    <tr><td>Notable Case</td><td>Defense counsel for Dr. Jack Kevorkian (1994 onward)</td></tr>
+    <tr><td>Political Run</td><td>1998 Democratic nominee for Governor of Michigan</td></tr>
+    <tr><td>Spouse</td><td>Kathleen Fieger</td></tr>
+    <tr><td>Estimated Net Worth (unverified)</td><td>$2 million&ndash;$200 million, depending on source</td></tr>
+    <tr><td>Primary Income Sources</td><td>Contingency-fee litigation, media commentary</td></tr>
+  </table>
+  </div>
+</div>
+
+<h2>Geoffrey Fieger Net Worth: The Short Answer</h2>
+<p>The honest starting point is that the estimates for Fieger's net worth disagree with each other more than almost any other figure covered on this site — a roughly 100x gap between the lowest and highest published numbers. That spread alone tells you something: nobody publishing these figures has access to Fieger Law's actual case settlements, contingency fee splits, or personal finances. Every number is an outside guess built on reputation and case visibility, not disclosed records.</p>
+
+<h2>From Detroit to the Courtroom</h2>
+<p>Fieger was born on December 23, 1950, in Detroit, Michigan. He earned both a bachelor's and a master's degree from the University of Michigan before completing his law degree at the Detroit College of Law (now folded into Michigan State University) in 1979. He went on to found <a href="https://www.fiegerlaw.com/about-us/geoffrey-fieger/" target="_blank" rel="nofollow noopener">Fieger Law</a>, based in Southfield, Michigan, building a practice focused on personal injury, civil rights litigation, and medical malpractice — the kind of contingency-fee work where a lawyer is paid a percentage of a settlement or verdict rather than a fixed hourly rate.</p>
+<p>That compensation structure is central to understanding why his net worth is so hard to pin down: contingency-fee income is inherently lumpy, swinging from case to case based on outcomes that aren't public record in the way a salaried executive's compensation would be.</p>
+<p>Contingency-fee arrangements typically pay a plaintiff's attorney somewhere between 25% and 40% of a settlement or verdict, though the exact percentage varies by case type, jurisdiction, and the specific fee agreement. That means a single large medical malpractice or civil rights verdict can generate a seven-figure fee in one year, while a slower stretch without a major case resolution can look very different — a volatility pattern that has no real equivalent in salaried professions and makes any single "annual income" figure for an attorney like Fieger largely meaningless without knowing the specific timing of his case resolutions.</p>
+
+<h2>The Kevorkian Defense: The Case That Defined His Public Profile</h2>
+<p>Fieger's highest-profile work came from defending Dr. Jack Kevorkian — known publicly as "Dr. Death" — through a series of assisted-suicide trials starting in 1994. According to <a href="https://en.wikipedia.org/wiki/Geoffrey_Fieger" target="_blank" rel="nofollow noopener">Wikipedia's account</a>, Kevorkian was acquitted in that trial and every subsequent trial where Fieger represented him — an unusually consistent winning record in a series of cases that drew national media attention throughout the 1990s.</p>
+<p>Beyond the Kevorkian cases, Fieger has taken on other high-visibility matters over the years, including a wrongful death suit connected to The Jenny Jones Show following the killing of Scott Amedure in 1999, litigation on behalf of the family of Aiyana Jones (a seven-year-old killed during a 2010 police raid), the family of Kenneka Jenkins following her 2017 death, and a $100 million lawsuit filed on behalf of survivors of the 2021 Oxford High School shooting. That combination of case types — civil rights, police accountability, and mass-casualty litigation — has kept Fieger in the media well beyond the Kevorkian era.</p>
+<p>What's notable across this case list is the consistency of the pattern: Fieger has repeatedly taken on cases with significant public attention attached, often involving government or institutional accountability, rather than building a practice around quieter, lower-profile matters. That's a deliberate positioning choice as much as a legal one — high-visibility cases generate media coverage that functions as ongoing marketing for a plaintiff's firm, even when the case itself doesn't resolve in the client's favor.</p>
+<p>It's also worth noting that not every high-profile case an attorney takes ends in a payout anywhere near the amount initially sought — the $100 million figure attached to the Oxford High School shooting lawsuit, for instance, reflects the amount sought in the filing, not a confirmed award, and cases of this scale often settle for amounts that are never made public or are resolved well below the headline figure reported at filing.</p>
+
+<h2>A Run for Governor</h2>
+<p>In 1998, Fieger sought the Democratic nomination for Governor of Michigan. He won the primary in what was widely described as an upset, without the backing of state Democratic Party leadership, before losing the general election to Republican incumbent John Engler. The campaign was notable for controversial public statements Fieger made about his opponent and religious figures during the race — commentary that generated significant press coverage independent of the campaign's actual policy platform.</p>
+<p>The run didn't produce elected office, but it did permanently expand Fieger's public profile beyond the legal community into general political media coverage, which plausibly shaped the trajectory of his later media commentary career.</p>
+<p>Winning a statewide primary without party establishment backing is a genuinely difficult political feat, and it says something about Fieger's name recognition and public speaking ability at the time — qualities that translate directly from courtroom trial work, where persuading a jury requires many of the same communication skills as persuading a primary electorate. The general election loss to a sitting incumbent governor, by contrast, is a far more common outcome; unseating an incumbent is difficult under the best circumstances, and Fieger's campaign faced the additional headwind of limited establishment support within his own party.</p>
+
+<h2>Federal Charges and Acquittal</h2>
+<p>In August 2007, Fieger was indicted on federal campaign finance charges, accused of funneling approximately $127,000 to John Edwards's 2004 presidential campaign through improper contributions. The case went to trial, and on June 2, 2008, a jury acquitted him of all charges. It's a documented legal proceeding worth including here precisely because it's resolved and verifiable — unlike most of the financial claims made about him, this is a matter of public federal court record with a clear outcome.</p>
+<p>Federal campaign finance cases of this nature are notoriously difficult for prosecutors to win to begin with, since they typically require proving specific knowledge and intent around how contributions were structured and reported, rather than simply showing that money moved between parties. A full jury acquittal on all counts is a meaningfully stronger outcome than a dropped charge or a plea deal would represent, and it closed out what had been a multi-year legal exposure for Fieger personally, separate from his work representing clients.</p>
+<p>See our <a href="/about-us">verification standard</a> for how we handle documented legal proceedings like this compared to unverified financial claims, and how it compares to a case like <a href="/josh-kesselman-net-worth-2026">Josh Kesselman's net worth</a>, where a separate lawsuit similarly produced a clear, documented legal outcome.</p>
+
+<h2>Media Commentary and Public Recognition</h2>
+<p>Alongside his litigation practice, Fieger has worked as a legal commentator for NBC and MSNBC, a role that adds a media income stream on top of his legal fees, though — consistent with everything else in this profile — no specific compensation figures for that work are public. In 1997, he donated $4 million to establish what's now known as the <a href="https://www.law.msu.edu/tpi/Fieger.html" target="_blank" rel="nofollow noopener">Geoffrey Fieger Trial Practice Institute</a> at Michigan State University's law school, a donation substantial enough to have the program named after him and a rare concrete data point suggesting real capital available at that point in his career, even if it doesn't translate into a current net worth figure.</p>
+<p>Media commentary work also compounds differently than a single legal fee. A recurring role as a network legal analyst pays less per appearance than a major case settlement, but it's a steadier, more predictable income stream, and it reinforces the public profile that helps attract new high-value cases in the first place. That interplay between media visibility and case acquisition is common across high-profile plaintiff's attorneys generally, not unique to Fieger, but it's a meaningful part of understanding how a litigation practice like his sustains itself between major verdicts.</p>
+
+<h2>How These Net Worth Estimates Actually Get Made</h2>
+<p>Fieger's case is a particularly clear illustration of a pattern common across this site: net worth sites don't have access to Fieger Law's actual settlement values or fee splits, so they build estimates from his visible case history, media presence, and reputation as one of the country's most successful trial attorneys by verdict count. That combination of inputs, weighted differently by different sites, is exactly why estimates for him range from $2 million on the conservative end to $200 million on the aggressive end — a spread with essentially no equivalent in more conventional, salaried professions.</p>
+<p>It's worth being specifically skeptical of the highest-end figures in this range. A $200 million estimate for a single-practice law firm, even a highly successful one with a strong verdict record, would require an extraordinary and sustained run of exceptionally large settlements over decades, concentrated almost entirely with one attorney's share rather than distributed across a firm's partners and associates. That's not impossible, but it's a much larger claim than the lower estimates, and none of the sources making it provide underlying case-by-case figures that would let a reader actually check the math. The lower-end estimates, by contrast, tend to come from sites that explicitly note their figures are "reported" or "informed industry analysis" rather than presenting a single confident number — a more honest framing, even if it's a less satisfying headline.</p>
+<p>Browse more <a href="/net-worth">verified net worth profiles</a> of legal professionals whose income is similarly tied to case-by-case outcomes rather than disclosed compensation.</p>
+
+<h2>Personal Life</h2>
+<p>Fieger is married to Kathleen Fieger, and the couple have three children together; he lives in Bloomfield Hills, Michigan. One detail that surprises people who only know him through his legal career: his late brother was Doug Fieger, lead vocalist of the rock band The Knack, best known for the 1979 hit "My Sharona." In March 2024, Fieger's wife announced that he had been diagnosed with a heart condition requiring surgery, after which he suffered a stroke.</p>
+<p>The Doug Fieger connection is worth dwelling on briefly, since it's the kind of detail that gets lost in most legal-focused coverage of Geoffrey Fieger's career. The Knack's "My Sharona" was a number-one hit in 1979 — the same year Geoffrey earned his law degree — meaning the brothers were building two entirely separate, high-visibility careers in music and law at almost exactly the same time, decades before either would have had reason to think the other's fame would ever be relevant context for their own.</p>
+
+<h2>A Quick Timeline</h2>
+<div class="quick-facts">
+<div class="quick-facts-scroll">
+<table>
+  <tr><td>1979</td><td>Earns J.D. from Detroit College of Law</td></tr>
+  <tr><td>1994</td><td>Begins representing Dr. Jack Kevorkian in assisted-suicide trials</td></tr>
+  <tr><td>1997</td><td>Donates $4 million to found the Geoffrey Fieger Trial Practice Institute</td></tr>
+  <tr><td>1998</td><td>Wins Democratic gubernatorial primary; loses general election to John Engler</td></tr>
+  <tr><td>August 2007</td><td>Indicted on federal campaign finance charges</td></tr>
+  <tr><td>June 2008</td><td>Acquitted of all federal charges by a jury</td></tr>
+  <tr><td>March 2024</td><td>Undergoes heart surgery, followed by a stroke</td></tr>
+</table>
+</div>
+</div>
+
+<h2>Conclusion</h2>
+<p>Geoffrey Fieger's documented career runs from a Detroit-born law graduate to one of the most recognized trial attorneys of his generation, defined by the Kevorkian defense, a real (if unsuccessful) run at the Michigan governorship, and a federal indictment he ultimately beat at trial. Each of those is independently verifiable through court and public records.</p>
+<p>What isn't verifiable is any specific net worth figure — the $2 million to $200 million range in circulation reflects how little is actually known about his contingency-fee earnings, not a genuine narrowing consensus. The more reliable takeaway is the case history and legal record itself, not any single number attached to it.</p>
+<p>That's a pattern worth carrying forward to any similar profile of a contingency-fee attorney or litigator: the court record, the case list, and documented legal proceedings like an indictment and its outcome are things a reader can independently verify today. A net worth figure attached to that same person almost never is, and treating the two categories of information with the same level of confidence is where a lot of casual coverage in this space goes wrong.</p>
+
+<div class="post-faq">
+  <details><summary>What is Geoffrey Fieger's net worth?</summary><p>There's no confirmed figure. Estimates vary enormously — from as low as $2 million to as high as $200 million, with figures around $50 million cited fairly often. None are sourced to a tax filing or court record, since Fieger Law is privately held.</p></details>
+  <details><summary>How did Geoffrey Fieger make his money?</summary><p>Primarily through contingency-fee personal injury, civil rights, and medical malpractice cases at Fieger Law, along with media commentary work for outlets like NBC and MSNBC.</p></details>
+  <details><summary>What is Geoffrey Fieger known for?</summary><p>Defending Dr. Jack Kevorkian in a series of assisted-suicide trials in the 1990s, winning acquittals in every one, and running as the Democratic nominee for Michigan governor in 1998.</p></details>
+  <details><summary>Did Geoffrey Fieger face federal charges?</summary><p>Yes. He was indicted in August 2007 on federal campaign finance charges related to contributions to John Edwards's 2004 presidential campaign. A jury acquitted him of all charges on June 2, 2008.</p></details>
+  <details><summary>Is Geoffrey Fieger related to the musician from The Knack?</summary><p>Yes. His brother was Doug Fieger, lead vocalist of the band The Knack, known for the 1979 hit "My Sharona."</p></details>
+  <details><summary>Did Geoffrey Fieger win the 1998 Michigan governor race?</summary><p>No. He won the Democratic primary in an upset but lost the general election to incumbent Republican governor John Engler.</p></details>
+  <details><summary>What law school did Geoffrey Fieger attend?</summary><p>The Detroit College of Law (now Michigan State University College of Law), earning his J.D. in 1979, after two degrees from the University of Michigan.</p></details>
+  <details><summary>Why do net worth estimates for Geoffrey Fieger vary so much?</summary><p>Because contingency-fee law practice produces highly volatile, case-by-case income that isn't publicly disclosed. Every published estimate is built from assumptions about settlement sizes and case volume, not verified financial records.</p></details>
+</div>
+`
+  },
+  {
     slug: 'michael-cordray-net-worth-2026',
     title: 'Michael Cordray Net Worth 2026: Save 1900 & Real Facts',
     seoTitle: 'Michael Cordray Net Worth 2026: Restoring Galveston & Verified Facts',
