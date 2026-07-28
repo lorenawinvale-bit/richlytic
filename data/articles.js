@@ -1,5 +1,114 @@
 module.exports = [
   {
+    slug: 'gabi-butler-net-worth-2026',
+    title: 'Gabi Butler Net Worth 2026: A Verified Career Breakdown',
+    seoTitle: 'Gabi Butler Net Worth 2026: Cheer, WWE & Verified Facts',
+    excerpt: "Gabi Butler net worth 2026: most estimates land between $1 million and $2 million. Here's what's actually documented about her Navarro/Netflix breakout, WWE contract, and new role as ProCheer League brand ambassador.",
+    metaDescription: "Gabi Butler net worth 2026: how the Netflix Cheer breakout star built income through competitive cheerleading, social media, WWE, and her new Varsity Spirit brand ambassador role — and why estimates vary.",
+    date: '2026-07-27',
+    author: 'Richlytic Editorial',
+    netWorth: '$1M - $2M (unverified)',
+    profession: 'Competitive Cheerleader, Media Personality, Brand Ambassador',
+    category: 'entertainment',
+    image: '/images/articles/gabi-butler-photo.jpg',
+    faqs: [
+      { q: "What is Gabi Butler's net worth?", a: "There's no confirmed figure. Most estimates land between $1 million and $2 million, built from social media sponsorships, cheerleading-related income, and media appearances — none of which are publicly disclosed in exact figures." },
+      { q: 'How did Gabi Butler make her money?', a: "Through competitive cheerleading, monetized social media (TikTok and Instagram, over 6 million combined followers), brand sponsorships, a WWE contract, Netflix appearances, and her 2026 role as Varsity Spirit's lead brand ambassador for the Pro Cheer League." },
+      { q: 'Is Gabi Butler still competing in cheerleading?', a: "Yes. She competes for Top Gun Allstars Double O and captured a third Worlds title with the team in 2026, alongside competing for the Miami Metal in the Pro Cheer League." },
+      { q: 'Did Gabi Butler really sign with WWE?', a: 'Yes, she signed a WWE contract in late 2022 and trained briefly with the promotion, though she has remained primarily active in competitive cheerleading and media work.' },
+      { q: 'What is the Pro Cheer League?', a: "The Pro Cheer League (PCL) is the first professional cheerleading league in the United States, launched in January 2026 with four teams and operated by Varsity Spirit." },
+      { q: 'What made Gabi Butler famous?', a: 'Her recruitment to Navarro College in 2019 and subsequent appearance in Netflix\'s docuseries "Cheer," which premiered in January 2020 and made her one of the show\'s breakout personalities.' },
+      { q: 'Was Gabi Butler named to any major recognition lists in 2026?', a: 'Yes, she was included in TIME\'s TIME100 Most Influential People in Sports 2026 list.' },
+      { q: 'Why do net worth estimates for Gabi Butler vary so much?', a: "Because her income spans social media sponsorships, brand ambassador fees, cheerleading-related earnings, and media appearances — none of which come with public financial disclosure. Every published estimate is a guess built from visibility, not verified records." }
+    ],
+    content: `
+<p>Few athletes have built a media career quite like Gabi Butler's: a two-time world champion flyer years before most people had heard her name, then a breakout reality TV personality practically overnight once Netflix's cameras started rolling. That jump from niche sport to mainstream recognition is exactly why her net worth is so hard to pin down — most estimates land between $1 million and $2 million, but none of them are built from anything more solid than visible social media following and assumed sponsorship rates. Here's what's actually documented about her career.</p>
+
+<div class="quick-facts">
+  <h2>Quick Facts</h2>
+  <div class="quick-facts-scroll">
+  <table>
+    <tr><td>Full Name</td><td>Gabi Butler</td></tr>
+    <tr><td>Born</td><td>January 16, 1998, Boca Raton, Florida</td></tr>
+    <tr><td>Profession</td><td>Competitive cheerleader, media personality, brand ambassador</td></tr>
+    <tr><td>Breakout Moment</td><td>Netflix's "Cheer" (Navarro College season, premiered January 2020)</td></tr>
+    <tr><td>Current Teams</td><td>Top Gun Allstars Double O; Miami Metal (Pro Cheer League)</td></tr>
+    <tr><td>2026 Role</td><td>Lead brand ambassador, Varsity Spirit / Pro Cheer League</td></tr>
+    <tr><td>Social Following</td><td>6 million+ combined (TikTok &amp; Instagram)</td></tr>
+    <tr><td>Estimated Net Worth (unverified)</td><td>$1 million&ndash;$2 million, depending on source</td></tr>
+    <tr><td>Primary Income Sources</td><td>Social media sponsorships, brand deals, media appearances, cheer-related income</td></tr>
+  </table>
+  </div>
+</div>
+
+<h2>Gabi Butler Net Worth: The Short Answer</h2>
+<p>The honest starting point is that no outside estimate of Gabi Butler's net worth is independently verifiable. She isn't a public company executive or a professional athlete with a disclosed league salary in the traditional sense — cheerleading, brand ambassador work, and social media income all sit outside any standard public disclosure framework. The figures circulating online, mostly in the $1-2 million range, are built by consumer net worth sites estimating sponsorship rates against her follower count, not pulled from any filed record.</p>
+
+<h2>A Cheerleading Career That Started Before Age Ten</h2>
+<p>Butler was born on January 16, 1998, in Boca Raton, Florida, and started cheerleading at age eight — young enough that her family made the decision to homeschool her through junior high and high school specifically so she could train full-time. That's a significant early commitment, well before any media attention existed to justify it, which points to a genuinely serious athletic pursuit rather than something built around visibility from the start.</p>
+<p>Her competitive rise came through elite All-Star programs: she joined California All Stars SMOED from 2012 to 2014, winning two world championships in 2013 and 2014, before competing with Top Gun TGLC and Cheer Athletics Wildcats, building a reputation as one of the sport's top flyers well before her name reached a general audience.</p>
+<p>The "flyer" position specifically is worth explaining for readers unfamiliar with competitive cheerleading structure, since it's central to why Butler became a standout at such a young age. Flyers are the athletes lifted, tossed, and balanced at the top of stunts, and the role demands a specific combination of strength, flexibility, and fearlessness that doesn't necessarily correlate with age or experience the way many other competitive sports do — a talented flyer can become a genuine competitive asset for an elite program while still a teenager, which is exactly the path Butler followed through her early All-Star years.</p>
+<p>Winning back-to-back world championships in 2013 and 2014 with California All Stars SMOED also placed her on one of the most decorated rosters in competitive cheer at the time, a program regularly counted among the sport's top all-star teams nationally. That kind of sustained, top-tier competitive success over multiple years — rather than a single standout season — is part of what built her reputation within the sport well before any television producer identified her as a compelling documentary subject.</p>
+
+<h2>Navarro, Netflix, and the Breakout Nobody Could Have Planned</h2>
+<p>In 2019, Butler was recruited to Navarro College in Corsicana, Texas, a junior college with a nationally recognized competitive cheer program. What happened next wasn't something a cheerleading recruit could have anticipated: Netflix's docuseries "Cheer" premiered in January 2020, following Navarro's run toward college nationals, and Butler emerged as one of its most recognizable breakout personalities almost overnight.</p>
+<p>That kind of sudden mainstream visibility from a documentary series is a fundamentally different growth path than a traditional celebrity career — it converts years of athletic work into name recognition in a matter of weeks, which is part of why monetizing it afterward (through sponsorships, appearances, and further TV work) became such a central part of her post-Navarro career.</p>
+<p>"Cheer" also did something unusual for a sports documentary: it introduced a general streaming audience to the internal culture, injury risk, and competitive stakes of a sport that had previously existed largely outside mainstream sports media coverage. That context mattered specifically for Butler, since it meant audiences encountering her for the first time came in with actual knowledge of her competitive credentials — her championship history, her role as a flyer, the physical risk involved — rather than reacting to a personality with no athletic context attached, which is a meaningfully different foundation for a media career than a personality who becomes famous with no underlying skill or achievement behind it.</p>
+
+<h2>WWE, Battle Camp, and Life After Cheer</h2>
+<p>Butler signed a contract with WWE in late 2022 and trained briefly with the promotion, a notable crossover attempt from competitive cheerleading into professional wrestling entertainment, though her primary public presence has remained centered on cheerleading and media work rather than a full wrestling career. Athlete-to-wrestling crossovers are a well-established pattern in WWE's talent pipeline more broadly, since the promotion has long recruited from backgrounds like gymnastics, football, and other high-athleticism sports where performers already have the physical conditioning and public-facing performance experience wrestling requires — Butler's cheerleading background, with its combination of acrobatics, strength, and camera-ready presentation, fits that recruitment pattern closely even though her tenure there didn't develop into an ongoing wrestling career. She also appeared in Netflix's "Battle Camp" in 2025, extending her media presence well beyond the original "Cheer" franchise that made her famous.</p>
+<p>Alongside these TV ventures, she has built a substantial social media business — monetized YouTube, Instagram (over 3 million followers on that platform alone), and TikTok content, combined for more than 6 million followers across platforms, supported by sponsorship deals with fitness, fashion, and health brands. That kind of multi-platform following gives her a genuinely diversified content business rather than dependence on a single social network's algorithm or ad-revenue structure, which matters for long-term income stability in a creator economy where platform-specific monetization terms and audience reach can shift significantly year to year. She also earns through cheer camps and motivational speaking engagements, listed with <a href="https://www.aaespeakers.com/keynote-speakers/gabi-butler" target="_blank" rel="nofollow noopener">speaker bureaus like AAE Speakers Bureau</a> alongside her athletic and media work.</p>
+
+<h2>The Pro Cheer League and a New Kind of Role</h2>
+<p>Competitive cheerleading itself has changed considerably during Butler's career, and 2026 marked a significant milestone: the launch of the Pro Cheer League (PCL), described as the first professional cheerleading league in the United States, debuting in January with four teams. Butler competes for the Miami Metal in the PCL, while continuing to compete with Top Gun Allstars Double O, with whom she captured a third Worlds title in 2026.</p>
+<p>In February 2026, Varsity Spirit — the company that owns and operates the PCL — appointed Butler as its lead brand ambassador, a role that goes beyond simply competing to actively promoting the league's expansion, including leading youth clinics and supporting two additional teams joining for the upcoming season. That ambassador role is a meaningfully different income relationship than a standard athlete sponsorship: it typically involves a longer-term, structured partnership rather than a one-off endorsement deal, though the specific terms aren't public.</p>
+<p>Brand ambassador arrangements for an entire emerging league also tend to carry different incentives than a per-post sponsorship deal. Rather than being compensated primarily for individual content pieces, an ambassador role like this is generally structured around the league's own growth and visibility — meaning Butler's compensation, whatever form it takes, is plausibly tied at least in part to how successfully the Pro Cheer League itself expands, adds teams, and builds an audience over the coming seasons, rather than to any single piece of sponsored content she posts.</p>
+<p>Her broader influence was recognized formally in 2026 when <a href="https://time.com/collection/time100-sports/2026/gabi-butler/" target="_blank" rel="nofollow noopener">TIME included her on its TIME100</a> Most Influential People in Sports list, describing her as "the face of American competitive cheerleading" — a description that captures how central she's become to the sport's mainstream visibility, independent of any specific dollar figure.</p>
+
+<h2>How These Net Worth Estimates Actually Get Made</h2>
+<p>Butler's case follows a pattern common among social-media-driven athletes: net worth sites don't have access to her actual sponsorship contracts, appearance fees, or brand ambassador compensation, so they build estimates from her follower count, assumed sponsorship rates for an influencer at that scale, and a general sense of her media visibility. That's why estimates cluster fairly tightly around $1-2 million rather than showing the wilder swings seen in some other profiles on this site — a social-media-driven income is somewhat easier to model roughly than, say, a privately held law firm or venture fund, even though it's still fundamentally a guess.</p>
+<p>That relative modeling ease has limits, though. Follower count is a weak proxy for actual sponsorship income on its own, since brand deal rates depend heavily on engagement rate, audience demographics, platform-specific ad rates, and negotiating leverage — factors that don't scale linearly with follower totals and aren't visible from the outside. Two creators with identical follower counts can have wildly different actual sponsorship income depending on how engaged their specific audience is and which industries are actively bidding for access to it, which is exactly the kind of nuance a simple "followers times an assumed rate" estimate misses.</p>
+<p>The Pro Cheer League brand ambassador role adds a further layer of estimation difficulty that's specific to 2026 and didn't exist in earlier versions of Butler's net worth estimates. Because the PCL only launched this year, there's no historical compensation data for a role like this to model from at all — unlike her social media income, which at least has years of comparable creator-economy data behind it, her ambassador earnings are close to a genuine unknown even by the loose standards of this kind of estimation.</p>
+<p>See our <a href="/about-us">verification standard</a> for how we handle that kind of estimation gap, and how it compares to a case like <a href="/natalie-nunn-net-worth-2026">Natalie Nunn's net worth</a>, where reality TV visibility similarly gets treated as a rough proxy for income that isn't actually disclosed anywhere.</p>
+
+<h2>Personal Life</h2>
+<p>Public details about Butler's personal life remain relatively limited compared to her athletic and media career, which tends to dominate her public coverage. Now 28 years old, she continues splitting her competitive time between Top Gun Allstars Double O and the Miami Metal, while taking on her expanded Varsity Spirit ambassador responsibilities — a workload that spans elite-level competition, brand representation, and youth clinic instruction simultaneously, a genuinely demanding combination even for an athlete with her level of experience. Her story has also been featured in university-level coverage, including a <a href="https://www.weber.edu/stories/gabi-butler.html" target="_blank" rel="nofollow noopener">profile published by Weber State University</a>, reflecting how her journey from homeschooled athlete to national media figure has resonated well beyond cheerleading-specific audiences.</p>
+<p>Browse more <a href="/net-worth">verified net worth profiles</a> of athletes and media personalities whose income mixes sponsorships, brand partnerships, and traditional sport or performance earnings.</p>
+
+<h2>A Quick Timeline</h2>
+<div class="quick-facts">
+<div class="quick-facts-scroll">
+<table>
+  <tr><td>2006</td><td>Begins cheerleading at age eight</td></tr>
+  <tr><td>2012&ndash;2014</td><td>Competes for California All Stars SMOED; wins world championships in 2013 and 2014</td></tr>
+  <tr><td>2019</td><td>Recruited to Navarro College</td></tr>
+  <tr><td>January 2020</td><td>Netflix's "Cheer" premieres; becomes a breakout personality</td></tr>
+  <tr><td>Late 2022</td><td>Signs a contract with WWE</td></tr>
+  <tr><td>2025</td><td>Appears in Netflix's "Battle Camp"</td></tr>
+  <tr><td>January 2026</td><td>Pro Cheer League launches; competes for the Miami Metal</td></tr>
+  <tr><td>February 2026</td><td>Named lead brand ambassador for Varsity Spirit / the PCL</td></tr>
+  <tr><td>2026</td><td>Named to TIME's TIME100 Most Influential People in Sports</td></tr>
+</table>
+</div>
+</div>
+
+<h2>Conclusion</h2>
+<p>Gabi Butler's documented career runs from an eight-year-old cheerleader on a homeschool training schedule to a two-time world champion, a Netflix breakout star, a WWE signee, and now a brand ambassador for professional cheerleading's first league. Each of those milestones is genuinely traceable through competition records, network credits, and 2026 press coverage.</p>
+<p>What isn't traceable is a specific net worth figure — every number attached to her name is an estimate built from visible social media reach and assumed sponsorship value, not a disclosed financial record, and 2026 specifically added a genuinely new, unmodeled income category (the PCL ambassador role) that makes even the relatively tight $1-2 million range less certain than it might have looked a year earlier. The more reliable takeaway is the career arc itself: an athlete who turned a documentary appearance into a lasting media and business presence well beyond the sport that made her famous.</p>
+
+<div class="post-faq">
+  <details><summary>What is Gabi Butler's net worth?</summary><p>There's no confirmed figure. Most estimates land between $1 million and $2 million, built from social media sponsorships, cheerleading-related income, and media appearances — none of which are publicly disclosed in exact figures.</p></details>
+  <details><summary>How did Gabi Butler make her money?</summary><p>Through competitive cheerleading, monetized social media (TikTok and Instagram, over 6 million combined followers), brand sponsorships, a WWE contract, Netflix appearances, and her 2026 role as Varsity Spirit's lead brand ambassador for the Pro Cheer League.</p></details>
+  <details><summary>Is Gabi Butler still competing in cheerleading?</summary><p>Yes. She competes for Top Gun Allstars Double O and captured a third Worlds title with the team in 2026, alongside competing for the Miami Metal in the Pro Cheer League.</p></details>
+  <details><summary>Did Gabi Butler really sign with WWE?</summary><p>Yes, she signed a WWE contract in late 2022 and trained briefly with the promotion, though she has remained primarily active in competitive cheerleading and media work.</p></details>
+  <details><summary>What is the Pro Cheer League?</summary><p>The Pro Cheer League (PCL) is the first professional cheerleading league in the United States, launched in January 2026 with four teams and operated by Varsity Spirit.</p></details>
+  <details><summary>What made Gabi Butler famous?</summary><p>Her recruitment to Navarro College in 2019 and subsequent appearance in Netflix's docuseries "Cheer," which premiered in January 2020 and made her one of the show's breakout personalities.</p></details>
+  <details><summary>Was Gabi Butler named to any major recognition lists in 2026?</summary><p>Yes, she was included in TIME's TIME100 Most Influential People in Sports 2026 list.</p></details>
+  <details><summary>Why do net worth estimates for Gabi Butler vary so much?</summary><p>Because her income spans social media sponsorships, brand ambassador fees, cheerleading-related earnings, and media appearances — none of which come with public financial disclosure. Every published estimate is a guess built from visibility, not verified records.</p></details>
+</div>
+`
+  },
+  {
     slug: 'geoffrey-fieger-net-worth-2026',
     title: 'Geoffrey Fieger Net Worth 2026: A Verified Career Guide',
     seoTitle: 'Geoffrey Fieger Net Worth 2026: Fieger Law & Verified Facts',
