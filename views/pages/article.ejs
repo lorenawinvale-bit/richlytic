@@ -42,9 +42,35 @@
 
 <div class="container">
   <article class="article-body">
+    <nav class="article-toc" id="article-toc" aria-label="Table of contents">
+      <span class="article-toc-title">On this page</span>
+      <ol id="article-toc-list"></ol>
+    </nav>
     <%- article.content %>
   </article>
 </div>
+<script>
+  (function(){
+    var body = document.querySelector('.article-body');
+    var list = document.getElementById('article-toc-list');
+    var toc = document.getElementById('article-toc');
+    if (!body || !list) return;
+    var headings = Array.from(body.querySelectorAll('h2'));
+    if (headings.length < 3) { if (toc) toc.style.display = 'none'; return; }
+    var used = {};
+    headings.forEach(function(h){
+      var slug = h.textContent.trim().toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
+      if (used[slug]) { used[slug]++; slug = slug + '-' + used[slug]; } else { used[slug] = 1; }
+      h.id = slug;
+      var li = document.createElement('li');
+      var a = document.createElement('a');
+      a.href = '#' + slug;
+      a.textContent = h.textContent;
+      li.appendChild(a);
+      list.appendChild(li);
+    });
+  })();
+</script>
 
 <% if (related.length) { %>
 <section class="container">
