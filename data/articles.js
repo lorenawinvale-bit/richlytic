@@ -22,7 +22,7 @@ module.exports = [
       { q: 'Why do net worth estimates for Gabi Butler vary so much?', a: "Because her income spans social media sponsorships, brand ambassador fees, cheerleading-related earnings, and media appearances — none of which come with public financial disclosure. Every published estimate is a guess built from visibility, not verified records." }
     ],
     content: `
-<p>Few athletes have built a media career quite like Gabi Butler's: a two-time world champion flyer years before most people had heard her name, then a breakout reality TV personality practically overnight once Netflix's cameras started rolling. That jump from niche sport to mainstream recognition is exactly why her net worth is so hard to pin down — most estimates land between $1 million and $2 million, but none of them are built from anything more solid than visible social media following and assumed sponsorship rates. Here's what's actually documented about her career.</p>
+<p>Few athletes have built a media career quite like Gabi Butler's: a two-time world champion flyer years before most people had heard her name, then a breakout reality TV personality practically overnight once Netflix's cameras started rolling. That jump from niche sport to mainstream recognition is exactly why <strong>Gabi Butler's net worth</strong> is so hard to pin down — most estimates land between $1 million and $2 million, but none of them are built from anything more solid than visible social media following and assumed sponsorship rates. Here's what's actually documented about her career.</p>
 
 <div class="quick-facts">
   <h2>Quick Facts</h2>
@@ -131,7 +131,7 @@ module.exports = [
       { q: 'Why do net worth estimates for Geoffrey Fieger vary so much?', a: "Because contingency-fee law practice produces highly volatile, case-by-case income that isn't publicly disclosed. Every published estimate is built from assumptions about settlement sizes and case volume, not verified financial records." }
     ],
     content: `
-<p>Few net worth figures on the internet disagree with each other as violently as Geoffrey Fieger's — one estimate puts him at $2 million, another at $50 million, and a third as high as $200 million, a 100x spread that has no real parallel among the entrepreneurs and professionals covered on this site. That gap exists because Fieger Law is privately held and contingency-fee legal income is never publicly disclosed. Here's what's actually documented about the attorney best known for defending Jack Kevorkian and running for Michigan governor.</p>
+<p>Few net worth figures on the internet disagree with each other as violently as <strong>Geoffrey Fieger's net worth</strong> — one estimate puts him at $2 million, another at $50 million, and a third as high as $200 million, a 100x spread that has no real parallel among the entrepreneurs and professionals covered on this site. That gap exists because Fieger Law is privately held and contingency-fee legal income is never publicly disclosed. Here's what's actually documented about the attorney best known for defending Jack Kevorkian and running for Michigan governor.</p>
 
 <div class="quick-facts">
   <h2>Quick Facts</h2>
@@ -243,7 +243,7 @@ module.exports = [
       { q: 'Why do net worth estimates for Michael Cordray vary so much?', a: "Because his income spans TV hosting fees, renovation profits, real estate commissions, and hospitality revenue — none of which are publicly disclosed. Every published estimate is built from assumptions about his visibility and business activity, not verified financial records." }
     ],
     content: `
-<p>Search "Michael Cordray net worth" and most estimates land somewhere between $1 million and $5 million, with $2-3 million cited most often in 2026. None of these figures are independently verified, since Cordray's television income, renovation profits, and real estate commissions are all privately held. Here's what's actually documented about how he turned a family history in Galveston, Texas into a restoration company, a Magnolia Network show, and a revived century-old family business.</p>
+<p>Search "<strong>Michael Cordray net worth</strong>" and most estimates land somewhere between $1 million and $5 million, with $2-3 million cited most often in 2026. None of these figures are independently verified, since Cordray's television income, renovation profits, and real estate commissions are all privately held. Here's what's actually documented about how he turned a family history in Galveston, Texas into a restoration company, a Magnolia Network show, and a revived century-old family business.</p>
 
 <div class="quick-facts">
   <h2>Quick Facts</h2>
@@ -351,7 +351,7 @@ module.exports = [
       { q: 'Why do net worth estimates for Natalie Nunn vary so much?', a: "Because her income spans reality TV salary, executive producer credits, brand deals, and business ventures — none of which are publicly disclosed. Every published estimate is built from assumptions about her media presence, not verified financial records." }
     ],
     content: `
-<p>Search "Natalie Nunn net worth" and the numbers move around depending on which year and which site you land on — anywhere from $1 million up to $4 million, with $2.5 million to $4 million cited most often in 2026. None of these figures are independently verified, since Nunn's television, production, and brand income are privately held. Here's what's actually documented about how she built a nearly two-decade career from a single reality TV season to running her own franchise.</p>
+<p>Search "<strong>Natalie Nunn net worth</strong>" and the numbers move around depending on which year and which site you land on — anywhere from $1 million up to $4 million, with $2.5 million to $4 million cited most often in 2026. None of these figures are independently verified, since Nunn's television, production, and brand income are privately held. Here's what's actually documented about how she built a nearly two-decade career from a single reality TV season to running her own franchise.</p>
 
 <div class="quick-facts">
   <h2>Quick Facts</h2>
@@ -461,7 +461,7 @@ module.exports = [
       { q: 'Why do net worth estimates for John Cerasani vary so much?', a: "Because his wealth is tied up in a private venture capital firm and a privately sold insurance business, neither of which discloses financials publicly. Every online estimate is built from career narrative and assumed deal values, not verified records." }
     ],
     content: `
-<p>Search "John Cerasani net worth" and the numbers swing wildly — some sites say $10-20 million, others put it at $50 million or more. None of them point to an actual source, because there isn't a public one to point to. Cerasani's wealth comes from a privately sold insurance brokerage and a private venture capital firm, neither of which files public financials. Here's what's actually documented about his career, and why the number is so hard to pin down.</p>
+<p>Search "<strong>John Cerasani net worth</strong>" and the numbers swing wildly — some sites say $10-20 million, others put it at $50 million or more. None of them point to an actual source, because there isn't a public one to point to. Cerasani's wealth comes from a privately sold insurance brokerage and a private venture capital firm, neither of which files public financials. Here's what's actually documented about his career, and why the number is so hard to pin down.</p>
 
 <div class="quick-facts">
   <h2>Quick Facts</h2>
@@ -573,7 +573,7 @@ module.exports = [
       { q: 'Has Chip Batchelder been covered in real estate trade press?', a: "Yes, to a limited extent — he's been named in industry deal coverage, including a Bisnow Boston deal sheet noting his role representing a property owner in a lease transaction, alongside his professional listings on industry platforms." }
     ],
     content: `
-<p>Search "Chip Batchelder net worth" and you'll land almost entirely on net worth aggregator sites quoting numbers between $10 million and $50 million, with $20 million repeated most often. None of them cite a source, because there isn't one to cite — Chip Batchelder isn't a public company executive, and the firm he leads doesn't publish financials. Here's what's actually documented about his career, and an honest look at why a number like this is close to unverifiable.</p>
+<p>Search "<strong>Chip Batchelder net worth</strong>" and you'll land almost entirely on net worth aggregator sites quoting numbers between $10 million and $50 million, with $20 million repeated most often. None of them cite a source, because there isn't one to cite — Chip Batchelder isn't a public company executive, and the firm he leads doesn't publish financials. Here's what's actually documented about his career, and an honest look at why a number like this is close to unverifiable.</p>
 
 <div class="quick-facts">
   <h2>Quick Facts</h2>
@@ -681,7 +681,7 @@ module.exports = [
       { q: 'Why do net worth estimates for Morgan Housel vary so much?', a: "Because most of his income sources — Collaborative Fund partnership earnings, book royalty splits, speaking fees — are private. Only his Markel Group stock ownership is a matter of public record, which is why estimates that include his other income swing so much higher." }
     ],
     content: `
-<p>Search "Morgan Housel net worth" and you'll find one of the widest spreads in the personal-finance-writer category: some sites cite a verified-sounding $641,718, others estimate $5 million to $8 million. Both numbers are technically defensible, because they're measuring different things. Here's what's actually documented about the man who wrote one of the bestselling personal finance books of the last decade — and why his case is a genuinely useful example of how net worth estimates get built.</p>
+<p>Search "<strong>Morgan Housel net worth</strong>" and you'll find one of the widest spreads in the personal-finance-writer category: some sites cite a verified-sounding $641,718, others estimate $5 million to $8 million. Both numbers are technically defensible, because they're measuring different things. Here's what's actually documented about the man who wrote one of the bestselling personal finance books of the last decade — and why his case is a genuinely useful example of how net worth estimates get built.</p>
 
 <div class="quick-facts">
   <h2>Quick Facts</h2>
@@ -795,7 +795,7 @@ module.exports = [
       { q: 'Why do net worth estimates for Josh Kesselman vary so much?', a: "Because HBI International and its brands are privately held with no public financial filings. Every estimate online is built from assumptions about revenue and market position, not verified financial records." }
     ],
     content: `
-<p>Search "Josh Kesselman net worth" and the numbers scatter all over the place — $45 million on one site, north of $150 million on another, with Forbes separately pegging the RAW brand itself at roughly $200 million. None of these are confirmed figures, because Kesselman's companies are privately held and he has never published a personal net worth. Here's what's actually documented about how he built RAW rolling papers, and why the estimates disagree so much.</p>
+<p>Search "<strong>Josh Kesselman net worth</strong>" and the numbers scatter all over the place — $45 million on one site, north of $150 million on another, with Forbes separately pegging the RAW brand itself at roughly $200 million. None of these are confirmed figures, because Kesselman's companies are privately held and he has never published a personal net worth. Here's what's actually documented about how he built RAW rolling papers, and why the estimates disagree so much.</p>
 
 <div class="quick-facts">
   <h2>Quick Facts</h2>
@@ -916,7 +916,7 @@ module.exports = [
       { q: 'Is Ben Meiselas still practicing law while running MeidasTouch?', a: 'Yes, he continues to work as a partner at Geragos & Geragos alongside his media work.' }
     ],
     content: `
-<p>Search "Ben Meiselas net worth" and you'll get half a dozen different answers — $1.5 million on one site, $10 million on another, "over $5 million" somewhere in between. None of them cite a source. That's not unusual for this corner of the internet, but it does mean the honest answer is messier than a single headline number. Below is what's actually documented about his career, plus a straight look at where these estimates come from and why they disagree so much.</p>
+<p>Search "<strong>Ben Meiselas net worth</strong>" and you'll get half a dozen different answers — $1.5 million on one site, $10 million on another, "over $5 million" somewhere in between. None of them cite a source. That's not unusual for this corner of the internet, but it does mean the honest answer is messier than a single headline number. Below is what's actually documented about his career, plus a straight look at where these estimates come from and why they disagree so much.</p>
 
 <div class="quick-facts">
   <h2>Quick Facts</h2>
