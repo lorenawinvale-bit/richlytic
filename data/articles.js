@@ -22,7 +22,7 @@ module.exports = [
       { q: 'Why do net worth estimates for Gabi Butler vary so much?', a: "Because her income spans social media sponsorships, brand ambassador fees, cheerleading-related earnings, and media appearances — none of which come with public financial disclosure. Every published estimate is a guess built from visibility, not verified records." }
     ],
     content: `
-<p>Few athletes have built a media career quite like Gabi Butler's: a two-time world champion flyer years before most people had heard her name, then a breakout reality TV personality practically overnight once Netflix's cameras started rolling. That jump from niche sport to mainstream recognition is exactly why <strong>Gabi Butler's net worth</strong> is so hard to pin down — most estimates land between $1 million and $2 million, but none of them are built from anything more solid than visible social media following and assumed sponsorship rates. Here's what's actually documented about her career.</p>
+<p>Few athletes have built a media career quite like Gabi Butler's: a two-time world champion flyer years before most people had heard her name, then a breakout reality TV personality practically overnight once Netflix's cameras started rolling. That jump from niche sport to mainstream recognition is exactly why <strong>Gabi Butler net worth</strong> is so hard to pin down — most estimates land between $1 million and $2 million, but none of them are built from anything more solid than visible social media following and assumed sponsorship rates. Here's what's actually documented about her career.</p>
 
 <div class="quick-facts">
   <h2>Quick Facts</h2>
@@ -131,7 +131,7 @@ module.exports = [
       { q: 'Why do net worth estimates for Geoffrey Fieger vary so much?', a: "Because contingency-fee law practice produces highly volatile, case-by-case income that isn't publicly disclosed. Every published estimate is built from assumptions about settlement sizes and case volume, not verified financial records." }
     ],
     content: `
-<p>Few net worth figures on the internet disagree with each other as violently as <strong>Geoffrey Fieger's net worth</strong> — one estimate puts him at $2 million, another at $50 million, and a third as high as $200 million, a 100x spread that has no real parallel among the entrepreneurs and professionals covered on this site. That gap exists because Fieger Law is privately held and contingency-fee legal income is never publicly disclosed. Here's what's actually documented about the attorney best known for defending Jack Kevorkian and running for Michigan governor.</p>
+<p>Few net worth figures on the internet disagree with each other as violently as <strong>Geoffrey Fieger net worth</strong> estimates — one estimate puts him at $2 million, another at $50 million, and a third as high as $200 million, a 100x spread that has no real parallel among the entrepreneurs and professionals covered on this site. That gap exists because Fieger Law is privately held and contingency-fee legal income is never publicly disclosed. Here's what's actually documented about the attorney best known for defending Jack Kevorkian and running for Michigan governor.</p>
 
 <div class="quick-facts">
   <h2>Quick Facts</h2>
