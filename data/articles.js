@@ -1,5 +1,181 @@
 module.exports = [
   {
+    slug: 'chadwick-boseman-net-worth-2026',
+    title: 'Chadwick Boseman Net Worth: The Real Story of His Estate',
+    seoTitle: 'Chadwick Boseman Net Worth: The Real Story of His Estate',
+    excerpt: "Chadwick Boseman net worth was estimated at $4M-$12M when he died in 2020. Here's what probate records actually showed — and the 2026 dispute over it.",
+    metaDescription: "Chadwick Boseman net worth was estimated at $4M-$12M when he died in 2020. Here's what probate records actually showed — and the 2026 dispute over it.",
+    date: '2026-07-30',
+    author: 'Richlytic Editorial',
+    netWorth: '$4M - $12M (at death, 2020)',
+    profession: 'Actor',
+    category: 'legal-media',
+    image: '/images/articles/chadwick-boseman-photo.jpg',
+    faqs: [
+      { q: "What was Chadwick Boseman's net worth when he died?", a: 'Estimates ranged from $4 million to $12 million. His formal probate estate was initially valued at about $938,500, with assets later accounted at more than $3.8 million.' },
+      { q: 'Did Chadwick Boseman leave a will?', a: 'No. He died intestate in August 2020, which is why his estate went through California probate court and why the filings became public.' },
+      { q: "Who inherited Chadwick Boseman's estate?", a: 'A 2022 court order divided it 50% to his widow, Taylor Simone Ledward, and 25% each to his parents, Leroy and Carolyn Boseman. He had no children.' },
+      { q: 'How much was Chadwick Boseman paid for Black Panther?', a: 'Reports differ. Some outlets have reported a figure around $2 million; others reported $500,000 plus profit participation. Neither figure was officially confirmed by Marvel or Boseman\'s representatives.' },
+      { q: 'Why was his net worth low for such a famous actor?', a: 'He was a leading man for roughly seven years, was reportedly paid a newcomer\'s fee on the film that made him a star, and a probate estate reflects what remains after tax, commissions and expenses — not career earnings.' },
+      { q: 'What is the 2026 lawsuit about?', a: "In July 2026 his brothers petitioned a Los Angeles court to remove Ledward as administrator, alleging the estate wasn't fully distributed and that royalties, residuals, intellectual property rights and other assets weren't fully accounted for. These are allegations in a pending petition, not proven facts." },
+      { q: 'Does his estate still earn money?', a: 'Yes. Residuals from his films and television work, plus image and likeness rights, generate ongoing income — which is central to the current dispute.' },
+      { q: 'Was Chadwick Boseman married?', a: 'Yes. He married Taylor Simone Ledward shortly before his death, after an engagement in 2019. They kept the relationship private throughout.' },
+      { q: 'What did he do for Sienna Miller?', a: "According to Miller's own account, he gave up part of his own 21 Bridges salary so she could be paid what she'd asked for after the studio initially declined." },
+      { q: 'How old was he when he died?', a: '43. He died on 28 August 2020 from complications of stage IV colon cancer, first diagnosed as stage III in 2016.' },
+      { q: 'Did Chadwick Boseman win an Oscar?', a: 'He was nominated posthumously for Best Actor for Ma Rainey\'s Black Bottom, and won a Golden Globe and a SAG Award for the role, but not the Academy Award.' },
+      { q: 'Who controls his estate today?', a: 'Ledward has been administrator since 2020. That role is the subject of the pending 2026 petition, and no court ruling on it had been issued as of this writing.' }
+    ],
+    content: `
+<p class="article-updated" style="color: var(--text-dim); font-size: 0.85rem; font-style: italic; margin: -8px 0 20px;">Last updated: July 2026</p>
+<p><strong>Chadwick Boseman net worth</strong> was estimated between $4 million and $12 million when he died in August 2020 at the age of 43. That's a three-fold spread, and the spread itself is the honest answer: nobody outside his accountants and his lawyers ever knew the real figure.</p>
+<p>What we do have is court paperwork. Boseman died without a will, which meant his finances went through a California probate court — and probate is public. Those filings put the formal estate at roughly $938,500 at the start, with assets later accounted at more than $3.8 million.</p>
+<p>People read that and get stuck. This was the man who carried a film to $1.35 billion worldwide. How does that end in a few million dollars? There are good answers to that question. Most net worth pages don't bother giving them.</p>
+
+<div class="quick-facts">
+  <h2>Chadwick Boseman Net Worth at a Glance</h2>
+  <div class="quick-facts-scroll">
+  <table>
+    <tr><td>Full Name</td><td>Chadwick Aaron Boseman</td></tr>
+    <tr><td>Born</td><td>November 29, 1976, Anderson, South Carolina</td></tr>
+    <tr><td>Died</td><td>August 28, 2020, Los Angeles &mdash; age 43</td></tr>
+    <tr><td>Estimated Net Worth at Death</td><td>$4 million&ndash;$12 million, depending on source</td></tr>
+    <tr><td>Initial Probate Valuation</td><td>~$938,500</td></tr>
+    <tr><td>Assets Later Accounted</td><td>$151,000 cash; $241,000 IRA; $3.3 million stock in Chadwick Boseman, Inc.</td></tr>
+    <tr><td>Will</td><td>None &mdash; died intestate</td></tr>
+    <tr><td>Estate Split (2022 order)</td><td>50% to his widow, 25% to each parent</td></tr>
+    <tr><td>Children</td><td>None</td></tr>
+    <tr><td>Best Known For</td><td>T'Challa in Black Panther</td></tr>
+    <tr><td>Final Film</td><td>Ma Rainey's Black Bottom (2020)</td></tr>
+  </table>
+  </div>
+</div>
+
+<h2>Why the Estimates Range From $4 Million to $12 Million</h2>
+<p><a href="https://www.celebritynetworth.com/richest-celebrities/actors/chadwick-boseman-net-worth/" target="_blank" rel="nofollow noopener">Celebrity Net Worth settled on $4 million</a>. Several other outlets published around $12 million. Both stated it plainly, as though it were checkable. Neither had access to a single bank statement.</p>
+<p>Here's what actually creates that gap.</p>
+<p><strong>A probate estate is not a career total.</strong> Probate measures what's left on one specific day. Before anything reaches that column, subtract federal and California income tax, agent commissions at roughly ten percent, management at another fifteen, legal and business-management fees, mortgages, and every dollar already spent or given away over a decade. An actor can earn thirty or forty million across a career and leave two million in an estate. That isn't unusual. It's normal.</p>
+<p><strong>His run at the top was short.</strong> <em>42</em> came out in 2013. He died in 2020. Seven years as a genuine leading man, and the last four of those were spent working through cancer treatment. Compare that to a peer who has been headlining since 2008 and you're not comparing like with like.</p>
+<p><strong>Marvel reportedly paid him as a newcomer.</strong> This is the single biggest reason the number looks small, and it deserves its own section below.</p>
+<p><strong>Some estimators count future money. Some don't.</strong> Residuals from Marvel and Netflix keep arriving. If you value the estate including projected royalties and intellectual property rights, you get a much larger figure than if you count only cash and securities on hand. Both approaches are defensible, which is exactly why published numbers disagree.</p>
+<p>So when someone asks what Chadwick Boseman's net worth was, the accurate reply is a range with a reason attached — not a figure with a dollar sign and false confidence.</p>
+
+<h2>What the Probate Records Actually Show</h2>
+<p>This is the documented part, and it's worth walking through in order because the numbers move.</p>
+<p><strong>October 2020.</strong> Two months after his death, his widow Taylor Simone Ledward filed a probate case in Los Angeles. The petition recorded that Boseman had died intestate and listed the estate's estimated value at $938,500. She asked to be appointed administrator with limited authority, and the court granted it. Besides Ledward, the only other family members named in the documents were his parents, Leroy and Carolyn Boseman.</p>
+<p>That $938,500 figure is what most 2020 headlines ran with, and it's where a lot of the confusion started. It was an opening estimate for court purposes, not a valuation of everything he owned.</p>
+<p><strong>June 2022.</strong> By this point the picture was clearer. The estate had roughly $2.5 million on hand, including about $157,000 in cash, plus a $900,000 bond held within the probate case. After outstanding bills were settled, roughly $2.3 million remained available to distribute.</p>
+<p><strong>The asset breakdown filed with the court.</strong> $151,000 in cash. $241,000 in an IRA. And $3.3 million in stock held by Chadwick Boseman, Inc. — his personal corporation, which is how most working actors structure their income. The court reviewed the accounting at that stage and found it true and correct. Ledward waived her administrator's fee entirely.</p>
+<p><strong>October 4, 2022.</strong> A judge issued a distribution order: half the estate to Ledward, the other half split evenly between Leroy and Carolyn Boseman, with provision for a long-term care insurance policy for his mother.</p>
+<p>That division wasn't a negotiated settlement or a gesture of goodwill. It's what California law does when someone dies without a will, leaves a surviving spouse, and has no children — the separate property splits between the spouse and the parents. The outcome looked generous toward his family precisely because nobody chose it. The statute chose it.</p>
+<p>Which brings us to the part of this story that is still unfolding.</p>
+
+<h2>The 2026 Estate Dispute</h2>
+<p>In July 2026 — nearly six years after his death — Boseman's brothers Derrick and Kevin filed a petition in a Los Angeles court asking that Ledward be suspended and removed as administrator of the estate, according to <a href="https://www.nbcnews.com/pop-culture/pop-culture-news/chadwick-bosemans-brothers-seek-remove-widow-control-late-actors-estat-rcna588884" target="_blank" rel="nofollow noopener">NBC News' reporting on the filing</a>.</p>
+<p>The petition alleges that despite the 2022 order, more than $3.8 million in cash and other assets still hasn't been fully distributed, and that the probate estate was never formally closed. According to the petition, nearly four years passed after the court's order without the distribution being completed.</p>
+<p>The brothers also allege that Ledward "failed to fully account" for assets they say belong to the estate: royalties and residuals, image and intellectual property rights, real property, and a bank account they describe as previously undisclosed. They further allege she continued to exert unilateral control over estate matters without consulting the family, and that numerous residual payments from SAG-AFTRA weren't formally accounted for.</p>
+<p>Derrick and Kevin filed on behalf of their parents, who assigned their interests in the estate to an entity called Boseman Family LLC. In a statement issued days after the filing, the brothers said their parents had spent years seeking clarity about the estate, including their brother's intellectual property and legacy, and that the family had been unaware the probate case remained open.</p>
+<p><strong>Read this carefully if you're following the story:</strong> these are allegations in a pending petition. They are not findings of fact. No public response from Ledward or her attorney had surfaced at the time this was written, and the same court had previously reviewed her accounting in 2022 and found it accurate at that stage. An open dispute has two sides, and so far only one of them has filed.</p>
+<p>What the dispute does confirm is something the raw net worth figure hides — the estate is not a static pot of money. It's an ongoing revenue stream, and the argument is about who controls it.</p>
+
+<h2>How Chadwick Boseman Earned His Money</h2>
+
+<h2>The Long Apprenticeship</h2>
+<p>Before any of the film work, there were years of television: <em>Lincoln Heights</em>, <em>Persons Unknown</em>, <em>CSI: NY</em>, <em>ER</em>, <em>Law &amp; Order</em>. Guest roles and short arcs. He was also a writer and director in theatre, and he graduated from Howard University before studying at the British American Drama Academy at Oxford.</p>
+<p>None of that built wealth. It's worth mentioning anyway, because it explains the timeline. He was thirty-six when <em>42</em> made him recognisable. That's late, and it compressed everything that followed.</p>
+
+<h2>The Biopics</h2>
+<p><em>42</em> in 2013, as Jackie Robinson. <em>Get on Up</em> in 2014, as James Brown — a physically brutal performance. <em>Marshall</em> in 2017, as Thurgood Marshall.</p>
+<p>Three real American icons in four years. These roles established him as a serious actor rather than a franchise face, which mattered enormously for the work he got later, though the paydays were mid-range studio-drama money rather than blockbuster fees.</p>
+
+<h2>Marvel — And the Salary Everyone Argues About</h2>
+<p>He appeared as T'Challa in four films: <em>Captain America: Civil War</em> (2016), <em>Black Panther</em> (2018), <em>Avengers: Infinity War</em> (2018) and <em>Avengers: Endgame</em> (2019).</p>
+<p>Reported figures, none officially confirmed by Marvel or his representatives:</p>
+<ul>
+<li><strong>Civil War</strong> — around $700,000 for his debut appearance</li>
+<li><strong>Black Panther</strong> — some outlets have reported roughly $2 million; others reported $500,000 plus a percentage of profits</li>
+</ul>
+<p>Both versions circulate widely and you'll see writers pick whichever suits their angle. The honest approach is to name both and attribute them rather than presenting either as confirmed fact.</p>
+<p>What isn't in dispute is the context: reporting at the time noted his fee was actually higher than what Chris Evans and Chris Hemsworth received for their own first Marvel films — but far below what those two were earning by the time <em>Black Panther</em> arrived. Hemsworth and Evans were reportedly on $15 million each for <em>Infinity War</em> and <em>Endgame</em>.</p>
+<p><em>Black Panther</em> grossed roughly $1.35 billion. It became the first superhero film nominated for the Academy Award for Best Picture. And the man at the centre of it was on a first-timer's contract.</p>
+<p>That's the whole answer to why his net worth looks modest. In the ordinary course of a Hollywood career, an actor absorbs a low fee on the film that makes them a star and then renegotiates from a position of enormous strength. Boseman never got to that stage. <em>Infinity War</em> and <em>Endgame</em> each grossed over $2 billion, and any profit participation from those is real money — but the renegotiated era, the one where the numbers become life-changing, never arrived.</p>
+
+<h2>Producing and Ownership</h2>
+<p>He was a producer on <em>21 Bridges</em> in 2019, not just its star. Producing credits mean a share of the upside rather than a flat fee, and for actors who last, this is usually where wealth actually accumulates. He was starting to build that side of his career when he died.</p>
+
+<h2>The Netflix Years</h2>
+<p><em>Da 5 Bloods</em> with Spike Lee, and <em>Ma Rainey's Black Bottom</em>, both released in 2020. <em>Ma Rainey</em> was his final live-action performance and earned him a posthumous Academy Award nomination, along with a Golden Globe and a Screen Actors Guild Award.</p>
+<p>Streaming deals typically pay a larger flat fee with a weaker backend than a theatrical release, which suits an actor who needs certainty. Given what he was managing privately at the time, that structure made sense.</p>
+
+<h2>Residuals — The Part That Never Stopped</h2>
+<p>Marvel films, Netflix titles, network television reruns, and his posthumous voice work as T'Challa in <em>What If…?</em> all generate residual payments. So do image and likeness rights.</p>
+<p>This is money that arrives every year without anyone acting in anything. It's also, precisely, what the 2026 petition is contesting the accounting of — which tells you it isn't trivial.</p>
+
+<h2>Career Timeline</h2>
+<div class="quick-facts">
+<div class="quick-facts-scroll">
+<table>
+  <tr><td>1976</td><td>Born in Anderson, South Carolina, to Carolyn, a nurse, and Leroy, who worked in a textile factory.</td></tr>
+  <tr><td>2000</td><td>Graduates from Howard University.</td></tr>
+  <tr><td>2008&ndash;2012</td><td>Steady television work. Writes and directs for the stage.</td></tr>
+  <tr><td>2013</td><td><em>42</em>. The breakthrough, at 36.</td></tr>
+  <tr><td>2014</td><td><em>Get on Up</em>.</td></tr>
+  <tr><td>2016</td><td>Debuts as T'Challa in <em>Civil War</em>. Diagnosed with stage III colon cancer. Tells almost nobody.</td></tr>
+  <tr><td>2017</td><td><em>Marshall</em>.</td></tr>
+  <tr><td>2018</td><td><em>Black Panther</em> and <em>Infinity War</em>. Global stardom.</td></tr>
+  <tr><td>2019</td><td><em>Endgame</em>. <em>21 Bridges</em>, as star and producer. Engaged to Taylor Simone Ledward.</td></tr>
+  <tr><td>2020</td><td><em>Da 5 Bloods</em> and <em>Ma Rainey's Black Bottom</em>. Marries Ledward privately. Dies on August 28 at 43, of complications from stage IV colon cancer.</td></tr>
+  <tr><td>2020&ndash;2022</td><td>Probate. Final distribution ordered in October 2022.</td></tr>
+  <tr><td>2026</td><td>His brothers petition to remove Ledward as administrator.</td></tr>
+</table>
+</div>
+</div>
+
+<h2>The Story That Explains the Number Better Than Any Figure</h2>
+<p>When Boseman produced <em>21 Bridges</em>, he wanted Sienna Miller opposite him. She named a salary. The studio refused it.</p>
+<p>So, <a href="https://www.foxnews.com/entertainment/sienna-miller-salary-paid-chadwick-boseman-21-bridges" target="_blank" rel="nofollow noopener">according to Miller's own account</a>, he took the difference out of his own pay to close the gap — and Miller has said she was asked to keep quiet about it.</p>
+<p>Hold that next to the other fact. He was diagnosed with stage III colon cancer in 2016. It progressed to stage IV. He never told the public. <em>Marshall</em>, <em>Black Panther</em>, <em>Infinity War</em>, <em>Endgame</em>, <em>21 Bridges</em>, <em>Da 5 Bloods</em>, <em>Ma Rainey's Black Bottom</em> — all of it was filmed during those four years, between surgeries and rounds of chemotherapy.</p>
+<p>A man with a terminal diagnosis, seven years of stardom, a habit of quietly giving money away, and no will. Read the estate figure against that and it stops looking like a shortfall.</p>
+<p>He wasn't accumulating. He was working, while he still could.</p>
+
+<h2>Chadwick Boseman's Net Worth Compared to Other Marvel Leads</h2>
+<div class="quick-facts">
+<div class="quick-facts-scroll">
+<table>
+  <tr><td>Robert Downey Jr.</td><td>~$300M+</td></tr>
+  <tr><td>Scarlett Johansson</td><td>~$165M</td></tr>
+  <tr><td>Chris Hemsworth</td><td>~$130M</td></tr>
+  <tr><td>Chris Evans</td><td>~$100M</td></tr>
+  <tr><td><strong>Chadwick Boseman</strong></td><td><strong>$4M&ndash;$12M (at death, 2020)</strong></td></tr>
+</table>
+<p class="disclaimer">Peer figures are third-party estimates, not verified financial records.</p>
+</div>
+</div>
+<p>The gap isn't a comment on his standing. It's a clock. His co-stars had a decade or more of headline earnings before <em>Black Panther</em> was even greenlit, plus renegotiated Marvel contracts and franchise bonuses on top. Boseman had one solo film and died at 43.</p>
+
+<h2>What Happens to the Estate Now</h2>
+<p>Three things are worth watching.</p>
+<p><strong>The probate case.</strong> The court will rule on whether Ledward stays as administrator. The petition asks for her suspension and removal; the outcome will determine who accounts for the remaining assets.</p>
+<p><strong>The intellectual property.</strong> Image and likeness rights for a globally recognised actor have real ongoing value, and the family's filing specifically raises them. Control of those rights matters more long-term than the cash balance.</p>
+<p><strong>The legacy work.</strong> The Chadwick Boseman Memorial Scholarship at Howard University and the university's renamed College of Fine Arts sit outside the estate dispute entirely. Whatever the court decides, that part of his legacy isn't in play.</p>
+<p>See our <a href="/about-us">verification standard</a> for how we handle open disputes and unverified allegations across every profile we publish. Browse more <a href="/net-worth">verified net worth profiles</a> of actors and public figures whose estates and earnings raise similar questions.</p>
+
+<div class="post-faq">
+  <details><summary>What was Chadwick Boseman's net worth when he died?</summary><p>Estimates ranged from $4 million to $12 million. His formal probate estate was initially valued at about $938,500, with assets later accounted at more than $3.8 million.</p></details>
+  <details><summary>Did Chadwick Boseman leave a will?</summary><p>No. He died intestate in August 2020, which is why his estate went through California probate court and why the filings became public.</p></details>
+  <details><summary>Who inherited Chadwick Boseman's estate?</summary><p>A 2022 court order divided it 50% to his widow, Taylor Simone Ledward, and 25% each to his parents, Leroy and Carolyn Boseman. He had no children.</p></details>
+  <details><summary>How much was Chadwick Boseman paid for Black Panther?</summary><p>Reports differ. Some outlets have reported a figure around $2 million; others reported $500,000 plus profit participation. Neither figure was officially confirmed by Marvel or Boseman's representatives.</p></details>
+  <details><summary>Why was his net worth low for such a famous actor?</summary><p>He was a leading man for roughly seven years, was reportedly paid a newcomer's fee on the film that made him a star, and a probate estate reflects what remains after tax, commissions and expenses — not career earnings.</p></details>
+  <details><summary>What is the 2026 lawsuit about?</summary><p>In July 2026 his brothers petitioned a Los Angeles court to remove Ledward as administrator, alleging the estate wasn't fully distributed and that royalties, residuals, intellectual property rights and other assets weren't fully accounted for. These are allegations in a pending petition, not proven facts.</p></details>
+  <details><summary>Does his estate still earn money?</summary><p>Yes. Residuals from his films and television work, plus image and likeness rights, generate ongoing income — which is central to the current dispute.</p></details>
+  <details><summary>Was Chadwick Boseman married?</summary><p>Yes. He married Taylor Simone Ledward shortly before his death, after an engagement in 2019. They kept the relationship private throughout.</p></details>
+  <details><summary>What did he do for Sienna Miller?</summary><p>According to Miller's own account, he gave up part of his own 21 Bridges salary so she could be paid what she'd asked for after the studio initially declined.</p></details>
+  <details><summary>How old was he when he died?</summary><p>43. He died on August 28, 2020 from complications of stage IV colon cancer, first diagnosed as stage III in 2016.</p></details>
+  <details><summary>Did Chadwick Boseman win an Oscar?</summary><p>He was nominated posthumously for Best Actor for Ma Rainey's Black Bottom, and won a Golden Globe and a SAG Award for the role, but not the Academy Award.</p></details>
+  <details><summary>Who controls his estate today?</summary><p>Ledward has been administrator since 2020. That role is the subject of the pending 2026 petition, and no court ruling on it had been issued as of this writing.</p></details>
+</div>
+`
+  },
+  {
     slug: 'martin-garrix-net-worth-2026',
     title: 'Martin Garrix Net Worth 2026: The Real Earnings Breakdown',
     seoTitle: 'Martin Garrix Net Worth 2026: The Real Earnings Breakdown',
