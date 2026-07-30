@@ -27,7 +27,7 @@ module.exports = [
     ],
     content: `
 <p class="article-updated" style="color: var(--text-dim); font-size: 0.85rem; font-style: italic; margin: -8px 0 20px;">Last updated: July 2026</p>
-<p><strong>IShowSpeed net worth</strong> in 2026 is estimated at somewhere between $30 million and $40 million. Celebrity Net Worth has him at $35 million. <a href="https://www.forbes.com/sites/stevenbertoni/2026/06/23/forbes-top-creators-2026/" target="_blank" rel="nofollow noopener">Forbes puts a harder number on part of the picture</a> — roughly $30 million in gross earnings between March 2025 and March 2026, landing him at eighth on their Top Creators list.</p>
+<p><strong>IShowSpeed net worth</strong> in 2026 is estimated at somewhere between $30 million and $40 million. Celebrity Net Worth has him at $35 million. Forbes puts a harder number on part of the picture — roughly $30 million in gross earnings between March 2025 and March 2026, landing him at eighth on their Top Creators list.</p>
 <p>Those two numbers aren't actually the same thing, which is where most articles on this topic get sloppy.</p>
 <p>Darren Jason Watkins Jr. is 21. Six years ago he was streaming NBA 2K to an audience of two people. Now he's touring entire continents, appeared at the 2026 World Cup closing ceremony next to Tom Cruise, and has fielded reported platform offers in the nine-figure range. Whatever the exact figure is, the trajectory alone is worth understanding — and it's a lot more interesting than any single dollar amount.</p>
 
@@ -51,7 +51,7 @@ module.exports = [
 
 <h2>Why "$30M-$40M" Is the Honest Answer, Not a Cop-Out</h2>
 <p>Here's the thing almost no net worth page says out loud: creator net worth is fundamentally harder to estimate than a CEO's or an athlete's, because so much of the money moves through private deals nobody ever sees.</p>
-<p>Forbes' number is the closest thing to verified ground truth here, and even Forbes is explicit that it's measuring gross earnings, not personal wealth. Their estimate covers what he generated before the costs of running a global streaming operation — camera operators, producers, managers, security, transportation, accommodation, insurance, technical support — and before taxes and fees to his representatives. A YouTuber touring three continents a year has overhead that a normal creator simply doesn't.</p>
+<p><a href="https://www.forbes.com/sites/stevenbertoni/2026/06/23/forbes-top-creators-2026/" target="_blank" rel="nofollow noopener">Forbes' number</a> is the closest thing to verified ground truth here, and even Forbes is explicit that it's measuring gross earnings, not personal wealth. Their estimate covers what he generated before the costs of running a global streaming operation — camera operators, producers, managers, security, transportation, accommodation, insurance, technical support — and before taxes and fees to his representatives. A YouTuber touring three continents a year has overhead that a normal creator simply doesn't.</p>
 <p>Then there's the Rumble question. Speed <a href="https://corp.rumble.com/blog/kai-cenat-and-ishowspeed-announce-exclusive-streams-with-rumble/" target="_blank" rel="nofollow noopener">signed an exclusive streaming deal with Rumble in May 2023</a>, and estimates of that arrangement's total value range wildly — some reports put later negotiations as high as eight or nine figures, others far lower, and none of it is confirmed by either party. That single contract is probably the biggest reason his net worth estimate has a $10 million spread.</p>
 <p>So when you see one site say $35 million and another say $40 million, they're not disagreeing about facts. They're making different assumptions about a Rumble contract nobody has actually published.</p>
 
@@ -344,9 +344,9 @@ module.exports = [
     ],
     content: `
 <p class="article-updated" style="color: var(--text-dim); font-size: 0.85rem; font-style: italic; margin: -8px 0 20px;">Last updated: July 2026</p>
-<p><strong>Martin Garrix net worth</strong> is estimated at $30 million to $50 million in 2026, depending on which source you trust. <a href="https://www.celebritynetworth.com/richest-celebrities/richest-djs/martin-garrix-net-worth/" target="_blank" rel="nofollow noopener">Celebrity Net Worth puts him at $30 million</a>. Several finance and entertainment outlets place him in the $35-50 million range.</p>
+<p><strong>Martin Garrix net worth</strong> is estimated at $30 million to $50 million in 2026, depending on which source you trust. Celebrity Net Worth puts him at $30 million. Several finance and entertainment outlets place him in the $35-50 million range.</p>
 <p>Nobody outside his accountants knows the exact number, and any article claiming a precise figure to the dollar is guessing. What can be verified is how he earns — and on that, the record is unusually clear for a DJ.</p>
-<p>Garrix has appeared on <a href="https://www.forbes.com/pictures/598895364bbe6f5997ef10f3/9-martin-garrix-195-milli/" target="_blank" rel="nofollow noopener">Forbes' Electronic Cash Kings list</a> with published annual earnings, he owns his own record label, and he's been the world's number one DJ five times. That's a real business, not just a touring calendar.</p>
+<p>Garrix has appeared on Forbes' Electronic Cash Kings list with published annual earnings, he owns his own record label, and he's been the world's number one DJ five times. That's a real business, not just a touring calendar.</p>
 
 <div class="quick-facts">
   <h2>Martin Garrix Net Worth at a Glance</h2>
@@ -376,7 +376,7 @@ module.exports = [
 <p>So treat any single figure as a range, not a fact. The honest answer to what Martin Garrix net worth actually is: somewhere in the tens of millions, most credibly between $30 million and $50 million.</p>
 
 <h2>What Forbes Actually Published</h2>
-<p>These are the numbers with a real methodology behind them. Forbes calculated pre-tax income using data from Nielsen, Pollstar, Songkick, Bandsintown, promoters and managers:</p>
+<p>These are the numbers with a real methodology behind them. Forbes calculated pre-tax income using data from Nielsen, Pollstar, Songkick, Bandsintown, promoters and managers, publishing Garrix on its <a href="https://www.forbes.com/pictures/598895364bbe6f5997ef10f3/9-martin-garrix-195-milli/" target="_blank" rel="nofollow noopener">Electronic Cash Kings list</a>:</p>
 <ul>
 <li><strong>2016 list:</strong> $16 million (ranked No. 9) — earnings measured June 2015 to June 2016</li>
 <li><strong>2017 list:</strong> $19.5 million (ranked No. 9) — driven largely by roughly 120 gigs in twelve months</li>
