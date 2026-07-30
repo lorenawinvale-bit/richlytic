@@ -1,5 +1,161 @@
 module.exports = [
   {
+    slug: 'martin-garrix-net-worth-2026',
+    title: 'Martin Garrix Net Worth 2026: The Real Earnings Breakdown',
+    seoTitle: 'Martin Garrix Net Worth 2026: The Real Earnings Breakdown',
+    excerpt: "Martin Garrix net worth in 2026 sits between $30 million and $50 million depending on the source. Here's what's actually verified, what isn't, and how he earns it.",
+    metaDescription: "Martin Garrix net worth in 2026 sits between $30 million and $50 million depending on the source. Here's what's actually verified, what isn't, and how he earns it.",
+    date: '2026-07-30',
+    author: 'Richlytic Editorial',
+    netWorth: '$30M - $50M (unverified)',
+    profession: 'DJ, Producer, Record Label Owner',
+    category: 'entertainment',
+    image: '/images/articles/martin-garrix-photo.jpg',
+    faqs: [
+      { q: 'What is Martin Garrix\'s net worth in 2026?', a: 'Estimates range from $30 million to $50 million. Celebrity Net Worth lists $30 million; several other outlets estimate $35-50 million. No figure is officially confirmed.' },
+      { q: 'How much does Martin Garrix earn per year?', a: 'His highest verified annual figure is $19.5 million (Forbes, 2017, pre-tax). Current annual earnings aren\'t publicly documented since Forbes stopped publishing its DJ earnings list.' },
+      { q: 'How much does Martin Garrix charge per show?', a: 'Not publicly confirmed. Elite festival headliners generally command $100,000 to $500,000 or more per set, and Garrix sits at the higher end of that market.' },
+      { q: 'Why do net worth estimates for Martin Garrix vary so much?', a: "Because they're built from public data — tour grosses, chart performance, brand deals — without access to actual finances. Some sites also republish figures that are years out of date." },
+      { q: "What is Martin Garrix's main source of income?", a: 'Live performances. Streaming royalties, his label STMPD RCRDS, brand partnerships and production credits make up the rest.' },
+      { q: 'Does Martin Garrix own his record label?', a: 'Yes. He founded STMPD RCRDS in 2016 and also owns an Amsterdam studio complex, which means he retains far more of his revenue than a typical major-label artist.' },
+      { q: "How many times has Martin Garrix been the world's number one DJ?", a: "Five times in DJ Mag's Top 100 poll — 2016, 2017, 2018, 2022 and 2024 — tying the all-time record with Armin van Buuren." },
+      { q: 'How old was Martin Garrix when he became famous?', a: 'Seventeen. "Animals" was released in 2013 when he was 17, and he headlined Ultra Music Festival at the same age.' },
+      { q: 'Is Martin Garrix the richest DJ in the world?', a: 'No. Calvin Harris, Tiesto, David Guetta and Steve Aoki all have substantially higher estimated net worths, largely because their careers began a decade or more earlier.' },
+      { q: "What are Martin Garrix's biggest songs?", a: '"Animals," "In the Name of Love" with Bebe Rexha, "Scared to Be Lonely" with Dua Lipa, "High on Life," and "We Are the People" with Bono and The Edge.' },
+      { q: "Does Martin Garrix make money when he isn't touring?", a: 'Yes — streaming royalties, publishing and production credits, label revenue and brand deals all continue regardless of his tour schedule.' },
+      { q: "Will Martin Garrix's net worth keep growing?", a: 'Most likely, given his age, catalogue size and label ownership. The largest single jump would come from a catalogue sale, which many artists of his generation have pursued.' }
+    ],
+    content: `
+<p class="article-updated" style="color: var(--text-dim); font-size: 0.85rem; font-style: italic; margin: -8px 0 20px;">Last updated: July 2026</p>
+<p><strong>Martin Garrix net worth</strong> is estimated at $30 million to $50 million in 2026, depending on which source you trust. <a href="https://www.celebritynetworth.com/richest-celebrities/richest-djs/martin-garrix-net-worth/" target="_blank" rel="nofollow noopener">Celebrity Net Worth puts him at $30 million</a>. Several finance and entertainment outlets place him in the $35-50 million range.</p>
+<p>Nobody outside his accountants knows the exact number, and any article claiming a precise figure to the dollar is guessing. What can be verified is how he earns — and on that, the record is unusually clear for a DJ.</p>
+<p>Garrix has appeared on <a href="https://www.forbes.com/pictures/598895364bbe6f5997ef10f3/9-martin-garrix-195-milli/" target="_blank" rel="nofollow noopener">Forbes' Electronic Cash Kings list</a> with published annual earnings, he owns his own record label, and he's been the world's number one DJ five times. That's a real business, not just a touring calendar.</p>
+
+<div class="quick-facts">
+  <h2>Martin Garrix Net Worth at a Glance</h2>
+  <div class="quick-facts-scroll">
+  <table>
+    <tr><td>Full Name</td><td>Martijn Gerard Garritsen</td></tr>
+    <tr><td>Born</td><td>May 14, 1996, Amstelveen, Netherlands</td></tr>
+    <tr><td>Profession</td><td>DJ, producer, label owner</td></tr>
+    <tr><td>Aliases</td><td>GRX, Ytram</td></tr>
+    <tr><td>Estimated Net Worth (2026)</td><td>$30 million&ndash;$50 million (estimates vary by source)</td></tr>
+    <tr><td>Highest Verified Annual Earnings</td><td>$19.5 million (Forbes, 2017)</td></tr>
+    <tr><td>Label</td><td>STMPD RCRDS (founded 2016)</td></tr>
+    <tr><td>DJ Mag #1 Wins</td><td>5 (2016, 2017, 2018, 2022, 2024)</td></tr>
+    <tr><td>Breakthrough Track</td><td>"Animals" (2013)</td></tr>
+  </table>
+  </div>
+</div>
+
+<h2>Why Every Site Gives a Different Number</h2>
+<p>This is the part most net worth articles skip, and it's the reason readers land on five pages and get five answers.</p>
+<p>Net worth estimates for musicians are built from public data — reported tour grosses, chart performance, label filings, brand deal rumours — and then adjusted by whoever is doing the estimating. Nobody has access to his tax returns, his label's actual profit margins, or his private investments.</p>
+<p>This matters more for a working DJ than it does for, say, a tech founder with a publicly traded company, because almost none of a touring musician's income runs through a filing that becomes public record. A festival fee is negotiated privately between an agent and a promoter. A brand deal is covered by an NDA in most cases. A label's internal profit-and-loss statement, unless the company is acquired or goes public, simply never surfaces. Every net worth site covering musicians is working from the same limited set of public signals — which is exactly why the estimates cluster in a range rather than converging on one number.</p>
+<p>Three things make DJs especially hard to estimate:</p>
+<p><strong>Touring income is gross, not net.</strong> A headline fee sounds enormous until you subtract production, crew, travel, agent commission, management, and Dutch tax. What gets reported is almost always the top line.</p>
+<p><strong>Label economics are opaque.</strong> STMPD RCRDS releases dozens of tracks a year from other artists. Whether that's a major profit centre or close to break-even isn't public.</p>
+<p><strong>Older figures get recycled.</strong> Some sites still quote numbers from 2015 or 2019 with a fresh date slapped on top. If a page says $14 million, it's running on a decade-old estimate.</p>
+<p>So treat any single figure as a range, not a fact. The honest answer to what Martin Garrix net worth actually is: somewhere in the tens of millions, most credibly between $30 million and $50 million.</p>
+
+<h2>What Forbes Actually Published</h2>
+<p>These are the numbers with a real methodology behind them. Forbes calculated pre-tax income using data from Nielsen, Pollstar, Songkick, Bandsintown, promoters and managers:</p>
+<ul>
+<li><strong>2016 list:</strong> $16 million (ranked No. 9) — earnings measured June 2015 to June 2016</li>
+<li><strong>2017 list:</strong> $19.5 million (ranked No. 9) — driven largely by roughly 120 gigs in twelve months</li>
+</ul>
+<p>Forbes itself acknowledged the estimates are contested — some artists' teams called them accurate, others said too high or too low. That candour is worth more than a confident round number from a site with no methodology at all.</p>
+<p>Forbes discontinued the Electronic Cash Kings list, which is why post-2019 figures for every DJ became far shakier. Anyone publishing a precise 2026 earnings number is extrapolating.</p>
+
+<h2>Live Shows and Festival Headlining</h2>
+<p>This is the engine. Garrix headlines Tomorrowland, Ultra, EDC and Coachella, and has held a residency at Ushuaia Ibiza. He became the youngest DJ to headline Ultra Music Festival at 17.</p>
+<p>Top-tier festival DJs typically command somewhere between $100,000 and $500,000 per set, with the biggest names going higher for stadium-scale or Vegas-style bookings. Garrix sits in the upper bracket of that market. In his heaviest touring years he played well over 100 shows annually — which is where the bulk of any DJ fortune actually comes from.</p>
+<p>The economics of a single festival date are also more complicated than a flat fee suggests. A headline slot typically comes with production riders (stage design, lighting, visual content), travel and accommodation for a touring crew, and a cut to the agency that booked the date — all before tax. That's part of why the Forbes methodology matters so much here: it's one of the only public attempts to actually account for scale of touring rather than just repeating a single quoted fee as if it were annual income.</p>
+
+<h2>Streaming and Recorded Music Royalties</h2>
+<p>"Animals," "In the Name of Love," "Scared to Be Lonely" and "High on Life" have accumulated billions of combined streams. Streaming pays modestly per play, but at his catalogue's scale it becomes a serious recurring income line — and unlike touring, it arrives whether or not he's on a plane.</p>
+<p>Worth noting for anyone doing the maths: streaming royalties are split between recording rights, publishing, and any featured artists. The headline stream count is never the payout.</p>
+<p>A decade-plus catalogue also behaves differently from a fresh single. New releases spike and fade within a news cycle, but a track like "Animals" keeps generating a small, steady trickle of plays years after release through playlists, DJ sets by other artists, and nostalgia listening — the kind of long-tail income that compounds quietly rather than showing up as a single headline number in any given year.</p>
+
+<h2>STMPD RCRDS and Studio Ownership</h2>
+<p>Founded in 2016, STMPD RCRDS gave Garrix ownership rather than just an artist deal — a genuinely important distinction. He also owns a studio complex in Amsterdam.</p>
+<p>An artist who owns his masters, his label, and his studio keeps a far larger share of every release than one signed to a major on a standard deal. Over a decade, that structural choice probably matters more to his net worth than any single hit.</p>
+<p>It also changes what the label itself is worth as an asset, separate from any income it currently generates. A roster of owned masters, a working release pipeline, and an in-house studio are the kind of assets that get valued and sometimes acquired independently of the founder's own touring career — which is part of why STMPD RCRDS is worth tracking as its own line item rather than folding it into "Martin Garrix's income" as a single number.</p>
+
+<h2>Brand Partnerships</h2>
+<p>Garrix has worked with brands including JBL and REPLAY, extending into audio, fashion and lifestyle. Endorsement fees at his level are rarely disclosed, but for a DJ with tens of millions of social followers they're a meaningful multi-million contributor over time.</p>
+<p>Audio and headphone partnerships in particular make sense for a working producer's public image in a way a random lifestyle endorsement wouldn't — the product itself is plausibly something the artist actually uses, which tends to make these deals both longer-running and more credible to fans than a one-off sponsored post from an unrelated category.</p>
+
+<h2>Production, Songwriting and Side Aliases</h2>
+<p>Beyond his own releases, Garrix produces and writes for others and releases under GRX and Ytram. He's collaborated with Dua Lipa, Bebe Rexha, Khalid, Usher, Tove Lo, and Bono and The Edge — the latter for the official UEFA EURO 2020 anthem, "We Are the People."</p>
+<p>Publishing and production credits are the quietest income stream in music and often the most durable, since they pay for decades after release.</p>
+
+<h2>The Career That Built the Fortune</h2>
+<div class="quick-facts">
+<div class="quick-facts-scroll">
+<table>
+  <tr><td>2012&ndash;2013</td><td>Signs to Spinnin' Records as a teenager. "Animals" hits number one on Beatport, making him the youngest producer to do so, and charts worldwide.</td></tr>
+  <tr><td>2014</td><td>Headlines Ultra Music Festival at 17 &mdash; the youngest ever to do so.</td></tr>
+  <tr><td>2016</td><td>Founds STMPD RCRDS. Wins DJ Mag Top 100 for the first time. Releases "In the Name of Love" with Bebe Rexha.</td></tr>
+  <tr><td>2017&ndash;2018</td><td>Wins DJ Mag Top 100 two more years running. Peak Forbes-reported earnings of $19.5 million.</td></tr>
+  <tr><td>2021</td><td>Records the official UEFA EURO anthem with Bono and The Edge.</td></tr>
+  <tr><td>2022</td><td>Wins DJ Mag Top 100 for a fourth time.</td></tr>
+  <tr><td>2024</td><td>Wins a fifth time, tying the all-time record. Expands into drum and bass and revives the Ytram alias.</td></tr>
+  <tr><td>2025&ndash;2026</td><td>Continues label output, global touring, and brand work in his thirties &mdash; with the catalogue now compounding passively.</td></tr>
+</table>
+</div>
+</div>
+
+<h2>Martin Garrix vs. Other Top DJs</h2>
+<p>Context matters here, because "$30-50 million" sounds different depending on the comparison. It's also worth noting that being the reigning No. 1 in <a href="https://djmag.com/top100djs/2024/1/martin-garrix" target="_blank" rel="nofollow noopener">DJ Mag's Top 100 poll</a> is a popularity and industry-standing ranking, not a net worth ranking — the two lists measure genuinely different things, which is exactly why Garrix can hold the top spot in one and sit well behind several peers in the other.</p>
+<div class="quick-facts">
+<div class="quick-facts-scroll">
+<table>
+  <tr><td>Calvin Harris</td><td>~$300M</td></tr>
+  <tr><td>Tiesto</td><td>~$175M</td></tr>
+  <tr><td>David Guetta</td><td>~$150M</td></tr>
+  <tr><td>Steve Aoki</td><td>~$100M</td></tr>
+  <tr><td><strong>Martin Garrix</strong></td><td><strong>$30M&ndash;$50M</strong></td></tr>
+</table>
+<p class="disclaimer">Comparison figures are third-party estimates, not verified financial records.</p>
+</div>
+</div>
+<p>The gap isn't a knock on Garrix — it's arithmetic. Harris, Tiesto and Guetta have been earning at the top of the industry for fifteen to twenty-five years, with Vegas residencies at their peak. Garrix broke through in 2013. He's a decade or more behind them on the clock while being younger than all of them by a wide margin.</p>
+
+<h2>What Could Move His Net Worth Next</h2>
+<ul>
+<li><strong>Catalogue value.</strong> Music catalogues have been selling for high multiples. If Garrix ever sold or partially sold his rights, it would reprice his net worth overnight — this is how several artists made the biggest single financial leap of their careers.</li>
+<li><strong>STMPD RCRDS growth.</strong> A label that breaks a major artist becomes worth far more than the sum of its releases.</li>
+<li><strong>Touring scale.</strong> Stadium and arena runs, or a long-term residency, shift annual income more than any release.</li>
+<li><strong>Reduced touring.</strong> He's spoken openly about the toll of constant travel. A lighter schedule would slow accumulation, though the catalogue keeps paying.</li>
+</ul>
+<p>None of these are predictions — they're simply the levers that actually move a musician's net worth at this stage of a career, as opposed to the levers that get talked about most (a single viral track, a one-off brand deal) but that rarely change the underlying picture much on their own. A catalogue sale or a genuine label exit event would be the kind of move that shows up in a net worth estimate a year later; a new single, even a hit one, mostly doesn't.</p>
+
+<h2>How These Estimates Compare to Other Profiles</h2>
+<p>Garrix's case is actually more traceable than most profiles on this site — a documented Forbes methodology exists, which isn't true for figures built purely from social following, the way <a href="/gabi-butler-net-worth-2026">Gabi Butler's net worth</a> estimates are modeled. That doesn't make the current $30-50 million range verified, but it does mean there's a real historical data point ($19.5 million, 2017) anchoring it rather than pure guesswork.</p>
+<p>See our <a href="/about-us">verification standard</a> for how we handle estimation gaps like this one across every profile we publish.</p>
+
+<h2>Conclusion</h2>
+<p>Martin Garrix's documented career runs from a 17-year-old Ultra headliner to a five-time DJ Mag No. 1, a label owner, and a Forbes-verified top earner in his mid-twenties. Each of those milestones is genuinely traceable through festival records, chart data, and Forbes' own published methodology.</p>
+<p>What isn't traceable is a precise 2026 net worth figure — the most reliable anchor remains his $19.5 million verified 2017 earnings, and everything published since is an extrapolation built on touring scale, streaming catalogue size, and label ownership rather than a disclosed financial record. Browse more <a href="/net-worth">verified net worth profiles</a> of entertainers and public figures whose income mixes touring, royalties, and brand partnerships.</p>
+
+<div class="post-faq">
+  <details><summary>What is Martin Garrix's net worth in 2026?</summary><p>Estimates range from $30 million to $50 million. Celebrity Net Worth lists $30 million; several other outlets estimate $35-50 million. No figure is officially confirmed.</p></details>
+  <details><summary>How much does Martin Garrix earn per year?</summary><p>His highest verified annual figure is $19.5 million (Forbes, 2017, pre-tax). Current annual earnings aren't publicly documented since Forbes stopped publishing its DJ earnings list.</p></details>
+  <details><summary>How much does Martin Garrix charge per show?</summary><p>Not publicly confirmed. Elite festival headliners generally command $100,000 to $500,000 or more per set, and Garrix sits at the higher end of that market.</p></details>
+  <details><summary>Why do net worth estimates for Martin Garrix vary so much?</summary><p>Because they're built from public data — tour grosses, chart performance, brand deals — without access to actual finances. Some sites also republish figures that are years out of date.</p></details>
+  <details><summary>What is Martin Garrix's main source of income?</summary><p>Live performances. Streaming royalties, his label STMPD RCRDS, brand partnerships and production credits make up the rest.</p></details>
+  <details><summary>Does Martin Garrix own his record label?</summary><p>Yes. He founded STMPD RCRDS in 2016 and also owns an Amsterdam studio complex, which means he retains far more of his revenue than a typical major-label artist.</p></details>
+  <details><summary>How many times has Martin Garrix been the world's number one DJ?</summary><p>Five times in DJ Mag's Top 100 poll — 2016, 2017, 2018, 2022 and 2024 — tying the all-time record with Armin van Buuren.</p></details>
+  <details><summary>How old was Martin Garrix when he became famous?</summary><p>Seventeen. "Animals" was released in 2013 when he was 17, and he headlined Ultra Music Festival at the same age.</p></details>
+  <details><summary>Is Martin Garrix the richest DJ in the world?</summary><p>No. Calvin Harris, Tiesto, David Guetta and Steve Aoki all have substantially higher estimated net worths, largely because their careers began a decade or more earlier.</p></details>
+  <details><summary>What are Martin Garrix's biggest songs?</summary><p>"Animals," "In the Name of Love" with Bebe Rexha, "Scared to Be Lonely" with Dua Lipa, "High on Life," and "We Are the People" with Bono and The Edge.</p></details>
+  <details><summary>Does Martin Garrix make money when he isn't touring?</summary><p>Yes — streaming royalties, publishing and production credits, label revenue and brand deals all continue regardless of his tour schedule.</p></details>
+  <details><summary>Will Martin Garrix's net worth keep growing?</summary><p>Most likely, given his age, catalogue size and label ownership. The largest single jump would come from a catalogue sale, which many artists of his generation have pursued.</p></details>
+</div>
+`
+  },
+  {
     slug: 'gabi-butler-net-worth-2026',
     title: 'Gabi Butler Net Worth 2026: A Verified Career Breakdown',
     seoTitle: 'Gabi Butler Net Worth 2026: Cheer, WWE & Verified Facts',
