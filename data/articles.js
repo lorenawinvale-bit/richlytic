@@ -1,5 +1,169 @@
 module.exports = [
   {
+    slug: 'savannah-guthrie-net-worth-2026',
+    title: 'Savannah Guthrie Net Worth 2026: Why the Figures Disagree',
+    seoTitle: 'Savannah Guthrie Net Worth 2026: Why the Figures Disagree',
+    excerpt: "Savannah Guthrie net worth is put at $40 million by some sources and $50 million by others — and her reported salary ranges from $8 million to $24 million. Here's what's actually documented.",
+    metaDescription: "Savannah Guthrie net worth 2026: estimates range from $40M to $50M, with reported salary between $8M and $24M. Here's what's documented and why the numbers conflict.",
+    date: '2026-08-02',
+    author: 'Richlytic Editorial',
+    netWorth: '$40M - $50M (unverified)',
+    profession: 'Broadcast Journalist, Attorney',
+    category: 'legal-media',
+    image: '/images/articles/savannah-guthrie-photo.jpg',
+    faqs: [
+      { q: "What is Savannah Guthrie's net worth in 2026?", a: 'Estimates range from about $40 million to $50 million. Celebrity Net Worth lists $50 million; other outlets put it nearer $40 million. No figure is officially confirmed.' },
+      { q: "What is Savannah Guthrie's Today show salary?", a: 'Reported figures vary widely — from around $8 million to $24 million per year. The gap likely reflects base salary versus total package including bonuses and other NBC work, but NBC has never disclosed terms.' },
+      { q: 'Did her salary increase after Hoda Kotb left?', a: 'Reporting suggests her compensation rose after Kotb departed in January 2025, positioning Guthrie as the show\'s lead anchor. The specific increase has not been confirmed by NBC.' },
+      { q: 'Was Savannah Guthrie a lawyer?', a: 'Yes. She earned a law degree from Georgetown University, passed the bar, and worked as a litigation attorney before joining NBC as a legal analyst — an unusual route into anchoring.' },
+      { q: 'How long has she been on the Today show?', a: 'She became a Today co-anchor in 2012, taking the lead role after Matt Lauer was fired in 2017, and has been with the programme ever since.' },
+      { q: 'What real estate does Savannah Guthrie own?', a: 'Reported holdings include two Tribeca condominiums and a property in the Catskills, together valued at roughly $16 million based on reported purchase prices.' },
+      { q: 'Why do net worth estimates for her vary so much?', a: 'Because her salary itself is disputed. A $16 million annual gap between reported figures compounds over years of earnings, producing very different totals depending on which salary a site assumed.' },
+      { q: 'Where was Savannah Guthrie born?', a: 'Melbourne, Australia, on December 27, 1971. Her family moved to Arizona when she was around two years old.' },
+      { q: 'Is Savannah Guthrie still on the Today show?', a: 'Yes. She stepped away briefly in early 2026 for a family matter and returned to the programme that April.' },
+      { q: 'Who is Savannah Guthrie married to?', a: 'Communications consultant Michael Feldman, whom she married in 2014. They have two children.' },
+      { q: 'How does her salary compare to other morning anchors?', a: 'It sits in the same broad band as other network morning-show leads, though exact comparisons are unreliable because networks rarely confirm anchor pay and reported figures often conflict.' },
+      { q: 'Did she write a book?', a: 'Yes. She has authored children\'s books and the 2024 faith-focused book Mostly What God Does, which added publishing income alongside her broadcasting work.' }
+    ],
+    content: `
+<p class="article-updated" style="color: var(--text-dim); font-size: 0.85rem; font-style: italic; margin: -8px 0 20px;">Last updated: August 2026</p>
+<p><strong>Savannah Guthrie net worth</strong> is reported at $50 million by some sources and around $40 million by others. That ten-million-dollar spread is not the interesting part. The interesting part is the salary underneath it, where published figures range from roughly $8 million a year to $24 million a year for the same job.</p>
+<p>A gap that size isn't a rounding difference. It means at least one widely repeated number is wrong, and every net worth total built on top of it inherits the error.</p>
+<p>Here's what's actually documented about her career and earnings, and why the published figures conflict so badly.</p>
+
+<div class="quick-facts">
+  <h2>Savannah Guthrie Net Worth at a Glance</h2>
+  <div class="quick-facts-scroll">
+  <table>
+    <tr><td>Full Name</td><td>Savannah Clark Guthrie</td></tr>
+    <tr><td>Born</td><td>December 27, 1971, Melbourne, Australia</td></tr>
+    <tr><td>Age</td><td>54</td></tr>
+    <tr><td>Profession</td><td>Broadcast journalist; qualified attorney</td></tr>
+    <tr><td>Estimated Net Worth</td><td>$40 million&ndash;$50 million (unverified)</td></tr>
+    <tr><td>Reported Salary</td><td>$8 million&ndash;$24 million per year, depending on source</td></tr>
+    <tr><td>Current Role</td><td>Co-anchor, NBC's Today &mdash; since 2012</td></tr>
+    <tr><td>Education</td><td>University of Arizona (journalism); Georgetown University (law)</td></tr>
+    <tr><td>Reported Real Estate</td><td>~$16 million across New York and the Catskills</td></tr>
+    <tr><td>Other Income</td><td>Book publishing, NBC News specials and election coverage</td></tr>
+  </table>
+  </div>
+</div>
+
+<h2>Why the Salary Figures Disagree So Badly</h2>
+<p>Start here, because everything else depends on it.</p>
+<p>Some outlets report Guthrie earning around $8 million a year. Others report $24 million. Both figures circulate widely, and both are presented as fact.</p>
+<p>The most plausible explanation is that they measure different things. A base anchor salary and a total compensation package — including bonuses, contract escalators, and payment for election specials, primetime work and other NBC assignments — are not the same number. A $24 million figure likely reflects the latter, while $8 million may reflect an older base salary or an earlier contract.</p>
+<p>What matters for readers is the consequence. Over a decade, a $16 million annual difference compounds into more than $100 million of assumed earnings. That is why one site lands on $40 million and another on $50 million while both claim to be describing the same person.</p>
+<p>NBC has never publicly confirmed her contract terms. Neither figure is verified.</p>
+
+<h2>How Network Anchor Contracts Actually Work</h2>
+<p>Understanding the contract structure explains the discrepancy better than any single figure does.</p>
+<p>Top anchor deals are rarely a flat annual salary. They typically combine a base for the primary programme, additional payment for other network assignments — election nights, primetime specials, breaking news coverage, streaming output — plus signing or renewal bonuses spread across the contract term, and escalators that raise pay in later years of the same deal.</p>
+<p>That structure produces several defensible "salaries" for the same person at the same time. Quote the base and you get one number. Add every component and you get a figure two or three times larger. Take the final year of a multi-year deal with escalators and you get a third.</p>
+<p>None of those are lies. They're different measurements presented without saying which one is being used — which is precisely why outlets can publish $8 million and $24 million for the same anchor in the same year and both cite sourcing.</p>
+<p>It also means the honest answer to "what does she earn" is a range, not a figure.</p>
+
+<h2>What Is Actually Confirmed</h2>
+<p>Strip out the disputed numbers and a solid record remains.</p>
+<p>Guthrie has co-anchored NBC's Today since 2012. She moved into the lead anchor position following Matt Lauer's firing in 2017, and has anchored the programme continuously since — through a co-anchor change, presidential election cycles, and major breaking news coverage.</p>
+<p>That tenure is the real basis for any estimate. Two decades at a major network, fourteen of them on its flagship morning programme, produces substantial cumulative earnings regardless of which specific salary figure is accurate.</p>
+
+<h2>The Path From Law to Anchoring</h2>
+<p>Her route into broadcasting is genuinely unusual and helps explain her value to NBC.</p>
+<p>Born in Melbourne and raised in Arizona, she studied journalism at the University of Arizona, worked in local news, then left to study law at Georgetown. She passed the bar and practised as a litigation attorney before returning to journalism.</p>
+<p>NBC initially hired her as a legal analyst, which is where the law degree paid for itself. Covering trials and legal affairs with actual legal training made her difficult to replace, and that specialism led to a White House correspondent role and eventually the Today desk.</p>
+<p>Anchors are usually paid for audience trust rather than credentials, but the credentials are why she got the opportunities that built the audience.</p>
+
+<h2>Salary Progression Over Time</h2>
+<p>Her early network earnings were modest by comparison. As a White House correspondent around 2007 she was reportedly earning in the high six figures — a good salary, but nowhere near anchor money.</p>
+<p>The step change came with the Today promotion, and reporting at the time noted she was brought into the lead role on relatively modest terms compared with her predecessor. That framing matters: she took the biggest job on the programme at a discount, and her compensation caught up over subsequent contract cycles rather than immediately.</p>
+
+<h2>What Changed When Hoda Kotb Left</h2>
+<p>Hoda Kotb announced in September 2024 that she would leave Today, and <a href="https://www.cbsnews.com/news/hoda-kotb-steps-down-today-show/" target="_blank" rel="nofollow noopener">departed in early 2025</a> after more than two decades at NBC. She had co-anchored alongside Guthrie since 2018, having stepped in following Lauer's exit.</p>
+<p>Kotb was explicit that the decision was personal rather than contractual, telling staff that turning 60 prompted the change and that her daughters and mother deserved more of her time, <a href="https://www.pbs.org/newshour/nation/hoda-kotb-announces-shes-leaving-nbcs-today-early-next-year" target="_blank" rel="nofollow noopener">according to reporting at the time</a>.</p>
+<p>Commercially, the departure left Guthrie as the programme's established anchor and its continuity with the audience. Reporting suggests her compensation rose accordingly. The logic is straightforward — a network that has just lost one half of its morning line-up has strong incentive to secure the other half — but NBC has not confirmed any figure.</p>
+
+<h2>Real Estate</h2>
+<p>Property is usually the most traceable part of a net worth estimate, because purchases generate public records.</p>
+<p>Her reported holdings include two condominiums in Tribeca, New York, and a property in the Catskills, together representing roughly $16 million based on reported purchase prices.</p>
+<p>Two caveats worth stating. Purchase prices are not current values, and property bought in Manhattan over the past decade may be worth more or less than it cost. And reported holdings are not the same as owned equity — mortgages are rarely public, so a $16 million portfolio may represent considerably less net wealth.</p>
+
+<h2>What a Headline Salary Doesn't Account For</h2>
+<p>Almost every net worth article multiplies a salary by years worked and treats the result as accumulated wealth. It isn't.</p>
+<p>New York City residents face federal, New York State and New York City income tax, which at top-bracket earnings removes roughly half of gross pay before anything is banked. Then subtract agent commissions, legal and management fees, and the ordinary cost of living in Manhattan on a public-facing job.</p>
+<p>Applied here, even the higher $24 million figure converts to a substantially smaller amount of retained income per year than the headline suggests. That's part of why a career spanning nearly two decades at a major network produces a net worth estimate in the tens of millions rather than the hundreds.</p>
+<p>It also means that if the lower $8 million figure is the accurate one, a $50 million net worth would require either much longer accumulation, significant investment returns, or income sources beyond the anchor desk — which is itself a reason to treat the higher salary figure as more plausible.</p>
+
+<h2>Books and Other Income</h2>
+<p>Beyond broadcasting she has published children's books and a 2024 faith-focused title, Mostly What God Does, which performed well commercially.</p>
+<p>Publishing income for a well-known broadcaster is meaningful but rarely transformative — advances and royalties at that level typically sit far below an anchor salary. It's a genuine income line rather than a major component of the total.</p>
+
+<h2>A Quick Timeline</h2>
+<div class="quick-facts">
+<div class="quick-facts-scroll">
+<table>
+  <tr><td>1971</td><td>Born in Melbourne, Australia; raised in Arizona from around age two</td></tr>
+  <tr><td>1990s</td><td>Journalism degree, University of Arizona; works in local news</td></tr>
+  <tr><td>2002</td><td>Graduates from Georgetown Law; practises as a litigation attorney</td></tr>
+  <tr><td>2007</td><td>Joins NBC News; legal analyst, later White House correspondent</td></tr>
+  <tr><td>2012</td><td>Becomes co-anchor of Today</td></tr>
+  <tr><td>2014</td><td>Marries Michael Feldman</td></tr>
+  <tr><td>2017</td><td>Takes lead anchor role after Matt Lauer's firing</td></tr>
+  <tr><td>2018</td><td>Hoda Kotb becomes co-anchor</td></tr>
+  <tr><td>2024</td><td>Publishes Mostly What God Does; Kotb announces departure</td></tr>
+  <tr><td>2025</td><td>Kotb leaves; Guthrie becomes the programme's senior anchor</td></tr>
+  <tr><td>2026</td><td>Steps away briefly for a family matter; returns to Today in April</td></tr>
+</table>
+</div>
+</div>
+
+<h2>How She Compares to Other Network Anchors</h2>
+<div class="quick-facts">
+<div class="quick-facts-scroll">
+<table>
+  <tr><td>Robin Roberts</td><td>~$50M</td></tr>
+  <tr><td><strong>Savannah Guthrie</strong></td><td><strong>$40M&ndash;$50M</strong></td></tr>
+  <tr><td>Hoda Kotb</td><td>~$30M</td></tr>
+  <tr><td>Michael Strahan</td><td>~$65M (multiple ventures)</td></tr>
+</table>
+<p class="disclaimer">Comparison figures are third-party estimates, not verified financial records.</p>
+</div>
+</div>
+<p>These comparisons should be read loosely. Network anchor pay is almost never confirmed publicly, so every figure in that table carries the same uncertainty as Guthrie's own — and cross-site comparisons often compound errors rather than cancelling them out.</p>
+
+<h2>What Could Move the Number</h2>
+<ul>
+<li><strong>Contract renewal terms</strong> — the single largest variable, and the one least likely to be disclosed</li>
+<li><strong>Further publishing</strong> — a successful follow-up book adds a meaningful, if secondary, income line</li>
+<li><strong>Property values</strong> — New York real estate moves in both directions and forms a large share of the estimate</li>
+<li><strong>Any move beyond the anchor desk</strong> — production or media ventures have historically been how broadcasters push past a salary ceiling</li>
+</ul>
+
+<h2>How This Estimate Compares to Others on This Site</h2>
+<p>Guthrie sits in a familiar category: a well-known public figure whose income comes almost entirely from private employment contracts. Unlike a business sale or a court filing, an anchor's pay produces no public record — which is why the published figures for her differ by a factor of three.</p>
+<p>See our <a href="/about-us">verification standard</a> for how we handle that, or browse more <a href="/net-worth">verified net worth profiles</a> of media figures and public professionals.</p>
+
+<h2>Conclusion</h2>
+<p>Savannah Guthrie has spent nearly two decades at NBC and fourteen years on its flagship morning programme, so a fortune in the tens of millions is entirely plausible. Somewhere between $40 million and $50 million is a reasonable range.</p>
+<p>But the honest caveat is larger than usual here. The salary figure underpinning every published estimate is itself disputed by a factor of three, and NBC has confirmed nothing. Any site quoting a precise total for her is presenting a guess built on an unverified assumption — which is worth knowing before treating the number as fact.</p>
+
+<div class="post-faq">
+  <details><summary>What is Savannah Guthrie's net worth in 2026?</summary><p>Estimates range from about $40 million to $50 million. Celebrity Net Worth lists $50 million; other outlets put it nearer $40 million. No figure is officially confirmed.</p></details>
+  <details><summary>What is Savannah Guthrie's Today show salary?</summary><p>Reported figures vary widely — from around $8 million to $24 million per year. The gap likely reflects base salary versus total package including bonuses and other NBC work, but NBC has never disclosed terms.</p></details>
+  <details><summary>Did her salary increase after Hoda Kotb left?</summary><p>Reporting suggests her compensation rose after Kotb departed in January 2025, positioning Guthrie as the show's lead anchor. The specific increase has not been confirmed by NBC.</p></details>
+  <details><summary>Was Savannah Guthrie a lawyer?</summary><p>Yes. She earned a law degree from Georgetown University, passed the bar, and worked as a litigation attorney before joining NBC as a legal analyst — an unusual route into anchoring.</p></details>
+  <details><summary>How long has she been on the Today show?</summary><p>She became a co-anchor in 2012, took the lead role after Matt Lauer was fired in 2017, and has been with the programme ever since.</p></details>
+  <details><summary>What real estate does Savannah Guthrie own?</summary><p>Reported holdings include two Tribeca condominiums and a property in the Catskills, together valued at roughly $16 million based on reported purchase prices — which are not the same as current values or owned equity.</p></details>
+  <details><summary>Why do net worth estimates for her vary so much?</summary><p>Because her salary itself is disputed. A $16 million annual gap between reported figures compounds over years of earnings, producing very different totals depending on which salary a site assumed.</p></details>
+  <details><summary>Where was Savannah Guthrie born?</summary><p>Melbourne, Australia, on December 27, 1971. Her family moved to Arizona when she was around two years old.</p></details>
+  <details><summary>Is Savannah Guthrie still on the Today show?</summary><p>Yes. She stepped away briefly in early 2026 for a family matter and returned to the programme that April.</p></details>
+  <details><summary>Who is Savannah Guthrie married to?</summary><p>Communications consultant Michael Feldman, whom she married in 2014. They have two children.</p></details>
+  <details><summary>How does her salary compare to other morning anchors?</summary><p>It sits in the same broad band as other network morning-show leads, though exact comparisons are unreliable because networks rarely confirm anchor pay and reported figures often conflict.</p></details>
+  <details><summary>Did she write a book?</summary><p>Yes. She has authored children's books and the 2024 faith-focused book Mostly What God Does, which added publishing income alongside her broadcasting work.</p></details>
+</div>
+`
+  },
+  {
     slug: 'conor-mcgregor-net-worth-2026',
     title: 'Conor McGregor Net Worth 2026: Fights, Whiskey and Fallout',
     seoTitle: 'Conor McGregor Net Worth 2026: Fights, Whiskey and Fallout',
