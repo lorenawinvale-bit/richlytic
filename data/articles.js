@@ -1,5 +1,171 @@
 module.exports = [
   {
+    slug: 'conor-mcgregor-net-worth-2026',
+    title: 'Conor McGregor Net Worth 2026: Fights, Whiskey and Fallout',
+    seoTitle: 'Conor McGregor Net Worth 2026: Fights, Whiskey and Fallout',
+    excerpt: "Conor McGregor net worth is estimated around $200 million in 2026 — but the whiskey figure everyone quotes is disputed, and the legal outcome has a real cost attached. Here's what's actually documented.",
+    metaDescription: "Conor McGregor net worth 2026: roughly $200 million. Here's what's documented about his fight purses, the disputed Proper No. Twelve payout, and the civil case.",
+    date: '2026-08-01',
+    author: 'Richlytic Editorial',
+    netWorth: '~$200M (unverified)',
+    profession: 'Mixed Martial Artist, Business Owner',
+    category: 'entrepreneurs',
+    image: '/images/articles/conor-mcgregor-photo.jpg',
+    faqs: [
+      { q: "What is Conor McGregor's net worth in 2026?", a: 'Most estimates put it around $200 million. No figure is officially confirmed — the estimate is built from reported fight purses, the Proper No. Twelve sale, and endorsement deals, none of which are fully disclosed.' },
+      { q: 'How much did Conor McGregor make from the Mayweather fight?', a: 'Reported at roughly $100 million pre-tax for the August 2017 boxing match. It remains the single largest payday of his career and neither camp published exact figures.' },
+      { q: 'How much did he actually make from Proper No. Twelve?', a: 'This is genuinely disputed. The brand sold for $600 million in 2021, but that included money already paid out, and proceeds were split among several parties. Reported figures for McGregor range from about $130 million to $150 million.' },
+      { q: 'What was his highest UFC purse?', a: 'The Khabib Nurmagomedov fight in October 2018 is widely reported as his largest UFC payday, with estimates around $50 million including pay-per-view share.' },
+      { q: 'Did Conor McGregor lose money from the civil case?', a: 'He was ordered to pay almost €250,000 in damages after a November 2024 High Court jury verdict, plus substantial legal costs across the trial and two failed appeals. The commercial impact on endorsements is harder to quantify.' },
+      { q: 'What happened with the Nikita Hand case?', a: 'In November 2024 a Dublin High Court civil jury found that McGregor raped Nikita Hand in December 2018 and awarded her almost €250,000. The Court of Appeal rejected his appeal in full, and in December 2025 the Supreme Court declined to hear a further appeal. It was a civil case, not a criminal prosecution.' },
+      { q: 'Is Conor McGregor still fighting?', a: 'His competitive schedule has been sporadic for years due to injuries and layoffs. Fight income is no longer the main driver of his wealth — the whiskey sale and business interests are.' },
+      { q: 'What businesses does Conor McGregor own?', a: 'Beyond Proper No. Twelve, where he sold his majority stake, he has held a stake in Bare Knuckle Fighting Championship, the Black Forge Inn pub in Dublin, and his McGregor FAST fitness brand.' },
+      { q: 'How much did he earn from acting?', a: 'He was reported to have earned over $5.5 million for his role in the 2024 Road House remake, his first significant acting credit.' },
+      { q: 'Why do net worth estimates for him vary?', a: 'Fight purses include undisclosed pay-per-view shares, endorsement terms are private, and the whiskey proceeds were split among multiple parties with figures contested in litigation. Every published total is an estimate built on partial information.' },
+      { q: 'Is Conor McGregor the richest MMA fighter?', a: 'By most estimates yes, and by a wide margin — largely because of the Proper No. Twelve sale rather than fight earnings alone, which is what separates him from other fighters near the top.' },
+      { q: 'Was he ever poor?', a: 'Yes. Before signing with the UFC in 2013 he was reportedly collecting roughly €188 a week in welfare payments in Dublin, having worked as a plumber\'s apprentice.' }
+    ],
+    content: `
+<p class="article-updated" style="color: var(--text-dim); font-size: 0.85rem; font-style: italic; margin: -8px 0 20px;">Last updated: August 2026</p>
+<p><strong>Conor McGregor net worth</strong> is estimated at roughly $200 million in 2026. That figure is repeated almost everywhere, and the interesting part is that the single largest component of it — the whiskey sale — is the one nobody can pin down, with reported numbers varying by tens of millions depending on the source.</p>
+<p>What makes his case unusual among fighters is that the fighting isn't where most of the money came from. A man who was reportedly on welfare in Dublin in 2013 built the bulk of his fortune through a spirits brand, not a title belt.</p>
+<p>Here's what's actually documented, what's genuinely disputed, and what the last two years have cost him.</p>
+
+<div class="quick-facts">
+  <h2>Conor McGregor Net Worth at a Glance</h2>
+  <div class="quick-facts-scroll">
+  <table>
+    <tr><td>Full Name</td><td>Conor Anthony McGregor</td></tr>
+    <tr><td>Born</td><td>July 14, 1988, Dublin, Ireland</td></tr>
+    <tr><td>Age</td><td>38</td></tr>
+    <tr><td>Profession</td><td>Mixed martial artist, business owner</td></tr>
+    <tr><td>Estimated Net Worth (2026)</td><td>~$200 million (unverified)</td></tr>
+    <tr><td>Biggest Single Payday</td><td>~$100 million &mdash; Mayweather boxing match, 2017</td></tr>
+    <tr><td>Largest UFC Purse</td><td>~$50 million &mdash; Khabib Nurmagomedov, 2018</td></tr>
+    <tr><td>Whiskey Sale</td><td>Proper No. Twelve, part of a $600 million deal (2021)</td></tr>
+    <tr><td>UFC Titles</td><td>Featherweight and lightweight &mdash; first simultaneous two-division champion</td></tr>
+    <tr><td>Before the UFC</td><td>Reportedly on ~&euro;188/week welfare in 2013</td></tr>
+  </table>
+  </div>
+</div>
+
+<h2>Why Estimates Cluster Around $200 Million</h2>
+<p>Unlike most net worth subjects, McGregor has an unusually visible earnings record — televised fights with reported purses, a publicly announced business sale, and named sponsors. That's why the estimates agree more closely than they do for, say, a private business owner.</p>
+<p>But "more closely" isn't the same as accurate. Three things stop anyone producing a real number: pay-per-view revenue shares were never disclosed, endorsement terms are private, and the whiskey proceeds were split among multiple parties with the split itself contested in court.</p>
+<p>So $200 million is a reasonable central estimate rather than a verified figure. Treat it as a range with a wide margin, not a balance sheet.</p>
+
+<h2>From Welfare to the UFC in Under Two Years</h2>
+<p>The starting point matters because it explains the scale of what followed. McGregor was a plumber's apprentice in Dublin who left the trade to train full time, and by his own repeated account was collecting roughly €188 a week in social welfare payments shortly before the UFC signed him in 2013.</p>
+<p>He turned professional in 2008 and built a record on the European regional circuit before Dana White signed him. The compression is the remarkable part — the gap between collecting a welfare payment and headlining pay-per-view cards was a matter of a few years, not a decade.</p>
+<p>It's also why his early UFC purses look modest against what came later. He entered on a newcomer's terms and only gained real negotiating leverage once he proved he could sell pay-per-views, which is the same pattern that shapes most fighters' earnings curves — just accelerated.</p>
+
+<h2>A Quick Timeline</h2>
+<div class="quick-facts">
+<div class="quick-facts-scroll">
+<table>
+  <tr><td>2008</td><td>Turns professional in MMA</td></tr>
+  <tr><td>2013</td><td>Signs with the UFC; reportedly on welfare shortly beforehand</td></tr>
+  <tr><td>2015</td><td>Knocks out Jose Aldo in 13 seconds to win the featherweight title</td></tr>
+  <tr><td>2016</td><td>Becomes the first simultaneous two-division UFC champion</td></tr>
+  <tr><td>2017</td><td>Boxes Floyd Mayweather &mdash; reported ~$100 million payday</td></tr>
+  <tr><td>2018</td><td>Loses to Khabib Nurmagomedov; largest UFC purse, reported ~$50 million</td></tr>
+  <tr><td>2021</td><td>Proximo acquires majority stake in Proper No. Twelve in a $600 million deal</td></tr>
+  <tr><td>November 2024</td><td>High Court civil jury finds he raped Nikita Hand; ~&euro;250,000 damages</td></tr>
+  <tr><td>2024</td><td>Road House remake released; reported $5.5 million-plus acting fee</td></tr>
+  <tr><td>December 2025</td><td>Supreme Court declines further appeal; civil verdict stands</td></tr>
+</table>
+</div>
+</div>
+
+<h2>Career Fight Earnings</h2>
+<p>Reported career combat earnings sit somewhere around $235 million across MMA and boxing combined. That number is pre-tax, and Irish and US tax obligations on it were substantial.</p>
+<p>It also flatters the fighting side of his career, because roughly $100 million of it came from a single boxing match against a retired opponent rather than from MMA.</p>
+
+<h2>The Mayweather Fight: The Biggest Payday</h2>
+<p>The August 2017 boxing match against Floyd Mayweather is the largest single earning event of his career, reported at approximately $100 million.</p>
+<p>Worth being precise about what that figure is: it's a reported estimate including his share of pay-per-view revenue, not a disclosed purse. Neither camp published exact accounts, and the pay-per-view split was negotiated privately. The commonly cited $100 million is the industry's best reconstruction.</p>
+
+<h2>UFC Purses and the Khabib Fight</h2>
+<p>His UFC paydays escalated dramatically once he became a pay-per-view draw. Early championship purses were in the low millions; the October 2018 fight against Khabib Nurmagomedov is widely reported at around $50 million once pay-per-view share is included, making it his largest MMA payday by a wide margin.</p>
+<p>The pattern is worth noting because it explains the shape of his wealth: a small number of enormous events rather than steady income. Fighters earn in spikes, and McGregor's spikes were unusually large and unusually few.</p>
+
+<h2>Proper No. Twelve: The Deal That Actually Built the Fortune</h2>
+<p>In 2021, Proximo Spirits acquired the majority stake in Proper No. Twelve as part of a deal reported at $600 million. This is the single largest item in his net worth and the reason he sits well clear of other fighters.</p>
+<p>It's also the reason the whiskey brand matters more to this story than any belt he won. A fighter's earning window is short and injury-dependent; a spirits brand sale is a one-time liquidity event that converts fame into capital.</p>
+
+<h2>Why the Whiskey Figure Is Disputed</h2>
+<p>Here's where most articles quote a clean number and shouldn't.</p>
+<p>The $600 million headline is the value of the transaction, not McGregor's personal payout. Reporting indicates that sum included roughly $250 million that he and his partners had already taken out of the brand beforehand, and the remaining proceeds were divided among several stakeholders.</p>
+<p>Forbes reported his share at around $150 million. A figure closer to $130 million was raised during subsequent litigation over the deal. Both are credible, they're tens of millions apart, and neither has been confirmed by the parties.</p>
+<p>That gap alone is larger than most celebrities' entire net worth, which is a useful illustration of how imprecise these estimates really are.</p>
+
+<h2>The Tax Reality Nobody Factors In</h2>
+<p>Almost every net worth article treats reported earnings as if they landed in a bank account intact. They didn't.</p>
+<p>Ireland's top rate of income tax, combined with USC and PRSI, takes a very large share of high earnings, and McGregor has publicly discussed paying substantial Irish tax bills. US-sourced income such as the Mayweather purse also carries American withholding obligations before anything reaches Ireland.</p>
+<p>Then subtract the costs the headline numbers hide: management and agent commissions, coaching and camp costs, promotion, travel, and legal and accounting fees on transactions of that size. A reported $100 million payday does not become $100 million of net worth, and the gap is far larger than most readers assume.</p>
+<p>This is precisely why a career earnings figure of roughly $235 million coexists with a net worth estimate of around $200 million despite the whiskey sale adding nine figures on top — a large share of gross earnings never converted into retained wealth.</p>
+
+<h2>Endorsements and Sponsorships</h2>
+<p>At his commercial peak he carried a heavy sponsorship load — Reebok, Beats by Dre, Burger King, Monster Energy, DraftKings and others — alongside his own McGregor FAST fitness brand.</p>
+<p>Endorsement income at that level is meaningful but rarely transformative next to a nine-figure business sale. It's also the most volatile part of an athlete's income, because it depends on reputation in a way fight purses and completed business sales do not.</p>
+
+<h2>Acting, the Pub, and Other Interests</h2>
+<p>He was reported to have earned over $5.5 million for the 2024 Road House remake, his first substantial acting role. He has also held a stake in Bare Knuckle Fighting Championship, and owns the Black Forge Inn, a Dublin pub he bought and renovated.</p>
+<p>These are real but secondary. Together they don't approach the scale of either the Mayweather payday or the whiskey sale.</p>
+
+<h2>The Civil Case and What It Has Cost</h2>
+<p>This belongs in any honest accounting of his finances, and it needs stating precisely.</p>
+<p>In November 2024, a civil jury at the Dublin High Court found that McGregor raped Nikita Hand in a hotel in December 2018, and awarded her almost €250,000 in damages. He appealed. The Court of Appeal <a href="https://www.bbc.com/news/articles/cp82857nde2o" target="_blank" rel="nofollow noopener">rejected that appeal</a>, and in December 2025 <a href="https://www.rte.ie/news/courts/2025/1204/1547335-mcgregor-supreme-court-appeal/" target="_blank" rel="nofollow noopener">the Supreme Court declined to hear a further appeal</a>, leaving the verdict final.</p>
+<p>Two distinctions matter for accuracy. This was a <strong>civil</strong> case decided on the balance of probabilities, not a criminal prosecution — no criminal conviction resulted from it. And McGregor has continued to publicly maintain his innocence despite the verdict standing.</p>
+<p>Financially, the direct cost is the damages plus legal fees across a trial and two unsuccessful appeals, which for litigation at that level runs well into seven figures. The larger cost is commercial: reputational damage affects endorsement income and future business partnerships in ways that don't appear as a line item but compound over time.</p>
+
+<h2>How He Compares to Other Fighters</h2>
+<div class="quick-facts">
+<div class="quick-facts-scroll">
+<table>
+  <tr><td><strong>Conor McGregor</strong></td><td><strong>~$200M</strong></td></tr>
+  <tr><td>Khabib Nurmagomedov</td><td>~$40M</td></tr>
+  <tr><td>Jon Jones</td><td>~$15M</td></tr>
+  <tr><td>Israel Adesanya</td><td>~$10M</td></tr>
+</table>
+<p class="disclaimer">Comparison figures are third-party estimates, not verified financial records.</p>
+</div>
+</div>
+<p>The gap isn't really about fighting ability or even fight earnings. It's about the whiskey. Strip out Proper No. Twelve and his fortune, while still very large by fighter standards, sits far closer to the rest of the list than the headline number suggests.</p>
+
+<h2>What Could Move the Number Next</h2>
+<ul>
+<li><strong>Remaining business stakes</strong> — any further sale of his BKFC holding or other interests would be the next liquidity event</li>
+<li><strong>A return to competition</strong> — a genuine comeback fight would still command a large purse, though nothing near the Mayweather scale</li>
+<li><strong>Endorsement recovery or further loss</strong> — the most sensitive variable given the legal outcome</li>
+<li><strong>Ongoing litigation costs</strong> — including the separate dispute connected to the whiskey deal</li>
+</ul>
+
+<h2>How This Estimate Compares to Others on This Site</h2>
+<p>McGregor is at the more traceable end of the profiles we cover — a publicly reported business sale and televised purses give more to work with than, say, a privately held firm. But the whiskey dispute shows even a well-documented case can carry a twenty-million-dollar margin of error.</p>
+<p>See our <a href="/about-us">verification standard</a> for how we handle that, or browse more <a href="/net-worth">verified net worth profiles</a> of athletes and business owners.</p>
+
+<h2>Conclusion</h2>
+<p>Conor McGregor's fortune is genuinely large and genuinely unusual in its shape. The fighting made him famous and produced one enormous boxing payday; the whiskey made him wealthy. Most of what people assume was earned in the octagon actually arrived through a spirits acquisition in 2021.</p>
+<p>The $200 million figure is a reasonable estimate, not a verified one — and the most honest thing that can be said about it is that the biggest single line in it is the one nobody has confirmed.</p>
+
+<div class="post-faq">
+  <details><summary>What is Conor McGregor's net worth in 2026?</summary><p>Most estimates put it around $200 million. No figure is officially confirmed — it's built from reported fight purses, the Proper No. Twelve sale, and endorsements, none of which are fully disclosed.</p></details>
+  <details><summary>How much did Conor McGregor make from the Mayweather fight?</summary><p>Reported at roughly $100 million pre-tax for the August 2017 boxing match. It remains the single largest payday of his career, and neither camp published exact figures.</p></details>
+  <details><summary>How much did he actually make from Proper No. Twelve?</summary><p>Genuinely disputed. The brand sold for $600 million in 2021, but that included money already paid out and proceeds were split among several parties. Reported figures for McGregor range from about $130 million to $150 million.</p></details>
+  <details><summary>What was his highest UFC purse?</summary><p>The Khabib Nurmagomedov fight in October 2018, widely reported at around $50 million including pay-per-view share.</p></details>
+  <details><summary>Did Conor McGregor lose money from the civil case?</summary><p>He was ordered to pay almost €250,000 in damages after the November 2024 verdict, plus substantial legal costs across a trial and two failed appeals. The commercial impact on endorsements is harder to quantify.</p></details>
+  <details><summary>What happened with the Nikita Hand case?</summary><p>In November 2024 a Dublin High Court civil jury found that McGregor raped Nikita Hand in December 2018 and awarded her almost €250,000. The Court of Appeal rejected his appeal in full, and in December 2025 the Supreme Court declined a further appeal. It was a civil case, not a criminal prosecution.</p></details>
+  <details><summary>Is Conor McGregor still fighting?</summary><p>His competitive schedule has been sporadic for years due to injuries and layoffs. Fight income is no longer the main driver of his wealth — the whiskey sale and business interests are.</p></details>
+  <details><summary>What businesses does Conor McGregor own?</summary><p>Beyond Proper No. Twelve, where he sold his majority stake, he has held a stake in Bare Knuckle Fighting Championship, owns the Black Forge Inn in Dublin, and runs the McGregor FAST fitness brand.</p></details>
+  <details><summary>How much did he earn from acting?</summary><p>Reportedly over $5.5 million for his role in the 2024 Road House remake, his first significant acting credit.</p></details>
+  <details><summary>Why do net worth estimates for him vary?</summary><p>Fight purses include undisclosed pay-per-view shares, endorsement terms are private, and the whiskey proceeds were split among multiple parties with the figures contested in litigation.</p></details>
+  <details><summary>Is Conor McGregor the richest MMA fighter?</summary><p>By most estimates yes, and by a wide margin — largely because of the Proper No. Twelve sale rather than fight earnings alone.</p></details>
+  <details><summary>Was he ever poor?</summary><p>Yes. Before signing with the UFC in 2013 he was reportedly collecting roughly €188 a week in welfare payments in Dublin, having worked as a plumber's apprentice.</p></details>
+</div>
+`
+  },
+  {
     slug: 'ishowspeed-net-worth-2026',
     title: 'IShowSpeed Net Worth 2026: The Real Numbers Explained',
     seoTitle: 'IShowSpeed Net Worth 2026: The Real Numbers Explained',
