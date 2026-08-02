@@ -15,7 +15,19 @@ app.set('views', path.join(__dirname, 'views'));
 app.use(expressLayouts);
 app.set('layout', 'partials/layout');
 
-app.use(express.static(path.join(__dirname, 'public')));
+app.use(express.static(path.join(__dirname, 'public'), {
+  setHeaders: (res, filePath) => {
+    // Some hosting/CDN layers drop the charset param from static responses,
+    // which can make browsers mis-decode non-ASCII bytes (e.g. em-dashes in
+    // CSS comments) and silently break CSS parsing. Force it explicitly.
+    if (filePath.endsWith('.css')) res.setHeader('Content-Type', 'text/css; charset=utf-8');
+    if (filePath.endsWith('.js')) res.setHeader('Content-Type', 'application/javascript; charset=utf-8');
+    // Without this, browsers can cache CSS/JS aggressively and keep showing an
+    // old version after a deploy until the user manually hard-refreshes.
+    // no-cache forces a fast revalidation check on every load instead.
+    if (filePath.endsWith('.css') || filePath.endsWith('.js')) res.setHeader('Cache-Control', 'no-cache');
+  }
+}));
 app.use(express.urlencoded({ extended: true }));
 
 app.use((req, res, next) => {
