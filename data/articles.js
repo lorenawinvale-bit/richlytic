@@ -1,5 +1,193 @@
 module.exports = [
   {
+    slug: 'neymar-net-worth-after-world-cup-2026',
+    title: 'Neymar Net Worth After the 2026 World Cup and Retirement',
+    seoTitle: 'Neymar Net Worth After the 2026 World Cup and Retirement',
+    excerpt: "Neymar net worth sits around $450 million after the 2026 World Cup — a tournament that ended in a Round of 16 exit, a penalty in his final minutes for Brazil, and international retirement at 34.",
+    metaDescription: "Neymar net worth after the 2026 World Cup: around $450 million. What his Brazil retirement, the Norway exit and an outdated $80M salary figure mean for his finances.",
+    date: '2026-08-02',
+    author: 'Richlytic Editorial',
+    netWorth: '~$450M (unverified)',
+    profession: 'Professional Footballer, Investor',
+    category: 'entrepreneurs',
+    image: '/images/articles/neymar-photo.jpg',
+    faqs: [
+      { q: "What is Neymar's net worth in 2026?", a: 'Estimates put it at around $450 million. The figure is unverified and built from reported transfer fees, salaries and endorsements rather than any disclosed accounts.' },
+      { q: 'How much does Neymar earn at Santos?', a: 'Far less than most sites report. His Santos base salary is around R$1 million per month, with total earnings potentially reaching roughly $1 million monthly once his 90% image rights share is included — a fraction of his Al Hilal deal.' },
+      { q: 'Is the $80 million salary figure accurate?', a: 'Not for 2026. That was his Al Hilal salary in Saudi Arabia, a contract terminated in January 2025. Sites still quoting it are describing a job he no longer holds.' },
+      { q: 'How much was the PSG transfer?', a: '€222 million, roughly $250 million at the time — still the world record transfer fee. That was the fee paid to Barcelona, not money paid to Neymar personally.' },
+      { q: 'What are his career earnings?', a: 'Reported at over $700 million across salaries, transfers-related payments and endorsements. Net worth sits well below that because of tax, agent and family commissions, and spending.' },
+      { q: 'Who is his main sponsor?', a: 'Puma, in a deal reported at roughly $30 million a year, signed after he left Nike in 2020. He has also had partnerships with Red Bull, Beats and Gillette.' },
+      { q: 'Why did he leave Al Hilal?', a: 'A serious knee injury limited him to very few appearances, and the contract was terminated by mutual agreement in January 2025. He returned to Santos, his boyhood club.' },
+      { q: 'Did Neymar play in the 2026 World Cup?', a: 'Yes. He was named in Brazil\'s squad but missed the opener against Morocco with a calf injury. He returned as a substitute against Scotland and scored a late penalty in the 2-1 Round of 16 defeat to Norway that eliminated Brazil.' },
+      { q: 'Has Neymar retired from international football?', a: 'Yes. He announced the end of his Brazil career immediately after the Round of 16 loss to Norway in July 2026, at the age of 34. He remains Brazil\'s all-time leading men\'s goalscorer.' },
+      { q: 'How does retirement affect his net worth?', a: 'It does not reduce what he has already accumulated, but it removes his biggest remaining visibility platform. With his salary already collapsed, endorsements had become his main active income — and international football is what kept that exposure recurring.' },
+      { q: 'What property does Neymar own?', a: 'Reported holdings include a mansion in Mangaratiba, Brazil, a waterfront lot in Miami, and a Dubai penthouse — together representing a substantial share of his estimated wealth.' },
+      { q: 'Did Neymar have tax problems?', a: 'Yes. He faced disputes in Brazil and Spain over alleged unpaid tax running to roughly $20 million, which were ultimately resolved with reduced penalties.' },
+      { q: 'Is Neymar the richest footballer?', a: 'No. Cristiano Ronaldo and Lionel Messi are both estimated considerably higher, largely due to longer peak careers and larger endorsement portfolios.' },
+      { q: 'How old is Neymar?', a: '34. He was born on February 5, 1992, in Mogi das Cruzes, Brazil.' }
+    ],
+    content: `
+<p class="article-updated" style="color: var(--text-dim); font-size: 0.85rem; font-style: italic; margin: -8px 0 20px;">Last updated: August 2026</p>
+<p><strong>Neymar net worth</strong> is estimated at around $450 million after the 2026 World Cup — a tournament that ended with a Round of 16 exit to Norway, a consolation penalty in the closing minutes, and Neymar announcing the end of his international career in tears on the pitch.</p>
+<p>He is 34, out of the Brazil squad permanently by his own choice, and playing club football on a fraction of what he earned two years ago. The $80 million annual salary most sites still print describes a Saudi contract that ended in January 2025.</p>
+<p>The fortune is real and largely already banked. What changed this summer is the thing that was supposed to rebuild his commercial value — and it didn't go to plan.</p>
+
+<div class="quick-facts">
+  <h2>Neymar Net Worth at a Glance</h2>
+  <div class="quick-facts-scroll">
+  <table>
+    <tr><td>Full Name</td><td>Neymar da Silva Santos J&uacute;nior</td></tr>
+    <tr><td>Born</td><td>February 5, 1992, Mogi das Cruzes, Brazil</td></tr>
+    <tr><td>Age</td><td>34</td></tr>
+    <tr><td>Profession</td><td>Professional footballer; investor</td></tr>
+    <tr><td>Estimated Net Worth</td><td>~$450 million (unverified)</td></tr>
+    <tr><td>Current Club</td><td>Santos &mdash; contracted through December 2026</td></tr>
+    <tr><td>Current Salary</td><td>~R$1 million/month base, plus 90% image rights</td></tr>
+    <tr><td>Previous Salary (Al Hilal)</td><td>~$80 million/year &mdash; contract terminated January 2025</td></tr>
+    <tr><td>Record Transfer</td><td>&euro;222 million, Barcelona to PSG, 2017</td></tr>
+    <tr><td>Main Sponsor</td><td>Puma, reported ~$30 million/year</td></tr>
+  </table>
+  </div>
+</div>
+
+<h2>The Salary Figure Almost Every Site Still Gets Wrong</h2>
+<p>Start here, because it's the biggest error in circulation.</p>
+<p>Neymar signed for Al Hilal in Saudi Arabia in 2023 on a deal widely reported at roughly $80 million a year, with some estimates above $100 million once bonuses and commercial terms were counted. It was among the largest contracts in football.</p>
+<p>A serious knee injury meant he played very little of it. In January 2025 the contract was terminated by mutual agreement and he returned to Santos, the club where he started.</p>
+<p>His Santos terms are in a completely different bracket: a base salary reported at around R$1 million per month, with an unusual arrangement giving him 90% of his image rights, which could lift total monthly earnings toward the $1 million mark. Even at the high end, that's a small fraction of what Saudi Arabia was paying.</p>
+<p>So when a site lists his salary as $80 million in 2026, it isn't describing his income. It's describing a contract that ended over a year ago.</p>
+
+<h2>Where the $450 Million Actually Came From</h2>
+<p>The fortune was largely built between 2013 and 2023, across three moves and a decade of endorsements.</p>
+<p>Reported career earnings exceed $700 million. Set against a net worth estimate of $450 million, that gap is the interesting part — and it's normal rather than suspicious, for reasons covered further down.</p>
+
+<h2>Santos, Barcelona and the €222 Million Transfer</h2>
+<p>He came through Santos, the club of Pelé, debuting professionally at 17 in 2009 and becoming a national name in Brazil well before Europe signed him. That early fame matters financially — he arrived at Barcelona in 2013 already carrying endorsement value, rather than building it after the move like most imports.</p>
+<p>At Barcelona he won the Champions League as part of the attacking trio alongside Messi and Suárez, the period that established him as a genuinely elite player rather than a promising Brazilian export.</p>
+<p>In 2017, PSG paid Barcelona €222 million — roughly $250 million — to trigger his release clause. It remains the world record transfer fee nearly a decade later.</p>
+<p>One clarification that matters, because it's routinely muddled: that €222 million went to <em>Barcelona</em>, not to Neymar. Players don't receive transfer fees. What he received was a very large PSG salary and signing bonus, which is a different and considerably smaller number.</p>
+
+<h2>Al Hilal and the Saudi Chapter</h2>
+<p>The 2023 move to Al Hilal was, financially, the peak of his career. Saudi clubs were paying well above European market rates to attract established names, and Neymar's deal was among the largest.</p>
+<p>It did not work out on the pitch. A knee injury sustained shortly after arriving restricted him to a handful of appearances, and the contract ended early.</p>
+<p>It's worth noting he had already been paid substantially during that period regardless of appearances, so the Saudi spell added meaningfully to his wealth even though it failed as a football move.</p>
+
+<h2>The Injury Record Is the Whole Story</h2>
+<p>You cannot explain the shape of Neymar's finances without it.</p>
+<p>Recurring foot, ankle and knee problems have cost him large parts of multiple seasons since the PSG move, and the knee injury in Saudi Arabia effectively ended a contract worth close to $80 million a year after very few appearances.</p>
+<p>The financial effect runs two ways. In the short term it barely hurt him — elite contracts pay whether or not a player is fit, which is why the Al Hilal spell still added substantially to his wealth. The damage is to the <em>next</em> contract. Clubs price availability, and a player with his injury record cannot command another nine-figure deal, however good he is when fit.</p>
+<p>That's the real reason his current earnings collapsed rather than merely dipped. It wasn't a lifestyle choice or a sentimental homecoming alone — it was the market repricing him after two years of limited football.</p>
+
+<h2>Endorsements</h2>
+<p>His commercial portfolio has been a consistent earner and is less dependent on match fitness than his salary.</p>
+<p>The central deal is with Puma, reported at roughly $30 million annually, signed after he ended a long relationship with Nike in 2020. He has also carried partnerships with Red Bull, Beats and Gillette, alongside gaming and esports interests.</p>
+<p>For an injury-prone player in his mid-thirties, endorsement income is the more durable half of the equation — it doesn't stop when he's on the treatment table.</p>
+
+<h2>Why Career Earnings and Net Worth Are So Far Apart</h2>
+<p>Over $700 million earned, roughly $450 million retained. The difference isn't mysterious.</p>
+<p>Brazilian and European tax on top-bracket football income is substantial, and he has paid a great deal of it. Agent and representation costs at that level run into the millions annually. His father has long acted as his manager and business representative, reportedly taking a significant percentage of earnings and transfer-related payments — a normal arrangement in Brazilian football, but a real deduction.</p>
+<p>Then there is spending. Property, aircraft, a large personal entourage and a well-documented lifestyle all draw from the same pool.</p>
+<p>The lesson generalises: gross career earnings are not a proxy for wealth, and treating them as one overstates almost every athlete's net worth.</p>
+
+<h2>Tax Disputes</h2>
+<p>He has faced tax proceedings in both Brazil and Spain, centred on how income and image rights were declared around the Barcelona transfer, with amounts in dispute reported at roughly $20 million.</p>
+<p>These were ultimately resolved, with penalties reduced from the sums originally sought. They are worth including in an honest accounting because they represent real, if partly recovered, financial cost — and because image-rights structuring is exactly the mechanism that makes footballer earnings hard to estimate from outside.</p>
+
+<h2>Real Estate</h2>
+<p>Reported holdings include a large mansion in Mangaratiba on the Brazilian coast, a waterfront lot in Miami, and a penthouse in Dubai.</p>
+<p>Together these represent a meaningful share of the $450 million estimate. The usual caveats apply: reported purchase prices are not current market values, and mortgages or financing arrangements are not public, so headline property values overstate net equity.</p>
+
+<h2>What Actually Happened at the 2026 World Cup</h2>
+<p>The whole plan ran through this tournament. In January 2026 he <a href="https://www.espn.com/soccer/story/_/id/47533505/neymar-signs-santos-renewal-2026-world-cup" target="_blank" rel="nofollow noopener">extended his Santos contract through December 2026</a> specifically to give himself the best chance of selection, having <a href="https://www.foxnews.com/sports/brazil-forward-neymar-extends-contract-through-2026-season-santos-my-place" target="_blank" rel="nofollow noopener">described Santos as "my place"</a>.</p>
+<p>It worked, up to a point. Carlo Ancelotti named him in Brazil's squad — his first since October 2023. Then a grade two calf injury picked up in May playing for Santos ruled him out of the opening match against Morocco on 13 June.</p>
+<p>He returned as a substitute in Brazil's 3-0 win over Scotland, his first international appearance in more than two and a half years. It lasted three matches.</p>
+<p>In the Round of 16 against Norway, Erling Haaland scored twice and Brazil went out 2-1. Neymar converted a penalty in the closing minutes — a consolation goal in a defeat that ended the tournament. He was in tears at the final whistle and had to be consoled by teammates.</p>
+<p>There is a detail that reads almost as scripted: his international career began at MetLife Stadium in 2010 and ended at the same ground in 2026.</p>
+
+<h2>The Retirement Announcement and What It Costs</h2>
+<p>Immediately after the Norway defeat, Neymar said he was finished with Brazil. <a href="https://www.espn.com/soccer/story/_/id/49281072/neymar-brazil-retires-world-cup-2026-exit-norway" target="_blank" rel="nofollow noopener">"I tried," he said</a>, confirming his international career was over. He <a href="https://www.aljazeera.com/sports/2026/7/6/neymar-quits-international-football-after-brazils-world-cup-knockout-loss" target="_blank" rel="nofollow noopener">quit international football</a> at 34, as Brazil's all-time leading men's goalscorer.</p>
+<p>The financial consequence is more significant than it first appears, and it's the reason this tournament mattered to his balance sheet rather than just his legacy.</p>
+<p>International football is a global shop window. A World Cup run is the single largest visibility event available to a footballer, and sponsors price renewals partly on it. Neymar's own salary had already collapsed — meaning endorsements, not wages, had become the dominant part of his active income. The tournament was the lever available to lift that.</p>
+<p>What he got instead was three appearances, one penalty, an early exit, and the end of the platform entirely. National-team retirement removes him from every future qualifying campaign, Copa América and World Cup cycle — the recurring global exposure that keeps a retired-from-Europe player commercially relevant.</p>
+<p>None of this reduces the $450 million already accumulated. It changes the trajectory from here.</p>
+
+<h2>A Quick Timeline</h2>
+<div class="quick-facts">
+<div class="quick-facts-scroll">
+<table>
+  <tr><td>1992</td><td>Born in Mogi das Cruzes, Brazil</td></tr>
+  <tr><td>2009</td><td>Professional debut for Santos</td></tr>
+  <tr><td>2013</td><td>Joins Barcelona</td></tr>
+  <tr><td>2015</td><td>Wins the Champions League with Barcelona</td></tr>
+  <tr><td>2017</td><td>PSG pays Barcelona &euro;222 million &mdash; still the world record</td></tr>
+  <tr><td>2020</td><td>Leaves Nike; signs with Puma</td></tr>
+  <tr><td>2023</td><td>Joins Al Hilal on a deal reported near $80 million a year; suffers knee injury</td></tr>
+  <tr><td>October 2023</td><td>Last appearance for Brazil to date</td></tr>
+  <tr><td>January 2025</td><td>Al Hilal contract terminated; returns to Santos on a fraction of the salary</td></tr>
+  <tr><td>2025</td><td>Scores 11 goals in 34 games as Santos avoid relegation</td></tr>
+  <tr><td>January 2026</td><td>Extends Santos contract through December 2026, targeting the World Cup</td></tr>
+  <tr><td>June 2026</td><td>Named in Brazil's World Cup squad; misses the Morocco opener with a calf injury</td></tr>
+  <tr><td>June 2026</td><td>Returns as a substitute in Brazil's 3-0 win over Scotland &mdash; first cap since 2023</td></tr>
+  <tr><td>July 2026</td><td>Scores a late penalty in a 2-1 Round of 16 defeat to Norway; Brazil eliminated</td></tr>
+  <tr><td>July 2026</td><td>Announces the end of his international career at 34</td></tr>
+</table>
+</div>
+</div>
+
+<h2>How He Compares to Other Footballers</h2>
+<div class="quick-facts">
+<div class="quick-facts-scroll">
+<table>
+  <tr><td>Cristiano Ronaldo</td><td>~$1B+</td></tr>
+  <tr><td>Lionel Messi</td><td>~$650M</td></tr>
+  <tr><td><strong>Neymar</strong></td><td><strong>~$450M</strong></td></tr>
+  <tr><td>Kylian Mbapp&eacute;</td><td>~$180M</td></tr>
+</table>
+<p class="disclaimer">Comparison figures are third-party estimates, not verified financial records.</p>
+</div>
+</div>
+<p>The gap to Ronaldo and Messi comes down to longevity and availability. Both sustained elite performance into their late thirties with fewer serious injuries, keeping salary and endorsement value high for longer. Neymar's peak earning window was shorter and repeatedly interrupted.</p>
+
+<h2>What Could Move the Number From Here</h2>
+<p>With the World Cup gone and international football behind him, the remaining levers are narrower than they were six months ago.</p>
+<ul>
+<li><strong>His next club contract</strong> — the Santos deal expires in December 2026. Whether he takes another high-paying move abroad or stays in Brazil is now the largest single variable</li>
+<li><strong>Endorsement renewals</strong> — already the dominant part of his active income, and the part most exposed to reduced visibility after retirement</li>
+<li><strong>A move to a high-profile league</strong> — MLS or a return to Europe would restore some commercial reach that the national team previously supplied</li>
+<li><strong>Investments and business ventures</strong> — the standard route by which athletes convert accumulated fame into post-playing income, and the one that matters most from here</li>
+<li><strong>Property values</strong> — a large, illiquid share of the estimate that moves with market conditions rather than anything he does</li>
+</ul>
+<p>The pattern that usually decides an athlete's long-term wealth is whether they build an income source independent of playing before the playing stops. Neymar has roughly a decade of accumulated capital and, at 34, still has time — but the easy visibility that made the endorsements work is now finite.</p>
+
+<h2>How This Estimate Compares to Others on This Site</h2>
+<p>Neymar is unusually traceable in some respects — transfer fees are public, contracts get reported, and sponsor deals leak. But the same problem recurs as with <a href="/conor-mcgregor-net-worth-2026">Conor McGregor's net worth</a>: a career built on a small number of enormous, partially disclosed deals produces an estimate with a very wide margin, and outdated figures get republished for years.</p>
+<p>See our <a href="/about-us">verification standard</a> for how we handle that, or browse more <a href="/net-worth">verified net worth profiles</a>.</p>
+
+<h2>Conclusion</h2>
+<p>Around $450 million is a reasonable estimate for Neymar after the 2026 World Cup, built on a decade of elite salaries, the largest transfer fee in football history, and a strong endorsement portfolio.</p>
+<p>Two corrections are worth carrying away. The $80 million salary printed alongside that figure on most sites belongs to a Saudi contract terminated in January 2025 — his actual playing income is now a small fraction of it. And the tournament that was supposed to reset his commercial value instead produced three appearances, a consolation penalty, an early exit and the end of his international career.</p>
+<p>The fortune is secure. The trajectory is a different question, and it now depends far more on what he builds off the pitch than on anything he does on it.</p>
+
+<div class="post-faq">
+  <details><summary>What is Neymar's net worth in 2026?</summary><p>Estimates put it at around $450 million. The figure is unverified and built from reported transfer fees, salaries and endorsements rather than disclosed accounts.</p></details>
+  <details><summary>How much does Neymar earn at Santos?</summary><p>Far less than most sites report. His base salary is around R$1 million per month, with total earnings potentially reaching roughly $1 million monthly once his 90% image rights share is included — a fraction of his Al Hilal deal.</p></details>
+  <details><summary>Is the $80 million salary figure accurate?</summary><p>Not for 2026. That was his Al Hilal salary in Saudi Arabia, a contract terminated in January 2025. Sites still quoting it are describing a job he no longer holds.</p></details>
+  <details><summary>How much was the PSG transfer?</summary><p>€222 million, roughly $250 million at the time, and still the world record. That fee went to Barcelona, not to Neymar personally — players do not receive transfer fees.</p></details>
+  <details><summary>What are his career earnings?</summary><p>Reported at over $700 million. Net worth sits well below that because of tax, agent and family commissions, and spending.</p></details>
+  <details><summary>Who is his main sponsor?</summary><p>Puma, in a deal reported at roughly $30 million a year, signed after he left Nike in 2020. He has also partnered with Red Bull, Beats and Gillette.</p></details>
+  <details><summary>Why did he leave Al Hilal?</summary><p>A serious knee injury limited him to very few appearances, and the contract was terminated by mutual agreement in January 2025. He returned to Santos, his boyhood club.</p></details>
+  <details><summary>Did Neymar play in the 2026 World Cup?</summary><p>Yes. He was named in Brazil's squad but missed the opener against Morocco with a calf injury. He returned as a substitute against Scotland and scored a late penalty in the 2-1 Round of 16 defeat to Norway that eliminated Brazil.</p></details>
+  <details><summary>Has Neymar retired from international football?</summary><p>Yes. He announced the end of his Brazil career immediately after the Round of 16 loss to Norway in July 2026, at the age of 34. He remains Brazil's all-time leading men's goalscorer.</p></details>
+  <details><summary>How does retirement affect his net worth?</summary><p>It does not reduce what he has already accumulated, but it removes his biggest remaining visibility platform. With his salary already collapsed, endorsements had become his main active income — and international football is what kept that exposure recurring.</p></details>
+  <details><summary>What property does Neymar own?</summary><p>Reported holdings include a mansion in Mangaratiba, a waterfront lot in Miami, and a Dubai penthouse. Reported prices are not current values, and financing is not public.</p></details>
+  <details><summary>Did Neymar have tax problems?</summary><p>Yes. He faced disputes in Brazil and Spain over alleged unpaid tax running to roughly $20 million, ultimately resolved with reduced penalties.</p></details>
+  <details><summary>Is Neymar the richest footballer?</summary><p>No. Cristiano Ronaldo and Lionel Messi are both estimated considerably higher, largely due to longer peak careers with fewer interruptions and larger endorsement portfolios.</p></details>
+  <details><summary>How old is Neymar?</summary><p>34. He was born on February 5, 1992, in Mogi das Cruzes, Brazil.</p></details>
+</div>
+`
+  },
+  {
     slug: 'savannah-guthrie-net-worth-2026',
     title: 'Savannah Guthrie Net Worth 2026: Why the Figures Disagree',
     seoTitle: 'Savannah Guthrie Net Worth 2026: Why the Figures Disagree',
