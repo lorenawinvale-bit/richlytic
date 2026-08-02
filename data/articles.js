@@ -1,5 +1,142 @@
 module.exports = [
   {
+    slug: 'lamine-yamal-net-worth-after-world-cup-2026',
+    title: 'Lamine Yamal Net Worth After the 2026 World Cup Win',
+    seoTitle: 'Lamine Yamal Net Worth After the 2026 World Cup Win',
+    excerpt: "Lamine Yamal net worth sits around $8-15 million at 19 — small next to his €16.7M Barcelona salary, days after becoming the youngest player ever to win both the World Cup and the European Championship.",
+    metaDescription: "Lamine Yamal net worth in 2026: estimated at $8-15 million, days after he became the youngest player to win both the World Cup and Euros. Here's the real breakdown.",
+    date: '2026-08-02',
+    author: 'Richlytic Editorial',
+    netWorth: '$8M - $15M (unverified)',
+    profession: 'Professional Footballer',
+    category: 'entertainment',
+    image: '/images/articles/lamine-yamal-net-worth-thumb.jpg',
+    faqs: [
+      { q: "What is Lamine Yamal's net worth in 2026?", a: 'Estimates vary from $5-8 million to $8-15 million. No figure is officially confirmed, and the range is unusually wide even by the standards of footballer net worth estimates, since he is only about three years into his professional career.' },
+      { q: 'How much does Lamine Yamal earn at Barcelona?', a: 'Following his May 2025 contract renewal, his salary is reported at roughly €16.7 million gross per year before bonuses, with performance incentives potentially pushing total annual earnings above €25 million.' },
+      { q: 'Why is his net worth so much lower than his salary?', a: "Because he has only been earning senior wages since 2023-24, and even a very high salary takes years to convert into accumulated net worth after tax, agent fees, and family support costs. A one-year salary figure isn't a wealth figure." },
+      { q: 'How much is the Adidas deal worth?', a: 'Reported at up to $34 million over a 10-year term signed in 2024, alongside other partnerships including Beats by Dre, Visa, Konami, OPPO and Powerade.' },
+      { q: "What is Lamine Yamal's release clause?", a: 'Reported at €1 billion as part of his contract renewal through 2031 — a figure set deliberately high to deter any approach, not a market valuation of the player.' },
+      { q: 'Did Lamine Yamal win the 2026 World Cup?', a: "Yes. Spain beat Argentina 1-0 in the final on July 19, 2026, with Yamal playing a starring role. He became the youngest player in history to win both the World Cup and the European Championship, achieving it days after his 19th birthday." },
+      { q: 'How old is Lamine Yamal?', a: 'He was born on July 13, 2007, making him 19 as of the 2026 World Cup win.' },
+      { q: "Did Lamine Yamal win the Ballon d'Or?", a: "He finished runner-up in the 2025 Ballon d'Or and won the Kopa Trophy for a second time. Following Spain's 2026 World Cup win, he is widely considered a leading contender for the 2026 award." },
+      { q: 'How does his net worth compare to other young footballers?', a: 'It sits in a similar range to other elite teenage talents at equivalent career stages, well below established veterans whose endorsement portfolios and accumulated earnings have compounded over a decade or more.' },
+      { q: 'What could increase his net worth fastest?', a: "A 2026 Ballon d'Or win, new or renegotiated endorsement deals reflecting his World Cup performance, and simply continued accumulation of his existing Barcelona salary over the coming years." },
+      { q: 'Is Lamine Yamal the youngest World Cup winner?', a: "Not the youngest ever to win the tournament, but he is the youngest player in history to hold both a World Cup and a European Championship title, achieved within days of turning 19." },
+      { q: "Who called Lamine Yamal Messi's successor?", a: "Media coverage of the World Cup final framed his performance against Argentina, played alongside the retiring Lionel Messi's final tournament, as a symbolic passing of the torch, though this is a media narrative rather than an official designation." }
+    ],
+    content: `
+<p class="article-updated" style="color: var(--text-dim); font-size: 0.85rem; font-style: italic; margin: -8px 0 20px;">Last updated: August 2026</p>
+<p><strong>Lamine Yamal net worth</strong> is estimated at somewhere between $8 million and $15 million in 2026 — a modest figure for someone who, days after his 19th birthday, became the youngest player in history to win both the World Cup and the European Championship.</p>
+<p>That gap between the achievement and the number is the whole story here. His Barcelona salary alone is reported at roughly €16.7 million a year, which is already close to or above the top end of most net worth estimates for him. The mismatch isn't an error in the reporting — it's what a fortune looks like three years into a career that's still being built.</p>
+<p>Here's what's actually documented, and what the World Cup win genuinely changes.</p>
+
+<div class="quick-facts">
+  <h2>Lamine Yamal Net Worth at a Glance</h2>
+  <div class="quick-facts-scroll">
+  <table>
+    <tr><td>Full Name</td><td>Lamine Yamal Nasraoui Ebana</td></tr>
+    <tr><td>Born</td><td>July 13, 2007, Esplugues de Llobregat, Spain</td></tr>
+    <tr><td>Age</td><td>19</td></tr>
+    <tr><td>Profession</td><td>Professional footballer &mdash; Barcelona and Spain</td></tr>
+    <tr><td>Estimated Net Worth (2026)</td><td>$8 million&ndash;$15 million (unverified)</td></tr>
+    <tr><td>Reported Salary</td><td>~&euro;16.7 million/year gross, plus bonuses</td></tr>
+    <tr><td>Contract</td><td>Barcelona through 2031; &euro;1 billion release clause</td></tr>
+    <tr><td>Main Sponsor</td><td>Adidas &mdash; 10-year deal reported up to $34 million</td></tr>
+    <tr><td>2026 Milestone</td><td>Youngest player to win both the World Cup and Euros</td></tr>
+    <tr><td>2025 Ballon d'Or</td><td>Runner-up; won the Kopa Trophy for a second time</td></tr>
+  </table>
+  </div>
+</div>
+
+<h2>What Actually Happened at the 2026 World Cup</h2>
+<p>Spain beat Argentina 1-0 in the final on July 19, 2026, in East Rutherford, New Jersey, with Ferran Torres scoring the winner in extra time, <a href="https://www.nbcsports.com/soccer/news/lamine-yamal-shines-in-world-cup-final-as-lionel-messi-passes-the-baton" target="_blank" rel="nofollow noopener">according to NBC Sports' coverage of the final</a>. Yamal started every match of the tournament except the opener and scored during the group stage as Spain won Group H, having been named in Spain's 26-man squad alongside seven other Barcelona teammates.</p>
+<p>The detail that made headlines wasn't just the result. Yamal became the youngest player in football history to hold both a World Cup and a European Championship title, achieving it within days of turning 19 — he had already won Euro 2024 as a 16-year-old. Coverage of the final leaned heavily on the symbolism of Lionel Messi, playing his last tournament for Argentina, effectively handing the stage to Yamal in the same match, with commentators framing it explicitly as a changing of the guard.</p>
+<p>None of that changes his bank balance today. What it does is set up the next 12 months as the period where his commercial value is most likely to move.</p>
+<p>The celebration itself became its own moment of coverage — his young half-brother sprinted onto the pitch after the final whistle and was scooped up in a hug, a clip that circulated almost as widely as the match result itself. It's a reminder that a chunk of Yamal's commercial value already comes from being a genuinely likeable public figure, not just an elite footballer, which matters for endorsement longevity in a way pure performance statistics don't capture.</p>
+
+<h2>The Road to the Final</h2>
+<p>Spain's route to the title ran through a period of genuine uncertainty around Yamal's fitness. Head coach Luis de la Fuente had expressed doubts about whether Yamal, alongside Nico Williams and Mikel Merino, would be ready for the tournament opener at all.</p>
+<p>He was ready enough to start every match except that first one, and <a href="https://www.espn.com/soccer/story/_/id/48870392/spain-world-cup-2026-squad-confirmed-lamine-yamal-stars-no-real-madrid-players" target="_blank" rel="nofollow noopener">Spain's squad selection notably excluded any Real Madrid players</a> — an unusual dynamic in itself, and one that placed even more weight on the Barcelona contingent, Yamal included, to deliver.</p>
+<p>His form built through the tournament rather than peaking early — the more demanding pattern for a teenager to sustain across a month-long competition, and one that made the final performance land as a culmination rather than a surprise.</p>
+
+<h2>From La Masia to a World Cup Final</h2>
+<p>Yamal came through Barcelona's La Masia academy, the same system that produced Messi, Xavi and Iniesta, and made his first-team debut in 2023 at 16 — becoming the club's youngest-ever first-team player at the time.</p>
+<p>What followed was unusually fast even by the standards of a famous academy. Euro 2024 introduced him to a global audience at 16, the Ballon d'Or nomination followed at 17, the Barcelona renewal and Adidas deal landed either side of his 18th birthday, and the World Cup arrived before he turned 20. Most players who reach a World Cup final are in their late twenties; Yamal reached one before finishing the phase of his career usually spent establishing a first-team place.</p>
+<p>That compressed timeline is directly relevant to the net worth question. Normally, wealth accumulation and on-field achievement move at roughly the same pace across a career. For Yamal, the achievements have arrived first, and the accumulated wealth is still working to catch up — which is precisely why the estimate looks small relative to the accomplishment.</p>
+
+<h2>Why the Salary and Net Worth Numbers Don't Match</h2>
+<p>This is the part most coverage glosses over. A €16.7 million annual salary sounds like it should produce a much larger net worth than $8-15 million — and for an established veteran, it would.</p>
+<p>Yamal turned professional at Barcelona in 2023 and only began earning senior-level wages recently, following his May 2025 contract renewal. Even at a high salary, converting income into net worth takes years: tax in Spain at his income level is substantial, agent and representation fees apply, and family and household costs for a teenager whose career only recently took off are real, if rarely itemised publicly.</p>
+<p>A useful way to think about it: net worth is a stock, salary is a flow. He has one very large flow and only a few years of it banked. The number will look completely different in five years purely from that accumulation, without anything else changing.</p>
+
+<h2>The Barcelona Contract</h2>
+<p>His May 2025 renewal runs through 2031 and carries a reported release clause of €1 billion. That figure isn't a market valuation — release clauses at that scale are set deliberately prohibitive, designed to make an approach practically impossible rather than to reflect what any club would actually pay.</p>
+<p>The salary itself — around €16.7 million gross before bonuses, with performance incentives capable of pushing total compensation above €25 million — reflects a club moving early to lock in a generational talent well before his value could be tested by outside offers.</p>
+<p>That timing detail is worth dwelling on. Clubs typically wait to see whether a young player's early form holds before committing to a long-term, high-value contract. Barcelona moved a full year before this World Cup, which means the deal was priced on Yamal's Euro 2024 breakout and subsequent club form alone — the World Cup win happened entirely inside a contract that had already locked in his terms, adding to his stature without changing what Barcelona currently owes him.</p>
+
+<h2>Endorsements</h2>
+<p>His commercial portfolio is unusually mature for his age. The central deal is a 10-year partnership with Adidas signed in 2024, reported at up to $34 million over the life of the contract — a structure that suggests the brand is betting on two decades of relevance rather than a short-term marketing push.</p>
+<p>Beyond Adidas, reported partnerships include Beats by Dre, Visa, Konami and Powerade. Combined endorsement income is estimated at around $10 million a year, which for a teenager is already a substantial income stream independent of his football salary.</p>
+<p>A ten-year sponsor commitment signed when a player is 17 is itself a signal worth reading. Brands generally reserve decade-long terms for athletes they expect to remain culturally relevant well past their playing peak — the kind of bet usually made on a small handful of players per generation, not a routine endorsement renewal.</p>
+
+<h2>The Ballon d'Or Question</h2>
+<p>Yamal finished runner-up in the 2025 Ballon d'Or, becoming the youngest player ever nominated at 17. Had he won, he would have been the youngest Ballon d'Or recipient and the first teenager to win it in the award's history.</p>
+<p>A World Cup win as a starting player for the eventual champions is one of the strongest cases a candidate can present for the following year's award. He is not the only contender — teammates and Argentine opponents from the same final will also be in the conversation — but a genuine Ballon d'Or win would carry direct commercial weight: sponsors and clubs both price it into future deals, and it would resolve the near-miss from 2025 in the most decisive way available.</p>
+
+<h2>How This Compares to Other Young Footballers</h2>
+<p>Being a generational talent doesn't automatically produce a generational net worth this early — that takes time regardless of ability, and Yamal's case shows it plainly. A footballer's peak earning years typically run through their late twenties and early thirties, once salary, endorsements and, for some, a move to a bigger market or league all compound together.</p>
+<p>What's genuinely unusual is the endorsement side arriving this early and at this scale. Most 19-year-olds, even excellent ones, don't have a $34 million shoe deal already signed.</p>
+
+<h2>What Could Move the Number From Here</h2>
+<ul>
+<li><strong>The 2026 Ballon d'Or</strong> — he finished runner-up in 2025, and a World Cup win as a starting player makes him a serious contender. A win would be commercially significant on top of the honour itself</li>
+<li><strong>New or renegotiated endorsements</strong> — World Cup performances are exactly the moment brands revisit terms</li>
+<li><strong>Continued salary accumulation</strong> — simply banking his existing Barcelona contract over the next several years, without anything else changing</li>
+<li><strong>A future contract renewal</strong> — the 2031 deal is years away, but his next negotiation will happen from a completely different position than his last one</li>
+</ul>
+<p>None of these are guaranteed, and a serious injury or loss of form remains the biggest downside risk at this stage of any young player's career — the same volatility that makes early-career net worth estimates for any 19-year-old inherently unstable.</p>
+
+<h2>A Quick Timeline</h2>
+<div class="quick-facts">
+<div class="quick-facts-scroll">
+<table>
+  <tr><td>2007</td><td>Born July 13 in Esplugues de Llobregat, Spain</td></tr>
+  <tr><td>2023</td><td>Barcelona first-team debut as a 16-year-old</td></tr>
+  <tr><td>2024</td><td>Wins Euro 2024 with Spain at 16; signs 10-year Adidas deal</td></tr>
+  <tr><td>2025</td><td>Renews Barcelona contract through 2031; runner-up in the Ballon d'Or; wins Kopa Trophy again</td></tr>
+  <tr><td>June 2026</td><td>Named in Spain's World Cup squad; wins Group H</td></tr>
+  <tr><td>July 13, 2026</td><td>Turns 19 during the tournament</td></tr>
+  <tr><td>July 19, 2026</td><td>Wins the World Cup final as Spain beats Argentina 1-0</td></tr>
+</table>
+</div>
+</div>
+
+<h2>How This Estimate Compares to Others on This Site</h2>
+<p>Yamal is a useful contrast to a profile like <a href="/neymar-net-worth-after-world-cup-2026">Neymar's net worth after the same tournament</a> — one player near the end of his accumulation curve with a fortune largely already banked, the other barely at the start of his. Both estimates carry real uncertainty, but for opposite reasons: Neymar's because past deals were never fully disclosed, Yamal's because there simply isn't much history yet to estimate from.</p>
+<p>See our <a href="/about-us">verification standard</a> for how we handle that distinction, or browse more <a href="/net-worth">verified net worth profiles</a> of athletes and public figures.</p>
+
+<h2>Conclusion</h2>
+<p>Somewhere between $8 million and $15 million is a reasonable estimate for Lamine Yamal in 2026 — not because his talent or earning power is in question, but because he is still early in the process of turning both into accumulated wealth.</p>
+<p>The number that matters more than any net worth estimate right now is the one already confirmed: youngest player in history to win the World Cup and the European Championship, at 19. The financial figures are still catching up to that.</p>
+
+<div class="post-faq">
+  <details><summary>What is Lamine Yamal's net worth in 2026?</summary><p>Estimates vary from $5-8 million to $8-15 million. No figure is officially confirmed, and the range is unusually wide given he is only about three years into his professional career.</p></details>
+  <details><summary>How much does Lamine Yamal earn at Barcelona?</summary><p>Following his May 2025 contract renewal, his salary is reported at roughly €16.7 million gross per year before bonuses, with performance incentives potentially pushing total annual earnings above €25 million.</p></details>
+  <details><summary>Why is his net worth so much lower than his salary?</summary><p>Because he has only been earning senior wages since 2023-24, and even a very high salary takes years to convert into accumulated net worth after tax, agent fees, and family support costs. A one-year salary figure isn't a wealth figure.</p></details>
+  <details><summary>How much is the Adidas deal worth?</summary><p>Reported at up to $34 million over a 10-year term signed in 2024, alongside other partnerships including Beats by Dre, Visa, Konami and Powerade.</p></details>
+  <details><summary>What is Lamine Yamal's release clause?</summary><p>Reported at €1 billion as part of his contract renewal through 2031 — a figure set deliberately high to deter any approach, not a market valuation of the player.</p></details>
+  <details><summary>Did Lamine Yamal win the 2026 World Cup?</summary><p>Yes. Spain beat Argentina 1-0 in the final on July 19, 2026, with Yamal playing a starring role. He became the youngest player in history to win both the World Cup and the European Championship, achieving it days after his 19th birthday.</p></details>
+  <details><summary>How old is Lamine Yamal?</summary><p>He was born on July 13, 2007, making him 19 as of the 2026 World Cup win.</p></details>
+  <details><summary>Did Lamine Yamal win the Ballon d'Or?</summary><p>He finished runner-up in the 2025 Ballon d'Or and won the Kopa Trophy for a second time. Following Spain's 2026 World Cup win, he is widely considered a leading contender for the 2026 award.</p></details>
+  <details><summary>How does his net worth compare to other young footballers?</summary><p>It sits in a similar range to other elite teenage talents at equivalent career stages, well below established veterans whose endorsement portfolios and accumulated earnings have compounded over a decade or more.</p></details>
+  <details><summary>What could increase his net worth fastest?</summary><p>A 2026 Ballon d'Or win, new or renegotiated endorsement deals reflecting his World Cup performance, and simply continued accumulation of his existing Barcelona salary over the coming years.</p></details>
+  <details><summary>Is Lamine Yamal the youngest World Cup winner?</summary><p>Not the youngest ever to win the tournament, but he is the youngest player in history to hold both a World Cup and a European Championship title, achieved within days of turning 19.</p></details>
+  <details><summary>Who called Lamine Yamal Messi's successor?</summary><p>Media coverage of the World Cup final framed his performance against Argentina, played alongside the retiring Lionel Messi's final tournament, as a symbolic passing of the torch, though this is a media narrative rather than an official designation.</p></details>
+</div>
+`
+  },
+  {
     slug: 'neymar-net-worth-after-world-cup-2026',
     title: 'Neymar Net Worth After the 2026 World Cup and Retirement',
     seoTitle: 'Neymar Net Worth After the 2026 World Cup and Retirement',
@@ -10,7 +147,7 @@ module.exports = [
     netWorth: '~$450M (unverified)',
     profession: 'Professional Footballer, Investor',
     category: 'entrepreneurs',
-    image: '/images/articles/neymar-photo.jpg',
+    image: '/images/articles/neymar-net-worth-thumb.jpg',
     faqs: [
       { q: "What is Neymar's net worth in 2026?", a: 'Estimates put it at around $450 million. The figure is unverified and built from reported transfer fees, salaries and endorsements rather than any disclosed accounts.' },
       { q: 'How much does Neymar earn at Santos?', a: 'Far less than most sites report. His Santos base salary is around R$1 million per month, with total earnings potentially reaching roughly $1 million monthly once his 90% image rights share is included — a fraction of his Al Hilal deal.' },
@@ -198,7 +335,7 @@ module.exports = [
     netWorth: '$40M - $50M (unverified)',
     profession: 'Broadcast Journalist, Attorney',
     category: 'legal-media',
-    image: '/images/articles/savannah-guthrie-photo.jpg',
+    image: '/images/articles/savannah-guthrie-net-worth-thumb.jpg',
     faqs: [
       { q: "What is Savannah Guthrie's net worth in 2026?", a: 'Estimates range from about $40 million to $50 million. Celebrity Net Worth lists $50 million; other outlets put it nearer $40 million. No figure is officially confirmed.' },
       { q: "What is Savannah Guthrie's Today show salary?", a: 'Reported figures vary widely — from around $8 million to $24 million per year. The gap likely reflects base salary versus total package including bonuses and other NBC work, but NBC has never disclosed terms.' },
@@ -362,7 +499,7 @@ module.exports = [
     netWorth: '~$200M (unverified)',
     profession: 'Mixed Martial Artist, Business Owner',
     category: 'entrepreneurs',
-    image: '/images/articles/conor-mcgregor-photo.jpg',
+    image: '/images/articles/conor-mcgregor-net-worth-thumb.jpg',
     faqs: [
       { q: "What is Conor McGregor's net worth in 2026?", a: 'Most estimates put it around $200 million. No figure is officially confirmed — the estimate is built from reported fight purses, the Proper No. Twelve sale, and endorsement deals, none of which are fully disclosed.' },
       { q: 'How much did Conor McGregor make from the Mayweather fight?', a: 'Reported at roughly $100 million pre-tax for the August 2017 boxing match. It remains the single largest payday of his career and neither camp published exact figures.' },
@@ -528,7 +665,7 @@ module.exports = [
     netWorth: '$30M - $40M (unverified)',
     profession: 'YouTuber, Livestreamer, Rapper',
     category: 'entertainment',
-    image: '/images/articles/ishowspeed-photo.jpg',
+    image: '/images/articles/ishowspeed-net-worth-thumb.jpg',
     faqs: [
       { q: "What is IShowSpeed's net worth in 2026?", a: 'Estimates put it between $30 million and $40 million. Celebrity Net Worth lists $35 million; Forbes tracked roughly $30 million in gross earnings for the year ending March 2026.' },
       { q: "What is IShowSpeed's real name?", a: 'Darren Jason Watkins Jr.' },
@@ -669,7 +806,7 @@ module.exports = [
     netWorth: '$4M - $12M (at death, 2020)',
     profession: 'Actor',
     category: 'legal-media',
-    image: '/images/articles/chadwick-boseman-photo.jpg',
+    image: '/images/articles/chadwick-boseman-net-worth-thumb.jpg',
     faqs: [
       { q: "What was Chadwick Boseman's net worth when he died?", a: 'Estimates ranged from $4 million to $12 million. His formal probate estate was initially valued at about $938,500, with assets later accounted at more than $3.8 million.' },
       { q: 'Did Chadwick Boseman leave a will?', a: 'No. He died intestate in August 2020, which is why his estate went through California probate court and why the filings became public.' },
@@ -845,7 +982,7 @@ module.exports = [
     netWorth: '$30M - $50M (unverified)',
     profession: 'DJ, Producer, Record Label Owner',
     category: 'entertainment',
-    image: '/images/articles/martin-garrix-photo.jpg',
+    image: '/images/articles/martin-garrix-net-worth-thumb.jpg',
     faqs: [
       { q: 'What is Martin Garrix\'s net worth in 2026?', a: 'Estimates range from $30 million to $50 million. Celebrity Net Worth lists $30 million; several other outlets estimate $35-50 million. No figure is officially confirmed.' },
       { q: 'How much does Martin Garrix earn per year?', a: 'His highest verified annual figure is $19.5 million (Forbes, 2017, pre-tax). Current annual earnings aren\'t publicly documented since Forbes stopped publishing its DJ earnings list.' },
