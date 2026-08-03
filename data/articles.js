@@ -1902,9 +1902,9 @@ module.exports = [
   {
     slug: 'josh-kesselman-net-worth-2026',
     title: 'Josh Kesselman Net Worth 2026: The RAW Rolling Papers Story',
-    seoTitle: 'Josh Kesselman Net Worth 2026: RAW Founder, HBI International & Verified Facts',
+    seoTitle: 'Josh Kesselman Net Worth 2026: RAW Founder, Verified Facts',
     excerpt: "Josh Kesselman net worth 2026: estimates range from $45 million to over $150 million. Here's what's actually documented about the RAW rolling papers founder, HBI International, and the Forbes lawsuit that exposed his exaggerated claims.",
-    metaDescription: "Josh Kesselman net worth 2026: how the RAW rolling papers founder built HBI International into a reported $200 million brand, the Forbes 'Pinocchio of Pot' lawsuit, and why net worth estimates vary so widely.",
+    metaDescription: "Josh Kesselman net worth 2026: how the RAW rolling papers founder built a $200M brand, and the Forbes lawsuit that exposed his exaggerated claims.",
     date: '2026-07-25',
     author: 'Richlytic Editorial',
     netWorth: '$45M - $150M',
